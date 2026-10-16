@@ -1,0 +1,15 @@
+{
+ "block": "{\n \"attributes\": {\n  \"href\": \"#\"\n },\n \"baseStyles\": {\n  \"active:color\": \"var(--25f7846d-5c1c-4872-9956-813f1ce3aa3a)\",\n  \"alignItems\": \"center\",\n  \"backgroundColor\": \"#ffffff\",\n  \"display\": \"flex\",\n  \"flexDirection\": \"column\",\n  \"flexShrink\": \"0\",\n  \"height\": \"37px\",\n  \"hover:background\": \"#383838\",\n  \"hover:backgroundColor\": \"var(--defec0d6-bca3-4625-80c6-ab9e6fdaa618)\",\n  \"justifyContent\": \"center\",\n  \"overflowX\": \"hidden\",\n  \"overflowY\": \"hidden\",\n  \"padding\": \"6px 8px\",\n  \"transition\": \"all 0.1s ease-out\",\n  \"transitionDuration\": \"300ms\",\n  \"transitionProperty\": \"all\",\n  \"transitionTimingFunction\": \"ease\",\n  \"width\": \"fit-content\"\n },\n \"blockId\": \"g8q6goff3\",\n \"blockName\": \"button-link\",\n \"children\": [\n  {\n   \"baseStyles\": {\n    \"color\": \"var(--21c524f4-dd2c-42d5-b295-8cbbe79cbf3b)\",\n    \"fontSize\": \"12px\",\n    \"fontWeight\": \"700\",\n    \"height\": \"fit-content\",\n    \"letterSpacing\": \"0.28px\",\n    \"lineHeight\": \"115%\",\n    \"minWidth\": \"30px\",\n    \"padding\": \"20px\",\n    \"position\": \"static\",\n    \"transitionDuration\": \"300ms\",\n    \"transitionProperty\": \"all\",\n    \"transitionTimingFunction\": \"ease\",\n    \"width\": \"fit-content\"\n   },\n   \"blockId\": \"o64d6bhq8\",\n   \"classes\": [\n    \"wbuttont\"\n   ],\n   \"element\": \"p\",\n   \"innerHTML\": \"All programmes\",\n   \"isRepeaterBlock\": false\n  }\n ],\n \"classes\": [\n  \"wbutton\"\n ],\n \"element\": \"a\",\n \"isRepeaterBlock\": false\n}",
+ "component_data_script": "",
+ "component_id": "9931efa37ae9d048",
+ "component_name": "white_button",
+ "creation": "2026-10-16 09:18:04.827302",
+ "docstatus": 0,
+ "doctype": "Builder Component",
+ "for_web_page": null,
+ "idx": 0,
+ "modified": "2026-10-16 11:24:44.177674",
+ "modified_by": "Administrator",
+ "name": "9931efa37ae9d048",
+ "owner": "Administrator"
+}

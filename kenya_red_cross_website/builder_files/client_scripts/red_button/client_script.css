@@ -1,0 +1,44 @@
+.rbutton,
+.rbutton:hover,
+.rbutton:focus,
+.rbutton:active {
+    background: red !important;   /* or your normal button color */
+    border: none;                         /* or keep your own border */
+}
+
+.rbutton {
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.rbutton::before {
+    content: "";
+    position: absolute;
+    inset: -1px;                   /* 1px overscan hides hairline gaps */
+    background: #011E41;
+    transform: scaleY(0);
+    transform-origin: bottom;
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: -1;
+    will-change: transform;
+}
+
+.rbutton:hover::before {
+    transform: scaleY(1);
+    transform-origin: top;
+}
+
+.rbutton:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.rbuttont {
+    transition: color 0.3s ease;
+}
+
+.rbutton:hover .rbuttont {
+    color: white !important;
+}

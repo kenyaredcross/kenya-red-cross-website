@@ -1,0 +1,13 @@
+{
+ "creation": "2026-10-16 08:35:44.259490",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 4,
+ "modified": "2026-10-16 09:00:25.382315",
+ "modified_by": "Administrator",
+ "name": "card",
+ "owner": "Administrator",
+ "public_url": "/files/page_styles/CSS-e15d5-d77519acba.css?v=d1eb98a42d",
+ "script": ".hover-card {\n    position: relative;\n    overflow: hidden;\n    z-index: 1;\n    transition: transform 0.3s ease, box-shadow 0.3s ease;\n}\n\n.hover-card::before {\n    content: \"\";\n    position: absolute;\n    inset: 0;                      /* top/left/right/bottom: 0 */\n    background: #011E41;\n    transform: scaleX(0);\n    transform-origin: right;       /* un-hover: collapses toward the right */\n    transition: transform 0.6s ease;\n    z-index: -1;\n}\n\n.hover-card:hover::before {\n    transform: scaleX(1);\n    transform-origin: left;        /* hover: expands from the left */\n}\n\n.hover-card:hover {\n    transform: translateY(-8px);\n    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);\n}\n\n.hover-card:hover .hovert {\n    color: white !important;\n}\n",
+ "script_type": "CSS"
+}

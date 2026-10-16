@@ -1,0 +1,44 @@
+.wbutton,
+.wbutton:hover,
+.wbutton:focus,
+.wbutton:active {
+    background: transparent !important;   /* or your normal button color */
+    border: none;                         /* or keep your own border */
+}
+
+.wbutton {
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.wbutton::before {
+    content: "";
+    position: absolute;
+    inset: -1px;                   /* 1px overscan hides hairline gaps */
+    background: #011E41;
+    transform: scaleY(0);
+    transform-origin: bottom;
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: -1;
+    will-change: transform;
+}
+
+.wbutton:hover::before {
+    transform: scaleY(1);
+    transform-origin: top;
+}
+
+.wbutton:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.wbuttont {
+    transition: color 0.3s ease;
+}
+
+.wbutton:hover .wbuttont {
+    color: white !important;
+}

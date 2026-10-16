@@ -1,0 +1,15 @@
+{
+ "block": "{\n \"baseStyles\": {\n  \"color\": \"#ff0000\",\n  \"fontSize\": \"1rem\",\n  \"fontWeight\": \"800\",\n  \"height\": \"fit-content\",\n  \"lineHeight\": \"1.4\",\n  \"minWidth\": \"10px\",\n  \"width\": \"fit-content\"\n },\n \"blockId\": \"xt5437sqd\",\n \"element\": \"h1\",\n \"innerHTML\": \"Kenya Red Cross Society\"\n}",
+ "component_data_script": null,
+ "component_id": "368ae12e8743ed06",
+ "component_name": "heading",
+ "creation": "2026-10-13 07:57:21.184172",
+ "docstatus": 0,
+ "doctype": "Builder Component",
+ "for_web_page": "page-61b56015",
+ "idx": 0,
+ "modified": "2026-10-13 07:57:21.184172",
+ "modified_by": "Administrator",
+ "name": "368ae12e8743ed06",
+ "owner": "Administrator"
+}

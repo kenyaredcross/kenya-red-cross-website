@@ -1,0 +1,16 @@
+{
+ "creation": "2026-10-13 07:52:48.407231",
+ "dark_value": null,
+ "docstatus": 0,
+ "doctype": "Builder Token",
+ "group": "",
+ "idx": 0,
+ "is_standard": 0,
+ "modified": "2026-10-16 07:33:18.848245",
+ "modified_by": "Administrator",
+ "name": "21c524f4-dd2c-42d5-b295-8cbbe79cbf3b",
+ "owner": "Administrator",
+ "token_name": "textb",
+ "type": "Color",
+ "value": "#14213a"
+}

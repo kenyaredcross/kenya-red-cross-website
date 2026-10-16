@@ -1,0 +1,13 @@
+{
+ "creation": "2026-10-13 16:42:52.508642",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 54,
+ "modified": "2026-10-16 09:08:45.539890",
+ "modified_by": "Administrator",
+ "name": "red-button",
+ "owner": "Administrator",
+ "public_url": "/files/page_styles/CSS-15074-59845b2f5a.css?v=915499a9ce",
+ "script": ".rbutton,\n.rbutton:hover,\n.rbutton:focus,\n.rbutton:active {\n    background: red !important;   /* or your normal button color */\n    border: none;                         /* or keep your own border */\n}\n\n.rbutton {\n    position: relative;\n    overflow: hidden;\n    z-index: 1;\n    transition: transform 0.3s ease, box-shadow 0.3s ease;\n}\n\n.rbutton::before {\n    content: \"\";\n    position: absolute;\n    inset: -1px;                   /* 1px overscan hides hairline gaps */\n    background: #011E41;\n    transform: scaleY(0);\n    transform-origin: bottom;\n    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);\n    z-index: -1;\n    will-change: transform;\n}\n\n.rbutton:hover::before {\n    transform: scaleY(1);\n    transform-origin: top;\n}\n\n.rbutton:hover {\n    transform: translateY(-4px);\n    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);\n}\n\n.rbuttont {\n    transition: color 0.3s ease;\n}\n\n.rbutton:hover .rbuttont {\n    color: white !important;\n}",
+ "script_type": "CSS"
+}
