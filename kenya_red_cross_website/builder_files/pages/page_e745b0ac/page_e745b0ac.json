@@ -1,0 +1,1747 @@
+{
+ "app": "kenya_red_cross_website",
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "baseStyles": {
+    "alignItems": "flex-start",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "flexWrap": "wrap",
+    "justifyContent": "flex-start",
+    "position": "static"
+   },
+   "blockId": "root",
+   "children": [
+    {
+     "baseStyles": {
+      "borderColor": "#ff0000",
+      "borderStyle": "solid",
+      "borderWidth": "0px 0px 2px 0px"
+     },
+     "blockId": "lhsb8dg49",
+     "blockName": "navbar",
+     "children": [
+      {
+       "blockId": "4nvenb417",
+       "blockName": "container",
+       "children": [
+        {
+         "blockId": "g41wvyoq9",
+         "blockName": "container",
+         "children": [
+          {
+           "blockId": "4xb562tsa",
+           "isChildOfComponent": "19b569c9e359a1fc",
+           "isRepeaterBlock": false,
+           "referenceBlockId": "l0sscycam"
+          }
+         ],
+         "isChildOfComponent": "19b569c9e359a1fc",
+         "isRepeaterBlock": false,
+         "referenceBlockId": "fycf9lccs"
+        },
+        {
+         "blockId": "nf8393w5d",
+         "children": [
+          {
+           "blockId": "hzeppwzs7",
+           "isChildOfComponent": "19b569c9e359a1fc",
+           "isRepeaterBlock": false,
+           "referenceBlockId": "ntgpt4mre"
+          },
+          {
+           "blockId": "escp5snax",
+           "isChildOfComponent": "19b569c9e359a1fc",
+           "isRepeaterBlock": false,
+           "referenceBlockId": "fqt6y75t5"
+          },
+          {
+           "blockId": "x5z0r4kc5",
+           "isChildOfComponent": "19b569c9e359a1fc",
+           "isRepeaterBlock": false,
+           "referenceBlockId": "r6y0oz7x7"
+          },
+          {
+           "blockId": "3tiz9ne1m",
+           "isChildOfComponent": "19b569c9e359a1fc",
+           "isRepeaterBlock": false,
+           "referenceBlockId": "ok9cb9p65"
+          },
+          {
+           "blockId": "pbfgdytxq",
+           "isChildOfComponent": "19b569c9e359a1fc",
+           "isRepeaterBlock": false,
+           "referenceBlockId": "2phqg0iml"
+          }
+         ],
+         "isChildOfComponent": "19b569c9e359a1fc",
+         "isRepeaterBlock": false,
+         "referenceBlockId": "sdq6bptiv"
+        },
+        {
+         "blockId": "st3fine04",
+         "blockName": "container",
+         "children": [
+          {
+           "blockId": "q2ruc4ew0",
+           "isChildOfComponent": "19b569c9e359a1fc",
+           "isRepeaterBlock": false,
+           "referenceBlockId": "ku5g3uv4b"
+          }
+         ],
+         "isChildOfComponent": "19b569c9e359a1fc",
+         "isRepeaterBlock": false,
+         "referenceBlockId": "uhzmnay0q"
+        }
+       ],
+       "isChildOfComponent": "19b569c9e359a1fc",
+       "isRepeaterBlock": false,
+       "referenceBlockId": "18x0zy0sd"
+      }
+     ],
+     "componentVersion": "0okoh6jfkg",
+     "extendedFromComponent": "19b569c9e359a1fc",
+     "isRepeaterBlock": false
+    },
+    {
+     "baseStyles": {
+      "alignItems": "flex-start",
+      "backgroundColor": "#ffffff",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "10px",
+      "gridTemplateColumns": "repeat(2, minmax(200px, 1fr))",
+      "height": "326px",
+      "justifyContent": "center",
+      "overflow": "hidden",
+      "padding": "80px 81px 80px 80px",
+      "position": "static",
+      "width": "100%"
+     },
+     "blockId": "ijntqp989",
+     "blockName": "container",
+     "children": [
+      {
+       "baseStyles": {
+        "alignItems": "flex-start",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "10px",
+        "gridTemplateColumns": "repeat(2, minmax(200px, 1fr))",
+        "height": "fit-content",
+        "justifyContent": "center",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "100%"
+       },
+       "blockId": "enxtstyta",
+       "blockName": "container",
+       "children": [
+        {
+         "blockId": "bxzkv68hq",
+         "componentVersion": "vpaeg6ejg6",
+         "extendedFromComponent": "716d2251c26ee963"
+        },
+        {
+         "baseStyles": {
+          "color": "var(--defec0d6-bca3-4625-80c6-ab9e6fdaa618)",
+          "fontSize": "75px",
+          "fontWeight": "bold",
+          "height": "fit-content",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "position": "static",
+          "width": "fit-content"
+         },
+         "blockId": "1firhlveh",
+         "element": "h1",
+         "innerHTML": "Always there."
+        },
+        {
+         "baseStyles": {
+          "color": "#000000",
+          "fontSize": "18px",
+          "height": "fit-content",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "position": "static",
+          "width": "500px"
+         },
+         "blockId": "ka7f3mali",
+         "element": "p",
+         "innerHTML": "Stories of response, resilience and recovery from all 47 counties — told by the communities we serve."
+        }
+       ],
+       "element": "div"
+      }
+     ],
+     "element": "div"
+    },
+    {
+     "baseStyles": {
+      "alignItems": "flex-start",
+      "backgroundImage": "linear-gradient(180deg, #bdbdbd 41%, #6a6970 71%, #444454 100%)",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "15px",
+      "gridTemplateColumns": "repeat(2, minmax(200px, 1fr))",
+      "height": "581px",
+      "justifyContent": "flex-end",
+      "overflow": "hidden",
+      "padding": "80px 81px 80px 80px",
+      "position": "static",
+      "width": "100%"
+     },
+     "blockId": "9jvjxcfj5",
+     "blockName": "container",
+     "children": [
+      {
+       "blockId": "z3vcwyoa7",
+       "componentVersion": "vpaeg6ejg6",
+       "extendedFromComponent": "716d2251c26ee963",
+       "innerHTML": " Feature story · Disaster response"
+      },
+      {
+       "baseStyles": {
+        "color": "#ffffff",
+        "fontSize": "52px",
+        "fontWeight": "bold",
+        "height": "fit-content",
+        "lineHeight": "1.4",
+        "minWidth": "10px",
+        "position": "static",
+        "width": "fit-content"
+       },
+       "blockId": "en9daanyt",
+       "element": "h1",
+       "innerHTML": "When Waters Rise"
+      },
+      {
+       "baseStyles": {
+        "color": "#ffffff",
+        "fontSize": "18px",
+        "height": "fit-content",
+        "lineHeight": "1.4",
+        "minWidth": "10px",
+        "position": "static",
+        "width": "618px"
+       },
+       "blockId": "o44nufiai",
+       "element": "p",
+       "innerHTML": "Inside the response as flooding sweeps 39 counties — and the early-warning system that reached 26 million Kenyans before the water did."
+      },
+      {
+       "attributes": {
+        "href": "#"
+       },
+       "baseStyles": {
+        "alignItems": "center",
+        "borderColor": "#ffffff",
+        "borderRadius": "4px",
+        "borderStyle": "solid",
+        "borderWidth": "1px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": "0",
+        "height": "fit-content",
+        "hover:background": "#383838",
+        "justifyContent": "center",
+        "padding": "22px",
+        "transition": "all 0.1s ease-out",
+        "width": "fit-content"
+       },
+       "blockId": "tuygj3r8g",
+       "blockName": "button-link",
+       "children": [
+        {
+         "baseStyles": {
+          "color": "var(--neutral-white, #FFF)",
+          "fontSize": "18px",
+          "fontWeight": "420",
+          "height": "fit-content",
+          "left": "auto",
+          "letterSpacing": "0.28px",
+          "lineHeight": "115%",
+          "minWidth": "30px",
+          "position": "static",
+          "top": "auto",
+          "width": "fit-content"
+         },
+         "blockId": "mzqf2ndiy",
+         "classes": [
+          "__text_block__"
+         ],
+         "element": "p",
+         "innerHTML": "Read the story"
+        }
+       ],
+       "classes": [
+        "__text_block__"
+       ],
+       "element": "a"
+      }
+     ],
+     "element": "div"
+    },
+    {
+     "baseStyles": {
+      "backgroundColor": "#ffffff",
+      "display": "grid",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "10px",
+      "gridTemplateColumns": "repeat(2, minmax(200px, 1fr))",
+      "height": "fit-content",
+      "overflow": "hidden",
+      "padding": "80px",
+      "position": "static",
+      "width": "100%"
+     },
+     "blockId": "abmv34tla",
+     "blockName": "container",
+     "children": [
+      {
+       "baseStyles": {
+        "alignItems": "flex-start",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "10px",
+        "gridTemplateColumns": "repeat(2, minmax(200px, 1fr))",
+        "height": "fit-content",
+        "justifyContent": "center",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "auto"
+       },
+       "blockId": "6c9qxxe2x",
+       "blockName": "container",
+       "children": [
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "height": "127px",
+          "justifyContent": "space-between",
+          "overflow": "hidden",
+          "position": "static",
+          "width": "100%"
+         },
+         "blockId": "ctwk3tlv2",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "color": "#000000",
+            "fontSize": "20px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "89px"
+           },
+           "blockId": "ybakfevr3",
+           "element": "h1",
+           "innerHTML": "01"
+          },
+          {
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "height": "fit-content",
+            "overflow": "hidden",
+            "position": "relative",
+            "width": "fit-content"
+           },
+           "blockId": "3c16j03r0",
+           "blockName": "container",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "1rem",
+              "fontWeight": "bold",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "fit-content"
+             },
+             "blockId": "pf6a0yzlk",
+             "element": "h1",
+             "innerHTML": "Drought"
+            },
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "20px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "318px"
+             },
+             "blockId": "9ez3b8o1j",
+             "element": "p",
+             "innerHTML": "The Cost of Drought in Turkana"
+            }
+           ],
+           "element": "div"
+          },
+          {
+           "baseStyles": {
+            "flexShrink": 0,
+            "height": "130px",
+            "objectFit": "cover",
+            "position": "static",
+            "width": "21%"
+           },
+           "blockId": "im7gorqx5",
+           "element": "img"
+          }
+         ],
+         "element": "div"
+        }
+       ],
+       "element": "div"
+      },
+      {
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "height": "100%",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "auto"
+       },
+       "blockId": "gv30xfcbn",
+       "blockName": "container",
+       "children": [
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "height": "127px",
+          "justifyContent": "space-between",
+          "overflow": "hidden",
+          "position": "static",
+          "width": "100%"
+         },
+         "blockId": "p9m6s6g1l",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "color": "#000000",
+            "fontSize": "20px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "89px"
+           },
+           "blockId": "0vx10yepg",
+           "element": "h1",
+           "innerHTML": "04"
+          },
+          {
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "height": "fit-content",
+            "overflow": "hidden",
+            "position": "relative",
+            "width": "fit-content"
+           },
+           "blockId": "ja8k3dvtx",
+           "blockName": "container",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "1rem",
+              "fontWeight": "bold",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "fit-content"
+             },
+             "blockId": "ppizb6fp3",
+             "element": "h1",
+             "innerHTML": "Protection"
+            },
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "20px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "318px"
+             },
+             "blockId": "pepe531gf",
+             "element": "p",
+             "innerHTML": "From Tradition to Transition: A Community Rewriting Harmful Norms"
+            }
+           ],
+           "element": "div"
+          },
+          {
+           "baseStyles": {
+            "flexShrink": 0,
+            "height": "130px",
+            "objectFit": "cover",
+            "position": "static",
+            "width": "21%"
+           },
+           "blockId": "73btnqd9i",
+           "element": "img"
+          }
+         ],
+         "element": "div"
+        }
+       ],
+       "element": "div"
+      },
+      {
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "height": "100%",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "auto"
+       },
+       "blockId": "6mgvvy337",
+       "blockName": "container",
+       "children": [
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "height": "127px",
+          "justifyContent": "space-between",
+          "overflow": "hidden",
+          "position": "static",
+          "width": "100%"
+         },
+         "blockId": "xqaouscr9",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "color": "#000000",
+            "fontSize": "20px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "89px"
+           },
+           "blockId": "2os3by3t7",
+           "element": "h1",
+           "innerHTML": "02"
+          },
+          {
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "height": "fit-content",
+            "overflow": "hidden",
+            "position": "relative",
+            "width": "fit-content"
+           },
+           "blockId": "ljhae1crh",
+           "blockName": "container",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "1rem",
+              "fontWeight": "bold",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "fit-content"
+             },
+             "blockId": "cgjgynsu2",
+             "element": "h1",
+             "innerHTML": "Preparedness"
+            },
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "20px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "318px"
+             },
+             "blockId": "zn0h8hlu9",
+             "element": "p",
+             "innerHTML": "How Tana River Communities Prepare Early for Droughts and Floods"
+            }
+           ],
+           "element": "div"
+          },
+          {
+           "baseStyles": {
+            "flexShrink": 0,
+            "height": "130px",
+            "objectFit": "cover",
+            "position": "static",
+            "width": "21%"
+           },
+           "blockId": "1d11mcedh",
+           "element": "img"
+          }
+         ],
+         "element": "div"
+        }
+       ],
+       "element": "div"
+      },
+      {
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "height": "100%",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "auto"
+       },
+       "blockId": "y4bgax45n",
+       "blockName": "container",
+       "children": [
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "height": "127px",
+          "justifyContent": "space-between",
+          "overflow": "hidden",
+          "position": "static",
+          "width": "100%"
+         },
+         "blockId": "42dcpry46",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "color": "#000000",
+            "fontSize": "20px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "89px"
+           },
+           "blockId": "bwdr632c2",
+           "element": "h1",
+           "innerHTML": "05"
+          },
+          {
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "height": "fit-content",
+            "overflow": "hidden",
+            "position": "relative",
+            "width": "fit-content"
+           },
+           "blockId": "y2gwmn4fg",
+           "blockName": "container",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "1rem",
+              "fontWeight": "bold",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "fit-content"
+             },
+             "blockId": "kihlotpq5",
+             "element": "h1",
+             "innerHTML": "Education"
+            },
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "20px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "318px"
+             },
+             "blockId": "fvb9wxr5i",
+             "element": "p",
+             "innerHTML": "Rainwater Tanks Bring Clean Water to Lamu School"
+            }
+           ],
+           "element": "div"
+          },
+          {
+           "baseStyles": {
+            "flexShrink": 0,
+            "height": "130px",
+            "objectFit": "cover",
+            "position": "static",
+            "width": "21%"
+           },
+           "blockId": "wk7zyypcq",
+           "element": "img"
+          }
+         ],
+         "element": "div"
+        }
+       ],
+       "element": "div"
+      },
+      {
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "height": "100%",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "auto"
+       },
+       "blockId": "bosqapkzv",
+       "blockName": "container",
+       "children": [
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "0px",
+          "height": "127px",
+          "justifyContent": "space-between",
+          "overflow": "hidden",
+          "position": "static",
+          "width": "100%"
+         },
+         "blockId": "6l20nt3ts",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "color": "#000000",
+            "fontSize": "20px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "89px"
+           },
+           "blockId": "u2ulh13tj",
+           "element": "h1",
+           "innerHTML": "03"
+          },
+          {
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "height": "fit-content",
+            "overflow": "hidden",
+            "position": "relative",
+            "width": "fit-content"
+           },
+           "blockId": "x5kxk9fzq",
+           "blockName": "container",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "1rem",
+              "fontWeight": "bold",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "fit-content"
+             },
+             "blockId": "sdzaouaa6",
+             "element": "h1",
+             "innerHTML": "WASH"
+            },
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "20px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "318px"
+             },
+             "blockId": "9fcy7d05h",
+             "element": "p",
+             "innerHTML": "Water for Dignity: A Nation's Story of Resilience"
+            }
+           ],
+           "element": "div"
+          },
+          {
+           "baseStyles": {
+            "flexShrink": 0,
+            "height": "130px",
+            "objectFit": "cover",
+            "position": "static",
+            "width": "21%"
+           },
+           "blockId": "titdgf1vf",
+           "element": "img"
+          }
+         ],
+         "element": "div"
+        }
+       ],
+       "element": "div"
+      },
+      {
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "height": "100%",
+        "justifyContent": "space-between",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "auto"
+       },
+       "blockId": "2x7l279tu",
+       "blockName": "container",
+       "children": [
+        {
+         "baseStyles": {
+          "color": "#545353",
+          "fontSize": "15px",
+          "fontWeight": "bold",
+          "height": "fit-content",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "position": "static",
+          "width": "fit-content"
+         },
+         "blockId": "4ve9opwen",
+         "element": "h1",
+         "innerHTML": "Six decades of humanitarian storytelling."
+        },
+        {
+         "blockId": "3d0pls9cv",
+         "componentVersion": "j2ce7aija5",
+         "extendedFromComponent": "123156f6ef17a8f8"
+        }
+       ],
+       "element": "div"
+      }
+     ],
+     "element": "div"
+    },
+    {
+     "baseStyles": {
+      "backgroundColor": "var(--defec0d6-bca3-4625-80c6-ab9e6fdaa618)",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "height": "879px",
+      "overflow": "hidden",
+      "padding": "80px",
+      "position": "static",
+      "width": "100%"
+     },
+     "blockId": "xtyu15x7w",
+     "blockName": "container",
+     "children": [
+      {
+       "blockId": "5g2wbn653",
+       "componentVersion": "vpaeg6ejg6",
+       "extendedFromComponent": "716d2251c26ee963",
+       "innerHTML": "Why it matters"
+      },
+      {
+       "baseStyles": {
+        "color": "#ffffff",
+        "fontSize": "43px",
+        "fontWeight": "700",
+        "height": "fit-content",
+        "lineHeight": "1.4",
+        "minWidth": "10px",
+        "position": "static",
+        "width": "806px"
+       },
+       "blockId": "0q0dchywn",
+       "element": "p",
+       "innerHTML": "\"Every year, 5 million Kenyans are reached by 260,000 volunteers and members — in every one of the 47 counties.\""
+      },
+      {
+       "baseStyles": {
+        "display": "grid",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "10px",
+        "gridAutoColumns": "minmax(0, 1fr)",
+        "gridTemplateColumns": "repeat(1, minmax(0, 1fr))",
+        "height": "440px",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "100%"
+       },
+       "blockId": "ccn75yxlw",
+       "blockName": "container",
+       "children": [
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "borderColor": "#999999",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "height": "100%",
+          "justifyContent": "space-between",
+          "overflow": "hidden",
+          "position": "static",
+          "width": "auto"
+         },
+         "blockId": "fw8nlklx1",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "color": "#ffffff",
+            "fontSize": "20px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "gs8r44nc5",
+           "element": "h1",
+           "innerHTML": "Disaster Management"
+          },
+          {
+           "blockId": "urex9p9rn",
+           "componentVersion": "j2ce7aija5",
+           "extendedFromComponent": "123156f6ef17a8f8",
+           "innerHTML": "Explore →"
+          }
+         ],
+         "element": "div"
+        },
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "borderColor": "#999999",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "height": "100%",
+          "justifyContent": "space-between",
+          "overflow": "hidden",
+          "position": "static",
+          "width": "auto"
+         },
+         "blockId": "2vr241vw0",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "color": "#ffffff",
+            "fontSize": "20px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "99x16twvz",
+           "element": "h1",
+           "innerHTML": "Health"
+          },
+          {
+           "blockId": "ec3kpd61a",
+           "componentVersion": "j2ce7aija5",
+           "extendedFromComponent": "123156f6ef17a8f8",
+           "innerHTML": "Explore →"
+          }
+         ],
+         "element": "div"
+        },
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "borderColor": "#999999",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "height": "100%",
+          "justifyContent": "space-between",
+          "overflow": "hidden",
+          "position": "static",
+          "width": "auto"
+         },
+         "blockId": "1kimop5ay",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "color": "#ffffff",
+            "fontSize": "20px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "txrpqhac6",
+           "element": "h1",
+           "innerHTML": "Youth Development"
+          },
+          {
+           "blockId": "eh63217fe",
+           "componentVersion": "j2ce7aija5",
+           "extendedFromComponent": "123156f6ef17a8f8",
+           "innerHTML": "Explore →"
+          }
+         ],
+         "element": "div"
+        },
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "height": "100%",
+          "justifyContent": "space-between",
+          "overflow": "hidden",
+          "position": "static",
+          "width": "auto"
+         },
+         "blockId": "6d5wd5haj",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "color": "#ffffff",
+            "fontSize": "20px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "8bbhb9epx",
+           "element": "h1",
+           "innerHTML": "Special Programmes"
+          },
+          {
+           "blockId": "2nmq8guys",
+           "componentVersion": "j2ce7aija5",
+           "extendedFromComponent": "123156f6ef17a8f8",
+           "innerHTML": "Explore →"
+          }
+         ],
+         "element": "div"
+        }
+       ],
+       "element": "div"
+      }
+     ],
+     "element": "div"
+    },
+    {
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "#ffffff",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexShrink": 0,
+      "height": "243px",
+      "justifyContent": "space-between",
+      "overflow": "hidden",
+      "padding": "80px",
+      "position": "static",
+      "width": "100%"
+     },
+     "blockId": "vio3qm0zs",
+     "blockName": "container",
+     "children": [
+      {
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "height": "fit-content",
+        "overflow": "hidden",
+        "position": "relative",
+        "width": "fit-content"
+       },
+       "blockId": "24mns3x3n",
+       "blockName": "container",
+       "children": [
+        {
+         "blockId": "l7ftrbl8j",
+         "componentVersion": "vpaeg6ejg6",
+         "extendedFromComponent": "716d2251c26ee963",
+         "innerHTML": "Get involved"
+        },
+        {
+         "baseStyles": {
+          "color": "var(--defec0d6-bca3-4625-80c6-ab9e6fdaa618)",
+          "fontSize": "53px",
+          "fontWeight": "bold",
+          "height": "fit-content",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "position": "static",
+          "width": "fit-content"
+         },
+         "blockId": "0oyqxaxda",
+         "element": "h1",
+         "innerHTML": "Be part of the next story."
+        },
+        {
+         "baseStyles": {
+          "color": "#000000",
+          "fontSize": "18px",
+          "height": "fit-content",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "position": "static",
+          "width": "fit-content"
+         },
+         "blockId": "ifnk06txi",
+         "element": "p",
+         "innerHTML": "Volunteer, become a member, or support an active emergency response."
+        }
+       ],
+       "element": "div"
+      },
+      {
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "30px",
+        "height": "fit-content",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "fit-content"
+       },
+       "blockId": "o7ey39e8e",
+       "blockName": "container",
+       "children": [
+        {
+         "attributes": {
+          "href": "#"
+         },
+         "baseStyles": {
+          "alignItems": "center",
+          "backgroundColor": "#ff0000",
+          "borderRadius": "4px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": "0",
+          "height": "fit-content",
+          "hover:background": "#383838",
+          "justifyContent": "center",
+          "padding": "6px 8px",
+          "transition": "all 0.1s ease-out",
+          "width": "fit-content"
+         },
+         "blockId": "7i12j8hqr",
+         "blockName": "button-link",
+         "children": [
+          {
+           "baseStyles": {
+            "color": "var(--neutral-white, #FFF)",
+            "fontSize": "18px",
+            "fontWeight": "420",
+            "height": "fit-content",
+            "left": "auto",
+            "letterSpacing": "0.28px",
+            "lineHeight": "115%",
+            "minWidth": "30px",
+            "padding": "9px",
+            "position": "static",
+            "top": "auto",
+            "width": "fit-content"
+           },
+           "blockId": "ihr7kuhya",
+           "classes": [
+            "__text_block__"
+           ],
+           "element": "p",
+           "innerHTML": "Donate"
+          }
+         ],
+         "classes": [
+          "__text_block__"
+         ],
+         "element": "a"
+        },
+        {
+         "attributes": {
+          "href": "#"
+         },
+         "baseStyles": {
+          "alignItems": "center",
+          "borderColor": "#000000",
+          "borderRadius": "4px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": "0",
+          "height": "fit-content",
+          "hover:background": "#383838",
+          "justifyContent": "center",
+          "padding": "6px 9px",
+          "transition": "all 0.1s ease-out",
+          "width": "fit-content"
+         },
+         "blockId": "8zm556oen",
+         "blockName": "button-link",
+         "children": [
+          {
+           "baseStyles": {
+            "color": "#000000",
+            "fontSize": "18px",
+            "fontWeight": "420",
+            "height": "fit-content",
+            "left": "auto",
+            "letterSpacing": "0.28px",
+            "lineHeight": "115%",
+            "minWidth": "30px",
+            "padding": "9px",
+            "position": "static",
+            "top": "auto",
+            "width": "fit-content"
+           },
+           "blockId": "huooefz3h",
+           "classes": [
+            "__text_block__"
+           ],
+           "element": "p",
+           "innerHTML": "Volunteer"
+          }
+         ],
+         "classes": [
+          "__text_block__"
+         ],
+         "element": "a"
+        }
+       ],
+       "element": "div"
+      }
+     ],
+     "element": "div"
+    },
+    {
+     "blockId": "2v0ykift4",
+     "blockName": "container",
+     "children": [
+      {
+       "blockId": "poyx3z2sv",
+       "blockName": "container",
+       "children": [
+        {
+         "blockId": "q4d3tnxjg",
+         "isChildOfComponent": "f9b75d95557ef247",
+         "referenceBlockId": "ihzb7i7aq"
+        },
+        {
+         "blockId": "nwnoe3osk",
+         "isChildOfComponent": "f9b75d95557ef247",
+         "referenceBlockId": "6fxvv1clm"
+        },
+        {
+         "blockId": "9vvnkxfqf",
+         "blockName": "button-link",
+         "children": [
+          {
+           "blockId": "bvtd96o50",
+           "isChildOfComponent": "f9b75d95557ef247",
+           "isRepeaterBlock": false,
+           "referenceBlockId": "18wf76wb9"
+          }
+         ],
+         "isChildOfComponent": "f9b75d95557ef247",
+         "isRepeaterBlock": false,
+         "referenceBlockId": "afmqmrbkw"
+        }
+       ],
+       "isChildOfComponent": "f9b75d95557ef247",
+       "referenceBlockId": "ra0dr6t5i"
+      }
+     ],
+     "componentVersion": "11e9v6lhhr",
+     "extendedFromComponent": "f9b75d95557ef247"
+    },
+    {
+     "blockId": "srfbxj6bv",
+     "children": [
+      {
+       "blockId": "y4384sj7c",
+       "children": [
+        {
+         "blockId": "5usv109zy",
+         "children": [
+          {
+           "blockId": "7nlmt5bvg",
+           "children": [
+            {
+             "blockId": "isxglzpur",
+             "children": [
+              {
+               "blockId": "3e9ljxuoz",
+               "children": [
+                {
+                 "blockId": "78isbz1th",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "t57x1mkpb"
+                }
+               ],
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "referenceBlockId": "ume08u2up"
+              },
+              {
+               "blockId": "6zigbdn7k",
+               "blockName": "container",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "6o2aycmf4"
+              },
+              {
+               "blockId": "j5p2uh8ys",
+               "children": [
+                {
+                 "blockId": "ytsjt48v7",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "oogsygxrk"
+                },
+                {
+                 "blockId": "y2500h4ff",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "6rjvxbj06"
+                },
+                {
+                 "blockId": "fykzrx6uf",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "759u8bxv3"
+                },
+                {
+                 "blockId": "u5f22dxle",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "zmmgrxv5o"
+                },
+                {
+                 "blockId": "833a4wcij",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "xq6esbkhh"
+                },
+                {
+                 "blockId": "i60spf7jq",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "k02hrhr5g"
+                },
+                {
+                 "blockId": "2mhch7h3i",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "szbfa1qks"
+                }
+               ],
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "referenceBlockId": "mqnb36kkz"
+              }
+             ],
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "referenceBlockId": "tejpy9n3t"
+            },
+            {
+             "blockId": "358h1zqmj",
+             "children": [
+              {
+               "blockId": "d1wejep36",
+               "children": [
+                {
+                 "blockId": "6tkhiyctc",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "8sgvsf33j"
+                }
+               ],
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "referenceBlockId": "ci13cx5k9"
+              },
+              {
+               "blockId": "7swm1tun2",
+               "blockName": "container",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "pe04yb5f7"
+              },
+              {
+               "blockId": "60rtur6m7",
+               "children": [
+                {
+                 "blockId": "66j5a01jx",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "dv14mca6d"
+                },
+                {
+                 "blockId": "yeg1zob54",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "776u70skx"
+                },
+                {
+                 "blockId": "picijd3gs",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "ly689nllh"
+                },
+                {
+                 "blockId": "19qr55jpg",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "1jci72qzq"
+                }
+               ],
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "referenceBlockId": "g9hc2gmzy"
+              }
+             ],
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "referenceBlockId": "9oo1ogf2u"
+            },
+            {
+             "blockId": "576g37ljf",
+             "children": [
+              {
+               "blockId": "95v4mpxqx",
+               "children": [
+                {
+                 "blockId": "73ks3ibwh",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "3i3lv59wf"
+                }
+               ],
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "referenceBlockId": "jrwfd1drl"
+              },
+              {
+               "blockId": "69bcdv3fz",
+               "blockName": "container",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "bgcqftxf7"
+              },
+              {
+               "blockId": "jlps71fq3",
+               "children": [
+                {
+                 "blockId": "ard3vbpu0",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "ekbo25237"
+                },
+                {
+                 "blockId": "lq5kkhfms",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "2k1wwjl7l"
+                },
+                {
+                 "blockId": "k4xtj0604",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "xku5yf4jg"
+                },
+                {
+                 "blockId": "cbdj6zi41",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "3o1opk6hn"
+                },
+                {
+                 "blockId": "3ballswe9",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "da2lu491n"
+                },
+                {
+                 "blockId": "91emgsvah",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "sxut4q2vq"
+                }
+               ],
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "referenceBlockId": "e7abhyq8s"
+              }
+             ],
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "referenceBlockId": "6otm2qw9i"
+            },
+            {
+             "blockId": "0c3jn12hx",
+             "children": [
+              {
+               "blockId": "orfy51rvc",
+               "children": [
+                {
+                 "blockId": "ehzymlgy1",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "trdav2xj5"
+                }
+               ],
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "referenceBlockId": "zp4rc22x7"
+              },
+              {
+               "blockId": "72yr4catz",
+               "blockName": "container",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "0lor0bzm7"
+              },
+              {
+               "blockId": "rbl79fhqp",
+               "children": [
+                {
+                 "blockId": "favsjzq9b",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "blockId": "a5uyklzn3",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "fkkk9nn68"
+                  },
+                  {
+                   "blockId": "83oty226m",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "referenceBlockId": "ppk6espyf"
+                  }
+                 ],
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "klznkcnu7"
+                },
+                {
+                 "blockId": "0r5jlz34n",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "blockId": "x6m294cfr",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "32uw9ar99"
+                  },
+                  {
+                   "blockId": "htwkhlks6",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "referenceBlockId": "1qacwzciu"
+                  }
+                 ],
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "2s19mr3st"
+                },
+                {
+                 "blockId": "b5wmoz5g4",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "blockId": "tmu2rj92k",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "pvjvq13v7"
+                  },
+                  {
+                   "blockId": "k74l1dni6",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "referenceBlockId": "r2hwz0vdo"
+                  }
+                 ],
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "ux6k055b8"
+                },
+                {
+                 "blockId": "6x3x40z87",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "blockId": "ieo9ikdqu",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "gr0sjuvcj"
+                  },
+                  {
+                   "blockId": "f1ul6p3qp",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "referenceBlockId": "q0y7wg30s"
+                  }
+                 ],
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "angoflatu"
+                },
+                {
+                 "blockId": "uvk312kpv",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "blockId": "60akt4evw",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "5e8qpne6t"
+                  },
+                  {
+                   "blockId": "ykynsatqh",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "referenceBlockId": "sun24wbaw"
+                  }
+                 ],
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "referenceBlockId": "7cwxiekc6"
+                }
+               ],
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "referenceBlockId": "4nl1u38nk"
+              }
+             ],
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "referenceBlockId": "t1hdaeyc9"
+            }
+           ],
+           "isChildOfComponent": "fa25a8618c4a5010",
+           "referenceBlockId": "rvga1avu4"
+          }
+         ],
+         "isChildOfComponent": "fa25a8618c4a5010",
+         "referenceBlockId": "6ydlu5r28"
+        },
+        {
+         "blockId": "rkgnjt8fo",
+         "children": [
+          {
+           "blockId": "v0taicocn",
+           "children": [
+            {
+             "blockId": "d3qykb4ta",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "referenceBlockId": "9aczpqd54"
+            }
+           ],
+           "isChildOfComponent": "fa25a8618c4a5010",
+           "referenceBlockId": "fqe122bno"
+          },
+          {
+           "blockId": "ufr6ak7vx",
+           "children": [
+            {
+             "blockId": "fxxzoilzb",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "referenceBlockId": "645lq7cag"
+            },
+            {
+             "blockId": "lcazfrsxx",
+             "children": [
+              {
+               "blockId": "t2umibu9m",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "referenceBlockId": "ux63onfor"
+              }
+             ],
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "referenceBlockId": "mq8efk8vb"
+            }
+           ],
+           "isChildOfComponent": "fa25a8618c4a5010",
+           "referenceBlockId": "knhbzjtaw"
+          }
+         ],
+         "isChildOfComponent": "fa25a8618c4a5010",
+         "referenceBlockId": "miwqn1o73"
+        }
+       ],
+       "isChildOfComponent": "fa25a8618c4a5010",
+       "referenceBlockId": "psli81g2p"
+      }
+     ],
+     "componentVersion": "18023811od",
+     "extendedFromComponent": "fa25a8618c4a5010"
+    }
+   ],
+   "draggable": false,
+   "element": "div",
+   "originalElement": "body"
+  }
+ ],
+ "client_scripts": [],
+ "creation": "2026-10-15 15:40:06.691912",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 1,
+ "is_template": 0,
+ "modified": "2026-10-19 10:00:49.369261",
+ "modified_by": "Administrator",
+ "name": "page-e745b0ac",
+ "owner": "Administrator",
+ "page_name": "page-e745b0ac",
+ "page_title": "My Page",
+ "preview": "/assets/builder/images/fallback.png",
+ "project_folder": "kenya_red_cross_website",
+ "published": 1,
+ "published_at": "2026-10-15 16:47:49.900820",
+ "route": "pages/page-b32e23c3",
+ "staging": 0
+}

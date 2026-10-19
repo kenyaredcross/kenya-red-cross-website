@@ -1,0 +1,13 @@
+{
+ "creation": "2026-10-15 14:18:52.636902",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 21,
+ "modified": "2026-10-15 14:18:58.883222",
+ "modified_by": "Administrator",
+ "name": "CSS-4b098",
+ "owner": "Administrator",
+ "public_url": "/files/page_styles/CSS-4b098-1ffccd14fb.css?v=3c77c9fbbe",
+ "script": "/* Write your CSS here */\n.hover-card {\n  transition: transform 0.3s ease, box-shadow 0.3s ease;\n}\n\n.hover-card:hover {\n  transform: translateY(-8px);\n  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);\n}",
+ "script_type": "CSS"
+}

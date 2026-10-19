@@ -1,0 +1,15 @@
+{
+ "block": "{\n \"baseStyles\": {\n  \"color\": \"#ff0000\",\n  \"fontSize\": \"1rem\",\n  \"fontWeight\": \"bold\",\n  \"height\": \"fit-content\",\n  \"lineHeight\": \"1.4\",\n  \"minWidth\": \"10px\",\n  \"width\": \"fit-content\"\n },\n \"blockId\": \"3m4ndyqr1\",\n \"element\": \"h1\",\n \"innerHTML\": \"All impact stories \\u2192\"\n}",
+ "component_data_script": null,
+ "component_id": "123156f6ef17a8f8",
+ "component_name": "talk_more",
+ "creation": "2026-10-15 16:26:06.018584",
+ "docstatus": 0,
+ "doctype": "Builder Component",
+ "for_web_page": null,
+ "idx": 0,
+ "modified": "2026-10-15 16:26:06.018584",
+ "modified_by": "Administrator",
+ "name": "123156f6ef17a8f8",
+ "owner": "Administrator"
+}
