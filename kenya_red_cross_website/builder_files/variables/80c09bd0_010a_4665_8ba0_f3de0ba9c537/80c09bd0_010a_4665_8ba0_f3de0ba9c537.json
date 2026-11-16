@@ -1,0 +1,16 @@
+{
+ "creation": "2026-10-20 23:06:23.373432",
+ "dark_value": null,
+ "docstatus": 0,
+ "doctype": "Builder Token",
+ "group": null,
+ "idx": 0,
+ "is_standard": 0,
+ "modified": "2026-10-20 23:06:23.373432",
+ "modified_by": "Administrator",
+ "name": "80c09bd0-010a-4665-8ba0-f3de0ba9c537",
+ "owner": "Administrator",
+ "token_name": "body",
+ "type": "Color",
+ "value": "#F6F7F8"
+}
