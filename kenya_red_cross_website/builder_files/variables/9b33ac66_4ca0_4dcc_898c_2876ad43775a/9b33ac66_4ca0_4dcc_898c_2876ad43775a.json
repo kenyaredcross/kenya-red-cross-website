@@ -1,0 +1,16 @@
+{
+ "creation": "2026-10-22 13:46:36.007845",
+ "dark_value": null,
+ "docstatus": 0,
+ "doctype": "Builder Token",
+ "group": null,
+ "idx": 0,
+ "is_standard": 0,
+ "modified": "2026-10-22 13:46:36.007845",
+ "modified_by": "Administrator",
+ "name": "9b33ac66-4ca0-4dcc-898c-2876ad43775a",
+ "owner": "Administrator",
+ "token_name": "ifrc red",
+ "type": "Color",
+ "value": "#ee2435"
+}

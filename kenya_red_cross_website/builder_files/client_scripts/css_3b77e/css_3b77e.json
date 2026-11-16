@@ -1,0 +1,13 @@
+{
+ "creation": "2026-10-19 12:32:30.102451",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 15,
+ "modified": "2026-10-19 12:32:37.419805",
+ "modified_by": "Administrator",
+ "name": "CSS-3b77e",
+ "owner": "Administrator",
+ "public_url": "/files/page_styles/CSS-3b77e-0bbb83b248.css?v=bbc4bbdb23",
+ "script": "/* Write your CSS here */\n.sticky-image {\n  position: sticky;\n  top: 20px;\n}",
+ "script_type": "CSS"
+}

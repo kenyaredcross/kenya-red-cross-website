@@ -1,0 +1,13 @@
+{
+ "creation": "2026-10-21 11:22:58.368126",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 4,
+ "modified": "2026-10-21 11:23:29.403676",
+ "modified_by": "Administrator",
+ "name": "CSS-31d6d",
+ "owner": "Administrator",
+ "public_url": "/files/page_styles/CSS-31d6d-934f89969a.css?v=6e082861db",
+ "script": "/* Write your CSS here */\n.sidebar{\nflex: 0 0 300px;\nmax-width: 100%;\ndisplay: flex;\nflex-direction: column;\ngap: 20px;\nposition: sticky;\ntop: 24px;\n}",
+ "script_type": "CSS"
+}

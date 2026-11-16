@@ -1,0 +1,15 @@
+{
+ "block": "{\n \"baseStyles\": {\n  \"color\": \"var(--9b33ac66-4ca0-4dcc-898c-2876ad43775a)\",\n  \"display\": \"flex\",\n  \"flexDirection\": \"row\",\n  \"flexShrink\": 0,\n  \"gap\": \"5px\",\n  \"height\": \"4px\",\n  \"overflow\": \"hidden\",\n  \"width\": \"88px\"\n },\n \"blockId\": \"kbo3kl76m\",\n \"blockName\": \"container\",\n \"children\": [\n  {\n   \"baseStyles\": {\n    \"backgroundColor\": \"var(--9b33ac66-4ca0-4dcc-898c-2876ad43775a)\",\n    \"borderRadius\": \"10px\",\n    \"display\": \"flex\",\n    \"flexDirection\": \"column\",\n    \"flexShrink\": 0,\n    \"gap\": \"39px\",\n    \"height\": \"4px\",\n    \"overflow\": \"hidden\",\n    \"overflowX\": \"hidden\",\n    \"overflowY\": \"hidden\",\n    \"padding\": \"0px\",\n    \"position\": \"static\",\n    \"rotate\": \"0deg\",\n    \"width\": \"53px\"\n   },\n   \"blockId\": \"9zspu80c9\",\n   \"blockName\": \"container\",\n   \"element\": \"div\"\n  },\n  {\n   \"baseStyles\": {\n    \"backgroundColor\": \"var(--9b33ac66-4ca0-4dcc-898c-2876ad43775a)\",\n    \"borderRadius\": \"4px\",\n    \"display\": \"flex\",\n    \"flexDirection\": \"column\",\n    \"flexShrink\": 0,\n    \"height\": \"4px\",\n    \"overflow\": \"hidden\",\n    \"overflowX\": \"hidden\",\n    \"overflowY\": \"hidden\",\n    \"padding\": \"0px\",\n    \"position\": \"static\",\n    \"rotate\": \"0deg\",\n    \"width\": \"15px\"\n   },\n   \"blockId\": \"b4lah0gal\",\n   \"blockName\": \"container\",\n   \"element\": \"div\"\n  },\n  {\n   \"baseStyles\": {\n    \"backgroundColor\": \"var(--9b33ac66-4ca0-4dcc-898c-2876ad43775a)\",\n    \"borderRadius\": \"20px\",\n    \"display\": \"flex\",\n    \"flexDirection\": \"column\",\n    \"flexShrink\": 0,\n    \"height\": \"4px\",\n    \"overflow\": \"hidden\",\n    \"overflowX\": \"hidden\",\n    \"overflowY\": \"hidden\",\n    \"padding\": \"0px\",\n    \"position\": \"static\",\n    \"rotate\": \"0deg\",\n    \"width\": \"4px\"\n   },\n   \"blockId\": \"ubzb60na9\",\n   \"blockName\": \"container\",\n   \"element\": \"div\"\n  }\n ],\n \"element\": \"div\"\n}",
+ "component_data_script": "",
+ "component_id": "8d04861aa53d3017",
+ "component_name": "doted line",
+ "creation": "2026-10-20 20:07:46.317223",
+ "docstatus": 0,
+ "doctype": "Builder Component",
+ "for_web_page": null,
+ "idx": 0,
+ "modified": "2026-10-22 13:48:15.242706",
+ "modified_by": "Administrator",
+ "name": "8d04861aa53d3017",
+ "owner": "Administrator"
+}

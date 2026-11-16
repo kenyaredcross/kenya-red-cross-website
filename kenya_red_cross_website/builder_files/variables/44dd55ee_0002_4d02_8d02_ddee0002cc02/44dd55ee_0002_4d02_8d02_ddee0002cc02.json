@@ -1,0 +1,16 @@
+{
+ "creation": "2026-10-28 11:40:11.077967",
+ "dark_value": "#EDEDEA",
+ "docstatus": 0,
+ "doctype": "Builder Token",
+ "group": "keys",
+ "idx": 0,
+ "is_standard": 0,
+ "modified": "2026-10-28 11:40:11.077967",
+ "modified_by": "Administrator",
+ "name": "44dd55ee-0002-4d02-8d02-ddee0002cc02",
+ "owner": "Administrator",
+ "token_name": "ink",
+ "type": "Color",
+ "value": "#1C1C1A"
+}

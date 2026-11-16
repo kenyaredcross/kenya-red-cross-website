@@ -1,0 +1,15 @@
+{
+ "block": "{\n \"baseStyles\": {\n  \"alignItems\": \"flex-start\",\n  \"backgroundColor\": \"var(--9b33ac66-4ca0-4dcc-898c-2876ad43775a)\",\n  \"display\": \"flex\",\n  \"flexDirection\": \"column\",\n  \"flexShrink\": 0,\n  \"gap\": \"11px\",\n  \"height\": \"fit-content\",\n  \"justifyContent\": \"center\",\n  \"overflow\": \"hidden\",\n  \"padding\": \"50px 100px\",\n  \"width\": \"100%\"\n },\n \"blockId\": \"fsd32f4yj\",\n \"blockName\": \"container\",\n \"children\": [\n  {\n   \"baseStyles\": {\n    \"color\": \"#ffffff\",\n    \"fontFamily\": \"Nunito Sans\",\n    \"fontSize\": \"60px\",\n    \"fontWeight\": \"bold\",\n    \"height\": \"fit-content\",\n    \"lineHeight\": \"1.4\",\n    \"minWidth\": \"10px\",\n    \"position\": \"static\",\n    \"width\": \"fit-content\"\n   },\n   \"blockId\": \"wts8pcke2\",\n   \"element\": \"h1\",\n   \"innerHTML\": \"About Us\"\n  }\n ],\n \"element\": \"div\"\n}",
+ "component_data_script": "",
+ "component_id": "8009b382c8ff682e",
+ "component_name": "mainpage",
+ "creation": "2026-10-19 15:22:18.597629",
+ "docstatus": 0,
+ "doctype": "Builder Component",
+ "for_web_page": null,
+ "idx": 0,
+ "modified": "2026-10-28 09:10:49.820029",
+ "modified_by": "Administrator",
+ "name": "8009b382c8ff682e",
+ "owner": "Administrator"
+}
