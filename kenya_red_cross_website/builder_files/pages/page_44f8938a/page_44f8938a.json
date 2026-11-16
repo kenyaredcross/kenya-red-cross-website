@@ -1,0 +1,1979 @@
+{
+ "app": "kenya_red_cross_website",
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "baseStyles": {
+    "alignItems": "center",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "flexWrap": "wrap",
+    "position": "static"
+   },
+   "blockId": "root",
+   "children": [
+    {
+     "blockId": "wfg9cw41c",
+     "blockName": "container",
+     "children": [
+      {
+       "blockId": "b03b6r0n7",
+       "blockName": "Embed HTML",
+       "isChildOfComponent": "37b03a5db8452e6e",
+       "isRepeaterBlock": false,
+       "mobileStyles": {
+        "display": "flex"
+       },
+       "originalElement": "__raw_html__",
+       "referenceBlockId": "ybz2etmad"
+      }
+     ],
+     "componentVersion": "o64ufgm763",
+     "extendedFromComponent": "37b03a5db8452e6e",
+     "isRepeaterBlock": false,
+     "mobileStyles": {
+      "display": "flex"
+     }
+    },
+    {
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--9b33ac66-4ca0-4dcc-898c-2876ad43775a)",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexShrink": 0,
+      "gap": "10px",
+      "gridTemplateColumns": "repeat(2, minmax(200px, 1fr))",
+      "justifyContent": "center",
+      "overflow": "hidden",
+      "padding": "80px",
+      "position": "static",
+      "width": "100%"
+     },
+     "blockId": "sbqsyn0kw",
+     "blockName": "container",
+     "children": [
+      {
+       "baseStyles": {
+        "alignItems": "flex-start",
+        "display": "grid",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "0px",
+        "gridTemplateColumns": "repeat(2, minmax(200px, 1fr))",
+        "justifyContent": "center",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "1152px"
+       },
+       "blockId": "3x97gnq62",
+       "blockName": "container",
+       "children": [
+        {
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "height": "fit-content",
+          "overflow": "hidden",
+          "padding": "0px",
+          "position": "relative",
+          "width": "686px"
+         },
+         "blockId": "zb6pmqauo",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "color": "#ffffff",
+            "fontSize": "64px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "0w1br00vy",
+           "element": "h1",
+           "innerHTML": "Volunteerism at Kenya Red Cross Society",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "fontSize": "38px",
+            "maxWidth": "360px",
+            "width": "100%"
+           }
+          },
+          {
+           "blockId": "so5bn813p",
+           "blockName": "container",
+           "children": [
+            {
+             "blockId": "tjxiljnvp",
+             "blockName": "container",
+             "isChildOfComponent": "8d04861aa53d3017",
+             "isRepeaterBlock": false,
+             "referenceBlockId": "9zspu80c9"
+            },
+            {
+             "blockId": "na318y9sj",
+             "blockName": "container",
+             "isChildOfComponent": "8d04861aa53d3017",
+             "isRepeaterBlock": false,
+             "referenceBlockId": "b4lah0gal"
+            },
+            {
+             "blockId": "rr72w2szu",
+             "blockName": "container",
+             "isChildOfComponent": "8d04861aa53d3017",
+             "isRepeaterBlock": false,
+             "referenceBlockId": "ubzb60na9"
+            }
+           ],
+           "componentVersion": "8qogv9dsto",
+           "extendedFromComponent": "8d04861aa53d3017",
+           "isRepeaterBlock": false
+          },
+          {
+           "baseStyles": {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "0px",
+            "height": "fit-content",
+            "justifyContent": "flex-start",
+            "overflow": "hidden",
+            "position": "relative",
+            "width": "fit-content"
+           },
+           "blockId": "px20e29jh",
+           "blockName": "container",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "#ffffff",
+              "fontSize": "14px",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "485px"
+             },
+             "blockId": "b1vl9ztuz",
+             "blockName": "p | As a volunteer, individuals are expected to support the humanitarian work of the organization and contribute towards improving the lives of those in need. By sacrificing their time, skills, and resources, volunteers at the Kenya Red Cross actively demonstrate a dedication to serving others and making a positive impact on their community. In essence, being a volunteer at the Kenya Red Cross is not just a task or a title, it is an opportunity to give back, inspire change, and make a difference in the world.",
+             "element": "p",
+             "innerHTML": "<p>As an organization that prioritizes serving others, the Kenya Red Cross is constantly looking for individuals who share the same values and beliefs. One of the most important traits of a volunteer at the Kenya Red Cross is being selfless and having no desire to gain anything from their actions.<br></p><p></p><p>As a volunteer, individuals are expected to support the humanitarian work of the organization and contribute towards improving the lives of those in need. By sacrificing their time, skills, and resources, volunteers at the Kenya Red Cross actively demonstrate a dedication to serving others and making a positive impact on their community. In essence, being a volunteer at the Kenya Red Cross is not just a task or a title, it is an opportunity to give back, inspire change, and make a difference in the world.</p>",
+             "isRepeaterBlock": false,
+             "mobileStyles": {
+              "width": "360px"
+             }
+            }
+           ],
+           "element": "div",
+           "isRepeaterBlock": false
+          }
+         ],
+         "element": "div",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "alignItems": "center",
+          "justifyContent": "flex-start",
+          "width": "fit-content"
+         }
+        },
+        {
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "height": "fit-content",
+          "overflow": "hidden",
+          "position": "static"
+         },
+         "blockId": "tzh13cf9a",
+         "blockName": "container",
+         "children": [
+          {
+           "attributes": {
+            "src": "/assets/kenya_red_cross_website/builder_assets/55303247538_6b4291ccdd_c.webp"
+           },
+           "baseStyles": {
+            "borderRadius": "0px",
+            "flexShrink": 0,
+            "height": "437px",
+            "objectFit": "contain",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "position": "static",
+            "width": "193%"
+           },
+           "blockId": "89a1fc28z",
+           "element": "img",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "height": "auto",
+            "width": "auto"
+           }
+          }
+         ],
+         "element": "div",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "height": "fit-content",
+          "maxHeight": "242px",
+          "maxWidth": "358px",
+          "width": "fit-content"
+         }
+        }
+       ],
+       "element": "div",
+       "isRepeaterBlock": false,
+       "mobileStyles": {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "gap": "24px",
+        "gridAutoColumns": "minmax(0, 1fr)",
+        "gridTemplateColumns": "repeat(1, minmax(0, 1fr))",
+        "justifyContent": "center",
+        "width": "fit-content"
+       },
+       "tabletStyles": {
+        "gridAutoColumns": "minmax(0, 1fr)",
+        "gridTemplateColumns": "repeat(1, minmax(0, 1fr))",
+        "width": "auto"
+       }
+      }
+     ],
+     "element": "div",
+     "isRepeaterBlock": false,
+     "mobileStyles": {
+      "flexDirection": "column",
+      "height": "fit-content",
+      "padding": "40px"
+     },
+     "tabletStyles": {
+      "flexDirection": "row"
+     }
+    },
+    {
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--80c09bd0-010a-4665-8ba0-f3de0ba9c537)",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexShrink": 0,
+      "gap": "52px",
+      "height": "fit-content",
+      "justifyContent": "center",
+      "overflow": "hidden",
+      "padding": "50px 80px 49px",
+      "position": "static",
+      "width": "100%"
+     },
+     "blockId": "po5i517ni",
+     "blockName": "container",
+     "children": [
+      {
+       "baseStyles": {
+        "alignItems": "flex-start",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "height": "fit-content",
+        "justifyContent": "center",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "1129px"
+       },
+       "blockId": "trfwe5yys",
+       "blockName": "container",
+       "children": [
+        {
+         "baseStyles": {
+          "backgroundColor": "#ff0000",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "height": "4px",
+          "overflow": "hidden",
+          "padding": "0px",
+          "position": "static",
+          "width": "70px"
+         },
+         "blockId": "sfy8wla87",
+         "blockName": "container",
+         "element": "div",
+         "isRepeaterBlock": false
+        },
+        {
+         "baseStyles": {
+          "color": "#000000",
+          "fontSize": "42px",
+          "fontWeight": "bold",
+          "height": "fit-content",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "position": "static",
+          "width": "fit-content"
+         },
+         "blockId": "7ahhb2gfz",
+         "element": "h1",
+         "innerHTML": "Key Requirements",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "fontSize": "38px"
+         }
+        },
+        {
+         "baseStyles": {
+          "color": "#000000",
+          "fontSize": "15px",
+          "height": "fit-content",
+          "lineHeight": "1.4",
+          "maxWidth": "574px",
+          "minWidth": "10px",
+          "padding": "20px 0px",
+          "position": "static",
+          "width": "fit-content"
+         },
+         "blockId": "x8u6gnox4",
+         "element": "p",
+         "innerHTML": "<p>Volunteerism at Kenya Red Cross is for everyone. Being an organization that is trusted by communities, governments and the private sector, we need all volunteers to abide to the following:</p><p><br></p>",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "fontSize": "12px",
+          "width": "285px"
+         }
+        },
+        {
+         "baseStyles": {
+          "display": "grid",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "25px",
+          "gridAutoColumns": "minmax(0, 1fr)",
+          "gridTemplateColumns": "repeat(2, minmax(0, 1fr))",
+          "height": "542px",
+          "overflow": "hidden",
+          "padding": "0px 2px 0px 0px",
+          "position": "relative",
+          "width": "718px"
+         },
+         "blockId": "k6d6dupu2",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "alignItems": "flex-start",
+            "backgroundColor": "#ffffff",
+            "borderRadius": "12px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "35px",
+            "height": "fit-content",
+            "justifyContent": "flex-start",
+            "overflow": "hidden",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "padding": "22px 18px",
+            "position": "relative",
+            "width": "fit-content"
+           },
+           "blockId": "gc9uvp1kj",
+           "blockName": "container",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "var(--9b33ac66-4ca0-4dcc-898c-2876ad43775a)",
+              "height": "45px",
+              "width": "45px"
+             },
+             "blockId": "mqning4at",
+             "element": "div",
+             "innerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"45\" height=\"45\" viewBox=\"0 0 24 24\"><!-- Icon from Material Design Icons by Pictogrammers - https://github.com/Templarian/MaterialDesign/blob/master/LICENSE --><path fill=\"currentColor\" d=\"M21 11c0 5.55-3.84 10.74-9 12c-5.16-1.26-9-6.45-9-12V5l9-4l9 4zm-9 10c3.75-1 7-5.46 7-9.78V6.3l-7-3.12L5 6.3v4.92C5 15.54 8.25 20 12 21m-2-4l-4-4l1.41-1.41L10 14.17l6.59-6.59L18 9\"/></svg>",
+             "isRepeaterBlock": false,
+             "originalElement": "__raw_html__"
+            },
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "16px",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "maxWidth": "305px",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "fit-content"
+             },
+             "blockId": "ts94beyam",
+             "element": "p",
+             "innerHTML": "Responsibility to behave in accordance with the Kenya Red Cross Society code of conduct.",
+             "isRepeaterBlock": false
+            }
+           ],
+           "element": "div",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "alignItems": "center",
+            "justifyContent": "center"
+           }
+          },
+          {
+           "baseStyles": {
+            "alignItems": "flex-start",
+            "backgroundColor": "#ffffff",
+            "borderRadius": "12px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "35px",
+            "height": "fit-content",
+            "justifyContent": "flex-start",
+            "overflow": "hidden",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "padding": "22px 18px",
+            "position": "relative",
+            "width": "fit-content"
+           },
+           "blockId": "8na4324ho",
+           "blockName": "container",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "var(--9b33ac66-4ca0-4dcc-898c-2876ad43775a)",
+              "height": "45px",
+              "width": "45px"
+             },
+             "blockId": "6mt7z80pb",
+             "element": "div",
+             "innerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"45\" height=\"45\" viewBox=\"0 0 24 24\"><!-- Icon from Material Symbols by Google - https://github.com/google/material-design-icons/blob/master/LICENSE --><path fill=\"currentColor\" d=\"M11.288 20.2q-.363-.125-.638-.4l-1.725-1.575q-2.65-2.425-4.787-4.812T2 8.15Q2 5.8 3.575 4.225T7.5 2.65q1.325 0 2.5.562t2 1.538q.825-.975 2-1.537t2.5-.563q2.35 0 3.925 1.575T22 8.15q0 2.875-2.125 5.275T15.05 18.25l-1.7 1.55q-.275.275-.637.4t-.713.125t-.712-.125M11.05 6.75q-.725-1.025-1.55-1.562t-2-.538q-1.5 0-2.5 1t-1 2.5q0 1.3.925 2.763t2.213 2.837t2.65 2.575T12 18.3q.85-.775 2.213-1.975t2.65-2.575t2.212-2.837T20 8.15q0-1.5-1-2.5t-2.5-1q-1.175 0-2 .538T12.95 6.75q-.175.25-.425.375T12 7.25t-.525-.125t-.425-.375m.95 4.725\"/></svg>",
+             "isRepeaterBlock": false,
+             "originalElement": "__raw_html__"
+            },
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "16px",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "maxWidth": "305px",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "fit-content"
+             },
+             "blockId": "kyi9nqoh2",
+             "element": "p",
+             "innerHTML": "Must conduct themselves with integrity and honesty and to display a committed and positive attitude while performing their assigned tasks.",
+             "isRepeaterBlock": false
+            }
+           ],
+           "element": "div",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "alignItems": "center",
+            "justifyContent": "center"
+           }
+          },
+          {
+           "baseStyles": {
+            "alignItems": "flex-start",
+            "backgroundColor": "#ffffff",
+            "borderRadius": "12px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "35px",
+            "height": "fit-content",
+            "justifyContent": "flex-start",
+            "overflow": "hidden",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "padding": "22px 18px",
+            "position": "relative",
+            "width": "fit-content"
+           },
+           "blockId": "xmobkkr2h",
+           "blockName": "container",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "var(--9b33ac66-4ca0-4dcc-898c-2876ad43775a)",
+              "height": "45px",
+              "width": "45px"
+             },
+             "blockId": "9o4nyl7bf",
+             "element": "div",
+             "innerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"45\" height=\"45\" viewBox=\"0 0 24 24\"><!-- Icon from Griddy Icons by Zuzana Benova - https://github.com/griddy-icons/griddy-icons/blob/main/LICENSE --><path fill=\"currentColor\" d=\"M22.41 6.635L12 1.925L1.695 6.59a.998.998 0 0 0 0 1.82L4.5 9.68v8.63l.22.22c.1.1 2.525 2.47 7.28 2.47s7.18-2.37 7.28-2.47l.22-.22V9.68l2-.905V14.5H23V7.55c0-.39-.23-.75-.59-.91zM18 17.655c-.64.505-2.655 1.845-6 1.845s-5.365-1.34-6-1.845V10.36l6 2.715l6-2.715zm-6-6.23L3.32 7.5L12 3.575L20.68 7.5z\"/></svg>",
+             "isRepeaterBlock": false,
+             "originalElement": "__raw_html__"
+            },
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "16px",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "maxWidth": "305px",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "fit-content"
+             },
+             "blockId": "vaomse6ua",
+             "element": "p",
+             "innerHTML": "Must have the Responsibility to participate in any necessary training provided by the society.",
+             "isRepeaterBlock": false
+            }
+           ],
+           "element": "div",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "alignItems": "center",
+            "justifyContent": "center"
+           }
+          },
+          {
+           "baseStyles": {
+            "alignItems": "flex-start",
+            "backgroundColor": "#ffffff",
+            "borderRadius": "12px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "35px",
+            "height": "fit-content",
+            "justifyContent": "flex-start",
+            "overflow": "hidden",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "padding": "22px 18px",
+            "position": "relative",
+            "width": "fit-content"
+           },
+           "blockId": "r83mklsbf",
+           "blockName": "container",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "var(--9b33ac66-4ca0-4dcc-898c-2876ad43775a)",
+              "height": "45px",
+              "width": "45px"
+             },
+             "blockId": "xezeqldmd",
+             "element": "div",
+             "innerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"45\" height=\"45\" viewBox=\"0 0 48 48\"><!-- Icon from IconPark Outline by ByteDance - https://github.com/bytedance/IconPark/blob/master/LICENSE --><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"4\" d=\"M24 20a7 7 0 1 0 0-14a7 7 0 0 0 0 14M12 7.255A6.99 6.99 0 0 0 9 13a7 7 0 0 0 3.392 6M36 7.255A6.99 6.99 0 0 1 39 13a6.99 6.99 0 0 1-3 5.746M12 40v2h24v-2c0-3.727 0-5.591-.609-7.062a8 8 0 0 0-4.33-4.329C29.592 28 27.728 28 24 28s-5.591 0-7.061.609a8 8 0 0 0-4.33 4.33C12 34.409 12 36.273 12 40m32 2v-1.2c0-4.48 0-6.72-.872-8.432a8 8 0 0 0-3.496-3.496M4 42v-1.2c0-4.48 0-6.72.872-8.432a8 8 0 0 1 3.496-3.496\"/></svg>",
+             "isRepeaterBlock": false,
+             "originalElement": "__raw_html__"
+            },
+            {
+             "baseStyles": {
+              "color": "#000000",
+              "fontSize": "16px",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "maxWidth": "305px",
+              "minWidth": "10px",
+              "position": "static",
+              "width": "fit-content"
+             },
+             "blockId": "pb9sltlta",
+             "element": "p",
+             "innerHTML": "Respect the rights, beliefs and opinions of beneficiaries.",
+             "isRepeaterBlock": false
+            }
+           ],
+           "element": "div",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "padding": "22px 0px 22px 18px"
+           }
+          },
+          {
+           "baseStyles": {
+            "alignItems": "center",
+            "borderRadius": "12px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "14px",
+            "height": "fit-content",
+            "justifyContent": "flex-start",
+            "overflow": "hidden",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "padding": "24px 0px",
+            "position": "relative",
+            "width": "fit-content"
+           },
+           "blockId": "cgy6ik7rv",
+           "blockName": "container",
+           "children": [
+            {
+             "blockId": "ee7pnwnez",
+             "componentVersion": "j2ce7aija5",
+             "extendedFromComponent": "123156f6ef17a8f8",
+             "innerHTML": "Read more →",
+             "isRepeaterBlock": false
+            }
+           ],
+           "element": "div",
+           "isRepeaterBlock": false
+          }
+         ],
+         "element": "div",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "gridAutoColumns": "minmax(0, 1fr)",
+          "gridTemplateColumns": "repeat(1, minmax(0, 1fr))",
+          "height": "fit-content",
+          "justifyContent": "center",
+          "padding": "0px",
+          "width": "421px"
+         }
+        }
+       ],
+       "element": "div",
+       "isRepeaterBlock": false,
+       "mobileStyles": {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "width": "432px"
+       },
+       "tabletStyles": {
+        "width": "auto"
+       }
+      }
+     ],
+     "element": "div",
+     "isRepeaterBlock": false
+    },
+    {
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--9b33ac66-4ca0-4dcc-898c-2876ad43775a)",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexShrink": 0,
+      "gap": "30px",
+      "height": "119px",
+      "justifyContent": "space-between",
+      "overflow": "hidden",
+      "padding": "50px 100px",
+      "position": "static",
+      "width": "100%"
+     },
+     "blockId": "rx77c1l0d",
+     "blockName": "container",
+     "children": [
+      {
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "height": "fit-content",
+        "justifyContent": "center",
+        "overflow": "hidden",
+        "position": "relative",
+        "width": "fit-content"
+       },
+       "blockId": "42utqzb0r",
+       "blockName": "container",
+       "children": [
+        {
+         "baseStyles": {
+          "color": "#ffffff",
+          "fontSize": "40px",
+          "fontWeight": "bold",
+          "height": "fit-content",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "position": "static",
+          "width": "fit-content"
+         },
+         "blockId": "zkodj79aj",
+         "element": "h1",
+         "innerHTML": "Sign up to be a volunteer today!",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "fontSize": "30px",
+          "textAlign": "center"
+         },
+         "tabletStyles": {
+          "textAlign": "center"
+         }
+        }
+       ],
+       "element": "div",
+       "isRepeaterBlock": false
+      },
+      {
+       "baseStyles": {
+        "backgroundColor": "#ffffff",
+        "borderRadius": "15px"
+       },
+       "blockId": "kkip7n06r",
+       "blockName": "button-link",
+       "children": [
+        {
+         "baseStyles": {
+          "color": "#ff0000"
+         },
+         "blockId": "ru06aso50",
+         "innerHTML": "Sign up",
+         "isChildOfComponent": "0a19731e197b30ea",
+         "isRepeaterBlock": false,
+         "referenceBlockId": "bsqdmtibe"
+        }
+       ],
+       "componentVersion": "91lp3lc8iu",
+       "extendedFromComponent": "0a19731e197b30ea",
+       "isRepeaterBlock": false
+      }
+     ],
+     "element": "div",
+     "isRepeaterBlock": false,
+     "mobileStyles": {
+      "alignItems": "center",
+      "flexDirection": "column",
+      "height": "fit-content"
+     },
+     "tabletStyles": {
+      "flexDirection": "column",
+      "height": "fit-content"
+     }
+    },
+    {
+     "blockId": "ciwx92st6",
+     "children": [
+      {
+       "baseStyles": {
+        "alignItems": "flex-start",
+        "borderRadius": "0px",
+        "display": "flex",
+        "flexDirection": "column",
+        "gap": "49px",
+        "height": "fit-content",
+        "justifyContent": "flex-start",
+        "maxWidth": "1200px",
+        "paddingBottom": "40px",
+        "paddingLeft": "40px",
+        "paddingRight": "40px",
+        "paddingTop": "40px",
+        "width": "100%"
+       },
+       "blockId": "944idd4ja",
+       "children": [
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "borderRadius": "0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "gap": "30px",
+          "height": "fit-content",
+          "justifyContent": "space-between",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "paddingTop": "0px",
+          "width": "100%"
+         },
+         "blockId": "7k8cql898",
+         "children": [
+          {
+           "baseStyles": {
+            "alignItems": "flex-start",
+            "borderRadius": "0px",
+            "display": "grid",
+            "flexDirection": "row",
+            "gap": "10px",
+            "gridAutoColumns": "minmax(0, 1fr)",
+            "gridTemplateColumns": "repeat(4, minmax(0, 1fr))",
+            "justifyContent": "flex-start",
+            "order": "1",
+            "paddingBottom": "0px",
+            "paddingLeft": "0px",
+            "paddingRight": "0px",
+            "paddingTop": "0px",
+            "position": "relative",
+            "width": "1110px"
+           },
+           "blockId": "uobbgtrih",
+           "children": [
+            {
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "borderRadius": "0px",
+              "display": "flex",
+              "flexDirection": "column",
+              "gap": "20px",
+              "height": "381px",
+              "justifyContent": "flex-start",
+              "padding": "15px 0px 0px",
+              "position": "relative",
+              "width": "200px"
+             },
+             "blockId": "bd6z4jk44",
+             "children": [
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "8px",
+                "height": "56px",
+                "justifyContent": "flex-start",
+                "padding": "0px",
+                "paddingBottom": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "paddingTop": "0px",
+                "position": "relative",
+                "width": "208px"
+               },
+               "blockId": "6ccq7ghll",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "30px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "ibg5yfstq",
+                 "element": "p",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "t57x1mkpb"
+                }
+               ],
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "ume08u2up"
+              },
+              {
+               "baseStyles": {
+                "backgroundColor": "#ff0000",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "height": "4px",
+                "overflow": "hidden",
+                "position": "static",
+                "width": "104px"
+               },
+               "blockId": "u24vvum7j",
+               "blockName": "container",
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "6o2aycmf4"
+              },
+              {
+               "baseStyles": {
+                "alignItems": "flex-start",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "12px",
+                "height": "247px",
+                "justifyContent": "flex-start",
+                "paddingBottom": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "paddingTop": "0px",
+                "position": "relative"
+               },
+               "blockId": "mbtowlluc",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "p3pnqa29i",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "oogsygxrk"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "krnwtdnfk",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "6rjvxbj06"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "1q2gxxhns",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "759u8bxv3"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "54dmsz2ga",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "zmmgrxv5o"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "1obpomf78",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "xq6esbkhh"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "dil0gu65j",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "k02hrhr5g"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "2007dgqg0",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "szbfa1qks"
+                }
+               ],
+               "element": "section",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "mqnb36kkz"
+              }
+             ],
+             "element": "section",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "mobileStyles": {
+              "width": "45%"
+             },
+             "referenceBlockId": "tejpy9n3t",
+             "tabletStyles": {
+              "width": "100px"
+             }
+            },
+            {
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "borderRadius": "0px",
+              "display": "flex",
+              "flexDirection": "column",
+              "gap": "20px",
+              "justifyContent": "flex-start",
+              "padding": "15px 0px 0px",
+              "position": "relative",
+              "width": "200px"
+             },
+             "blockId": "hyit68ihr",
+             "children": [
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "8px",
+                "height": "56px",
+                "justifyContent": "flex-start",
+                "padding": "0px",
+                "position": "relative",
+                "width": "208px"
+               },
+               "blockId": "0tm40nqub",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "30px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "3gwtgp6yp",
+                 "element": "p",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "8sgvsf33j"
+                }
+               ],
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "ci13cx5k9"
+              },
+              {
+               "baseStyles": {
+                "backgroundColor": "#ff0000",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "height": "4px",
+                "overflow": "hidden",
+                "position": "static",
+                "width": "104px"
+               },
+               "blockId": "td0vxsuy0",
+               "blockName": "container",
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "pe04yb5f7"
+              },
+              {
+               "baseStyles": {
+                "alignItems": "flex-start",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "12px",
+                "height": "168px",
+                "justifyContent": "flex-start",
+                "paddingBottom": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "paddingTop": "0px"
+               },
+               "blockId": "37da3oukz",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "m39sqdkt2",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "dv14mca6d"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "dyb08wg1h",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "776u70skx"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "9ocs6pklp",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "ly689nllh"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "bid1yth3p",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "1jci72qzq"
+                }
+               ],
+               "element": "section",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "g9hc2gmzy"
+              }
+             ],
+             "element": "section",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "mobileStyles": {
+              "width": "45%"
+             },
+             "referenceBlockId": "9oo1ogf2u",
+             "tabletStyles": {
+              "width": "100px"
+             }
+            },
+            {
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "borderRadius": "0px",
+              "display": "flex",
+              "flexDirection": "column",
+              "gap": "20px",
+              "height": "372px",
+              "justifyContent": "flex-start",
+              "padding": "15px 0px 0px",
+              "position": "relative",
+              "width": "200px"
+             },
+             "blockId": "zaj2ufr49",
+             "children": [
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "8px",
+                "height": "56px",
+                "justifyContent": "flex-start",
+                "padding": "0px",
+                "paddingBottom": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "paddingTop": "0px",
+                "position": "relative",
+                "width": "208px"
+               },
+               "blockId": "fm3w971o3",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "30px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "k9wmyjtp9",
+                 "element": "p",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "3i3lv59wf"
+                }
+               ],
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "jrwfd1drl"
+              },
+              {
+               "baseStyles": {
+                "backgroundColor": "#ff0000",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "height": "4px",
+                "overflow": "hidden",
+                "position": "static",
+                "width": "104px"
+               },
+               "blockId": "ycbau8mo8",
+               "blockName": "container",
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "bgcqftxf7"
+              },
+              {
+               "baseStyles": {
+                "alignItems": "flex-start",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "12px",
+                "height": "fit-content",
+                "justifyContent": "flex-start",
+                "padding": "13px 0px 0px",
+                "width": "fit-content"
+               },
+               "blockId": "ka6fme7ue",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "dwk0f0olm",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "ekbo25237"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "ft2k7ten3",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "2k1wwjl7l"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "84onmh1j9",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "xku5yf4jg"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "u421uxgqb",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "3o1opk6hn"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "lp9ciu04m",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "da2lu491n"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "gap9hfa0y",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "sxut4q2vq"
+                }
+               ],
+               "element": "section",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "e7abhyq8s"
+              }
+             ],
+             "element": "section",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "mobileStyles": {
+              "width": "45%"
+             },
+             "referenceBlockId": "6otm2qw9i",
+             "tabletStyles": {
+              "width": "100px"
+             }
+            },
+            {
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "borderRadius": "0px",
+              "display": "flex",
+              "flexDirection": "column",
+              "gap": "20px",
+              "justifyContent": "flex-start",
+              "padding": "0px",
+              "position": "relative",
+              "width": "200px"
+             },
+             "blockId": "9xqslvylh",
+             "children": [
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "8px",
+                "height": "68px",
+                "justifyContent": "flex-start",
+                "padding": "0px",
+                "paddingBottom": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "paddingTop": "0px",
+                "position": "relative",
+                "width": "208px"
+               },
+               "blockId": "an9pzdya8",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "30px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "padding": "15px 0px 0px",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "zwygnloit",
+                 "element": "p",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "trdav2xj5"
+                }
+               ],
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "zp4rc22x7"
+              },
+              {
+               "baseStyles": {
+                "backgroundColor": "#ff0000",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "height": "4px",
+                "overflow": "hidden",
+                "position": "static",
+                "width": "104px"
+               },
+               "blockId": "4zowfrm6y",
+               "blockName": "container",
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "0lor0bzm7"
+              },
+              {
+               "baseStyles": {
+                "alignItems": "flex-start",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "12px",
+                "height": "317px",
+                "justifyContent": "flex-start",
+                "paddingBottom": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "paddingTop": "0px",
+                "width": "253px"
+               },
+               "blockId": "nmbkmh0j3",
+               "children": [
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "30px",
+                  "height": "fit-content",
+                  "overflow": "hidden",
+                  "width": "fit-content"
+                 },
+                 "blockId": "iloedc1sk",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "#ff0000",
+                    "height": "32px",
+                    "width": "32px"
+                   },
+                   "blockId": "x57pqxp3j",
+                   "element": "div",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "fkkk9nn68"
+                  },
+                  {
+                   "baseStyles": {
+                    "alignItems": "center",
+                    "color": "#ffffff",
+                    "display": "flex",
+                    "fontSize": "16px",
+                    "letterSpacing": "0%",
+                    "lineHeight": "150%",
+                    "whiteSpace": "wrap"
+                   },
+                   "blockId": "1efbezzm0",
+                   "element": "a",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "referenceBlockId": "ppk6espyf"
+                  }
+                 ],
+                 "element": "div",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "klznkcnu7"
+                },
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "30px",
+                  "height": "fit-content",
+                  "overflow": "hidden",
+                  "width": "fit-content"
+                 },
+                 "blockId": "39uytrrnb",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "#ff0000",
+                    "height": "32px",
+                    "width": "32px"
+                   },
+                   "blockId": "kc08pwku7",
+                   "element": "div",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "32uw9ar99"
+                  },
+                  {
+                   "baseStyles": {
+                    "alignItems": "center",
+                    "color": "#ffffff",
+                    "display": "flex",
+                    "fontSize": "16px",
+                    "letterSpacing": "0%",
+                    "lineHeight": "150%",
+                    "whiteSpace": "wrap"
+                   },
+                   "blockId": "bmv5l0ade",
+                   "element": "a",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "referenceBlockId": "1qacwzciu"
+                  }
+                 ],
+                 "element": "div",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "2s19mr3st"
+                },
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "30px",
+                  "height": "fit-content",
+                  "overflow": "hidden",
+                  "width": "fit-content"
+                 },
+                 "blockId": "dqnoztd0x",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "#ff0000",
+                    "height": "32px",
+                    "width": "32px"
+                   },
+                   "blockId": "ldjwduswh",
+                   "element": "div",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "pvjvq13v7"
+                  },
+                  {
+                   "baseStyles": {
+                    "alignItems": "center",
+                    "color": "#ffffff",
+                    "display": "flex",
+                    "fontSize": "16px",
+                    "letterSpacing": "0%",
+                    "lineHeight": "150%",
+                    "whiteSpace": "wrap"
+                   },
+                   "blockId": "alvtajc32",
+                   "element": "a",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "referenceBlockId": "r2hwz0vdo"
+                  }
+                 ],
+                 "element": "div",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "ux6k055b8"
+                },
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "30px",
+                  "height": "fit-content",
+                  "overflow": "hidden",
+                  "width": "fit-content"
+                 },
+                 "blockId": "82g1ifegp",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "#ff0000",
+                    "height": "32px",
+                    "width": "32px"
+                   },
+                   "blockId": "rj9i3cyr0",
+                   "element": "div",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "gr0sjuvcj"
+                  },
+                  {
+                   "baseStyles": {
+                    "alignItems": "center",
+                    "color": "#ffffff",
+                    "display": "flex",
+                    "fontSize": "16px",
+                    "letterSpacing": "0%",
+                    "lineHeight": "150%",
+                    "whiteSpace": "wrap"
+                   },
+                   "blockId": "nbqgqic2a",
+                   "element": "a",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "referenceBlockId": "q0y7wg30s"
+                  }
+                 ],
+                 "element": "div",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "angoflatu"
+                },
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "30px",
+                  "height": "fit-content",
+                  "overflow": "hidden",
+                  "width": "fit-content"
+                 },
+                 "blockId": "fj68h0mk3",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "#ff0000",
+                    "height": "32px",
+                    "width": "32px"
+                   },
+                   "blockId": "w7t1mzice",
+                   "element": "div",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "5e8qpne6t"
+                  },
+                  {
+                   "baseStyles": {
+                    "alignItems": "center",
+                    "color": "#ffffff",
+                    "display": "flex",
+                    "fontSize": "16px",
+                    "letterSpacing": "0%",
+                    "lineHeight": "150%",
+                    "whiteSpace": "wrap"
+                   },
+                   "blockId": "1dijdc48y",
+                   "element": "a",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "referenceBlockId": "sun24wbaw"
+                  }
+                 ],
+                 "element": "div",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "7cwxiekc6"
+                }
+               ],
+               "element": "section",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "4nl1u38nk"
+              }
+             ],
+             "element": "section",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "mobileStyles": {
+              "width": "45%"
+             },
+             "referenceBlockId": "t1hdaeyc9",
+             "tabletStyles": {
+              "width": "100px"
+             }
+            }
+           ],
+           "element": "section",
+           "isChildOfComponent": "fa25a8618c4a5010",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "10px",
+            "gridAutoColumns": "minmax(0, 1fr)",
+            "gridAutoRows": "minmax(0, 1fr)",
+            "gridTemplateColumns": "repeat(1, minmax(0, 1fr))",
+            "gridTemplateRows": "repeat(, minmax(0, 1fr))",
+            "height": "fit-content",
+            "width": "100%"
+           },
+           "referenceBlockId": "rvga1avu4"
+          }
+         ],
+         "element": "section",
+         "isChildOfComponent": "fa25a8618c4a5010",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "50px"
+         },
+         "referenceBlockId": "6ydlu5r28"
+        },
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "borderRadius": "0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "paddingTop": "0px",
+          "width": "100%"
+         },
+         "blockId": "i47htfav9",
+         "children": [
+          {
+           "baseStyles": {
+            "alignItems": "center",
+            "borderRadius": "0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": "8px",
+            "justifyContent": "flex-start",
+            "paddingBottom": "0px",
+            "paddingLeft": "10px",
+            "paddingRight": "10px",
+            "paddingTop": "0px"
+           },
+           "blockId": "t6aekk9cb",
+           "children": [
+            {
+             "baseStyles": {
+              "alignItems": "center",
+              "color": "rgb(124, 124, 124)",
+              "display": "flex",
+              "fontSize": "14px",
+              "letterSpacing": "0%",
+              "lineHeight": "150%",
+              "whiteSpace": "wrap"
+             },
+             "blockId": "x09s8xkeu",
+             "element": "p",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "referenceBlockId": "9aczpqd54"
+            }
+           ],
+           "element": "div",
+           "isChildOfComponent": "fa25a8618c4a5010",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "paddingLeft": "0px",
+            "width": "100%"
+           },
+           "referenceBlockId": "fqe122bno"
+          },
+          {
+           "baseStyles": {
+            "alignItems": "center",
+            "borderRadius": "0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": "10px",
+            "justifyContent": "flex-start",
+            "paddingBottom": "0px",
+            "paddingLeft": "0px",
+            "paddingRight": "0px",
+            "paddingTop": "0px"
+           },
+           "blockId": "me7is7xuq",
+           "children": [
+            {
+             "attributes": {
+              "placeholder": "Enter your email"
+             },
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "rgb(243, 243, 243)",
+              "borderRadius": "8px",
+              "boxShadow": "0px 0px 0px rgb(199, 199, 199)",
+              "display": "flex",
+              "flexDirection": "row",
+              "gap": "14px",
+              "height": "28px",
+              "justifyContent": "flex-start",
+              "paddingBottom": "6px",
+              "paddingLeft": "8px",
+              "paddingRight": "8px",
+              "paddingTop": "6px",
+              "width": "200px"
+             },
+             "blockId": "1964zikhi",
+             "element": "input",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "referenceBlockId": "645lq7cag"
+            },
+            {
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "rgb(23, 23, 23)",
+              "borderRadius": "8px",
+              "display": "flex",
+              "flexDirection": "row",
+              "gap": "8px",
+              "justifyContent": "center",
+              "paddingBottom": "6px",
+              "paddingLeft": "8px",
+              "paddingRight": "8px",
+              "paddingTop": "6px"
+             },
+             "blockId": "t7wczpyl7",
+             "children": [
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "color": "rgb(255, 255, 255)",
+                "display": "flex",
+                "fontSize": "14px",
+                "letterSpacing": "0.5%",
+                "lineHeight": "114.99999761581421%",
+                "overflow": "hidden",
+                "textOverflow": "ellipsis",
+                "whiteSpace": "nowrap"
+               },
+               "blockId": "t2n4zxne8",
+               "element": "p",
+               "innerHTML": "Subscribe",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "ux63onfor"
+              }
+             ],
+             "element": "button",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "referenceBlockId": "mq8efk8vb"
+            }
+           ],
+           "element": "section",
+           "isChildOfComponent": "fa25a8618c4a5010",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "referenceBlockId": "knhbzjtaw"
+          }
+         ],
+         "element": "section",
+         "isChildOfComponent": "fa25a8618c4a5010",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "20px"
+         },
+         "referenceBlockId": "miwqn1o73"
+        }
+       ],
+       "element": "section",
+       "isChildOfComponent": "fa25a8618c4a5010",
+       "isRepeaterBlock": false,
+       "mobileStyles": {
+        "gap": "67px"
+       },
+       "referenceBlockId": "psli81g2p"
+      }
+     ],
+     "componentVersion": "fjilieh1qc",
+     "extendedFromComponent": "fa25a8618c4a5010",
+     "isRepeaterBlock": false
+    }
+   ],
+   "draggable": false,
+   "element": "div",
+   "isRepeaterBlock": false,
+   "originalElement": "body"
+  }
+ ],
+ "client_scripts": [],
+ "creation": "2026-10-19 15:59:37.324074",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 0,
+ "modified": "2026-11-16 10:32:06.729325",
+ "modified_by": "Administrator",
+ "name": "page-44f8938a",
+ "owner": "Administrator",
+ "page_name": "page-44f8938a",
+ "page_title": "Volunteer",
+ "preview": "/assets/builder/images/fallback.png",
+ "project_folder": "kenya_red_cross_website",
+ "published": 1,
+ "published_at": "2026-11-04 08:46:40.654831",
+ "route": "pages/Volunteer",
+ "staging": 0
+}

@@ -1,0 +1,1917 @@
+{
+ "app": "kenya_red_cross_website",
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "baseStyles": {
+    "alignItems": "center",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "flexWrap": "wrap",
+    "position": "relative"
+   },
+   "blockId": "root",
+   "children": [
+    {
+     "blockId": "0bgqjb4te",
+     "blockName": "container",
+     "children": [
+      {
+       "blockId": "4fhmd5811",
+       "blockName": "Embed HTML",
+       "isChildOfComponent": "37b03a5db8452e6e",
+       "isRepeaterBlock": false,
+       "originalElement": "__raw_html__",
+       "referenceBlockId": "ybz2etmad"
+      }
+     ],
+     "componentVersion": "o64ufgm763",
+     "extendedFromComponent": "37b03a5db8452e6e",
+     "isRepeaterBlock": false
+    },
+    {
+     "baseStyles": {
+      "position": "relative"
+     },
+     "blockId": "do7idkbu2",
+     "blockName": "container",
+     "children": [
+      {
+       "baseStyles": {
+        "color": "#ffffff",
+        "fontFamily": "Nunito Sans",
+        "fontSize": "60px",
+        "fontWeight": "bold",
+        "height": "fit-content",
+        "lineHeight": "1.4",
+        "minWidth": "10px",
+        "position": "static",
+        "width": "fit-content"
+       },
+       "blockId": "n00n1t1rs",
+       "element": "h1",
+       "innerHTML": "Regions and Branches",
+       "isChildOfComponent": "8009b382c8ff682e",
+       "isRepeaterBlock": false,
+       "mobileStyles": {
+        "textAlign": "center"
+       },
+       "referenceBlockId": "wts8pcke2",
+       "tabletStyles": {
+        "fontSize": "50px"
+       }
+      }
+     ],
+     "componentVersion": "cp232riv3u",
+     "extendedFromComponent": "8009b382c8ff682e",
+     "isRepeaterBlock": false,
+     "tabletStyles": {
+      "padding": "50px 30px"
+     }
+    },
+    {
+     "baseStyles": {
+      "backgroundColor": "#ffffff",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "50px",
+      "gridTemplateColumns": "repeat(2, minmax(200px, 1fr))",
+      "overflow": "hidden",
+      "position": "relative",
+      "width": "100%"
+     },
+     "blockId": "kpty83jn9",
+     "blockName": "container",
+     "children": [
+      {
+       "baseStyles": {
+        "backgroundColor": "#ffffff",
+        "color": "#000000",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "height": "312px",
+        "overflow": "hidden",
+        "padding": "50px 70px",
+        "position": "relative",
+        "width": "fit-content"
+       },
+       "blockId": "8uy00lxr3",
+       "blockName": "container",
+       "children": [
+        {
+         "blockId": "svlgaz45p",
+         "componentVersion": "e9ao6avbfs",
+         "extendedFromComponent": "716d2251c26ee963",
+         "innerHTML": "OUR BRANCHES",
+         "isRepeaterBlock": false
+        },
+        {
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "10px",
+          "height": "fit-content",
+          "overflow": "hidden",
+          "position": "relative",
+          "width": "fit-content"
+         },
+         "blockId": "66sncmxnc",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "fontSize": "64px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "1uqi7jf84",
+           "element": "h1",
+           "innerHTML": "Where We",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "fontSize": "40px"
+           }
+          },
+          {
+           "baseStyles": {
+            "color": "#ff0000",
+            "fontSize": "64px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "0e106xwp6",
+           "element": "h1",
+           "innerHTML": "Work",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "fontSize": "40px"
+           }
+          }
+         ],
+         "element": "div",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "width": "auto"
+         }
+        },
+        {
+         "blockId": "e0hasprew",
+         "blockName": "container",
+         "children": [
+          {
+           "blockId": "bngrst0uh",
+           "blockName": "container",
+           "isChildOfComponent": "8d04861aa53d3017",
+           "isRepeaterBlock": false,
+           "referenceBlockId": "9zspu80c9"
+          },
+          {
+           "blockId": "lhsadfzca",
+           "blockName": "container",
+           "isChildOfComponent": "8d04861aa53d3017",
+           "isRepeaterBlock": false,
+           "referenceBlockId": "b4lah0gal"
+          },
+          {
+           "blockId": "01n7nx9l8",
+           "blockName": "container",
+           "isChildOfComponent": "8d04861aa53d3017",
+           "isRepeaterBlock": false,
+           "referenceBlockId": "ubzb60na9"
+          }
+         ],
+         "componentVersion": "8qogv9dsto",
+         "extendedFromComponent": "8d04861aa53d3017",
+         "isRepeaterBlock": false
+        },
+        {
+         "baseStyles": {
+          "fontSize": "19px",
+          "height": "fit-content",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "position": "static",
+          "width": "748px"
+         },
+         "blockId": "yqliig32l",
+         "element": "p",
+         "innerHTML": "KRCS Works through a network of 47 county branches grouped into 8 regions. We reach the last mile communities as our offices are located in these communities and our members and volunteers, all 260,000 of them, are from these communities.",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "fontSize": "12px",
+          "width": "auto"
+         }
+        }
+       ],
+       "element": "div",
+       "isRepeaterBlock": false,
+       "mobileStyles": {
+        "padding": "50px 20px 0px"
+       },
+       "tabletStyles": {
+        "padding": "50px 30px",
+        "width": "auto"
+       }
+      },
+      {
+       "baseStyles": {
+        "backgroundColor": "var(--defec0d6-bca3-4625-80c6-ab9e6fdaa618)",
+        "borderColor": "#ff0000",
+        "borderStyle": "solid",
+        "borderWidth": "5px 0px 0px 0px",
+        "color": "#ffffff",
+        "display": "grid",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "10px",
+        "gridAutoColumns": "minmax(0, 1fr)",
+        "gridTemplateColumns": "repeat(3, minmax(0, 1fr))",
+        "height": "200px",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "100%"
+       },
+       "blockId": "gfy7dc1tp",
+       "blockName": "container",
+       "children": [
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "height": "auto",
+          "justifyContent": "center",
+          "overflow": "hidden",
+          "position": "relative",
+          "width": "100%"
+         },
+         "blockId": "3qgbq963z",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "fontSize": "60px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "wjhl6bnky",
+           "element": "h1",
+           "innerHTML": "47",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "fontSize": "20px"
+           },
+           "tabletStyles": {
+            "fontSize": "40px"
+           }
+          },
+          {
+           "baseStyles": {
+            "backgroundColor": "#ff0000",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "height": "4px",
+            "overflow": "hidden",
+            "position": "static",
+            "width": "40px"
+           },
+           "blockId": "lbs6qzvv0",
+           "blockName": "container",
+           "element": "div",
+           "isRepeaterBlock": false
+          },
+          {
+           "baseStyles": {
+            "fontSize": "14px",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "om1911r3z",
+           "element": "p",
+           "innerHTML": "County Branches",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "fontSize": "12px"
+           }
+          }
+         ],
+         "element": "div",
+         "isRepeaterBlock": false
+        },
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "height": "auto",
+          "justifyContent": "center",
+          "overflow": "hidden",
+          "position": "relative",
+          "width": "100%"
+         },
+         "blockId": "1oal2bbjc",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "fontSize": "60px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "8yyxk0x7i",
+           "element": "h1",
+           "innerHTML": "8",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "fontSize": "20px"
+           },
+           "tabletStyles": {
+            "fontSize": "40px"
+           }
+          },
+          {
+           "baseStyles": {
+            "backgroundColor": "#ff0000",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "height": "4px",
+            "overflow": "hidden",
+            "position": "static",
+            "width": "40px"
+           },
+           "blockId": "ndjzksqiw",
+           "blockName": "container",
+           "element": "div",
+           "isRepeaterBlock": false
+          },
+          {
+           "baseStyles": {
+            "fontSize": "14px",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "jlwwi38j7",
+           "element": "p",
+           "innerHTML": "Regions",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "fontSize": "12px"
+           }
+          }
+         ],
+         "element": "div",
+         "isRepeaterBlock": false
+        },
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "height": "auto",
+          "justifyContent": "center",
+          "overflow": "hidden",
+          "position": "relative",
+          "width": "100%"
+         },
+         "blockId": "g2nsup2vg",
+         "blockName": "container",
+         "children": [
+          {
+           "baseStyles": {
+            "fontSize": "60px",
+            "fontWeight": "bold",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "2bj68m3mj",
+           "element": "h1",
+           "innerHTML": "260,000",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "fontSize": "20px"
+           },
+           "tabletStyles": {
+            "fontSize": "40px"
+           }
+          },
+          {
+           "baseStyles": {
+            "backgroundColor": "#ff0000",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "height": "4px",
+            "overflow": "hidden",
+            "position": "static",
+            "width": "40px"
+           },
+           "blockId": "tz2ch72qy",
+           "blockName": "container",
+           "element": "div",
+           "isRepeaterBlock": false
+          },
+          {
+           "baseStyles": {
+            "fontSize": "14px",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "7kyxk8y1k",
+           "element": "p",
+           "innerHTML": "Members &amp; Volunteers",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "fontSize": "12px"
+           }
+          }
+         ],
+         "element": "div",
+         "isRepeaterBlock": false
+        }
+       ],
+       "element": "div",
+       "isRepeaterBlock": false,
+       "mobileStyles": {
+        "gap": "52px",
+        "gridAutoColumns": "minmax(0, 1fr)",
+        "gridTemplateColumns": "repeat(1, minmax(0, 1fr))",
+        "height": "fit-content",
+        "padding": "20px 0px"
+       }
+      }
+     ],
+     "element": "div",
+     "isRepeaterBlock": false
+    },
+    {
+     "baseStyles": {
+      "backgroundColor": "#ffffff",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "20px",
+      "height": "fit-content",
+      "overflow": "hidden",
+      "padding": "50px 70px",
+      "position": "relative",
+      "width": "100%"
+     },
+     "blockId": "1ocwwymsi",
+     "blockName": "container",
+     "children": [
+      {
+       "baseStyles": {
+        "alignItems": "flex-start",
+        "color": "#000000",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "height": "137px",
+        "justifyContent": "center",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "100%"
+       },
+       "blockId": "xf1d97fj0",
+       "blockName": "container",
+       "children": [
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "20px",
+          "height": "fit-content",
+          "justifyContent": "flex-start",
+          "overflow": "hidden",
+          "position": "relative",
+          "width": "fit-content"
+         },
+         "blockId": "wyopzcnfe",
+         "blockName": "container",
+         "children": [
+          {
+           "attributes": {
+            "src": "/assets/kenya_red_cross_website/builder_assets/image9733f9.webp"
+           },
+           "baseStyles": {
+            "flexShrink": 0,
+            "height": "80px",
+            "objectFit": "cover",
+            "padding": "0px",
+            "width": "152px"
+           },
+           "blockId": "ob0pjnsnh",
+           "element": "img",
+           "isRepeaterBlock": false
+          },
+          {
+           "baseStyles": {
+            "fontSize": "40px",
+            "fontWeight": "800",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "position": "static",
+            "width": "fit-content"
+           },
+           "blockId": "hehh9p7fm",
+           "element": "h1",
+           "innerHTML": "County Branches and Regions",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "fontSize": "2REM"
+           }
+          }
+         ],
+         "element": "div",
+         "isRepeaterBlock": false
+        }
+       ],
+       "element": "div",
+       "isRepeaterBlock": false
+      },
+      {
+       "baseStyles": {
+        "backgroundColor": "#e2e2e2",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "height": "fit-content",
+        "overflow": "hidden",
+        "position": "static",
+        "width": "100%"
+       },
+       "blockId": "f4cpxt581",
+       "blockName": "container",
+       "children": [
+        {
+         "baseStyles": {
+          "height": "fit-content",
+          "width": "fit-content"
+         },
+         "blockId": "m8kedv7j9",
+         "blockName": "Embed HTML",
+         "element": "div",
+         "innerHTML": "<style>\n:root{--red:#EE2435;--bg:#FFFFFF;--soft:#F1F5F9;--card:#FFFFFF;--text:#1e2b3a;--muted:#4b5a6b;--line:#dbe3ec;--head:#011E41;--cf:#d6e2f0;--cfh:#9db8d8}\n.mapsec *,.dir *{box-sizing:border-box}\n.mapsec{font-family:Figtree,Arial,sans-serif;color:var(--text);background:var(--bg)}\n.wrap{max-width:1180px;margin:0 auto;padding:0 24px}\n.mapsec{padding:56px 0 64px}\n.mh{display:flex;align-items:center;gap:12px;margin-bottom:24px}\n.mh svg{width:38px;height:38px}\n.mh h2{font-size:clamp(24px,3vw,34px);color:var(--head)}\n.mapgrid{display:grid;grid-template-columns:1.5fr 1fr;gap:24px;align-items:start}\n@media(max-width:900px){.mapgrid{grid-template-columns:1fr}}\n.mapbox{position:relative;background:var(--soft);border-radius:16px;overflow:hidden;height:clamp(420px,72vh,660px)}\n#map{width:100%;height:100%;display:block;cursor:grab;touch-action:pan-y}\n.cty{fill:var(--cf);stroke:var(--card);stroke-width:1.2;cursor:pointer;outline:none;transition:fill .12s}\n.cty:hover{fill:var(--cfh)}\n.cty:focus-visible{stroke:var(--red);stroke-width:3}\n.cty.sel{fill:var(--red)}\n.lbl{display:none;font:600 9px Figtree,Arial,sans-serif;fill:var(--head);text-anchor:middle;pointer-events:none;paint-order:stroke;stroke:var(--soft);stroke-width:2px}\n.zl .lbl{display:block}\n.zc{position:absolute;top:12px;right:12px;display:grid;gap:6px}\n.zc button{width:42px;height:42px;border:1px solid var(--line);background:var(--card);color:var(--head);border-radius:10px;font:700 20px Figtree,Arial,sans-serif;cursor:pointer}\n.zc button:hover{border-color:var(--red)}\n.pcard{background:var(--card);border:1px solid var(--line);border-top:4px solid var(--red);border-radius:16px;padding:24px}\n.pcard h3{font-size:24px;color:var(--head);margin-bottom:8px}\n.pcard p{margin:0 0 10px}.pcard .m{color:var(--muted);font-size:15px}\n.pcard a{color:var(--head);font-weight:600}\n.legend{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px;margin-top:18px}\n.legend h4{margin:0 0 12px;font:800 16px \"Bricolage Grotesque\",Arial,sans-serif;color:var(--head)}\n.legend ul{list-style:none;margin:0;padding:0;display:grid;gap:8px;font-size:15px}\n.legend li{display:flex;align-items:center;gap:10px}\n.sw{width:18px;height:18px;border-radius:4px;flex:none}\n.legend .n{color:var(--muted);font-size:14px;margin:12px 0 0}\n.dir{background:var(--soft);padding:56px 0 80px}\n.dir h2{font-size:clamp(26px,3.5vw,38px);color:var(--head);margin-bottom:20px}\n.dir input{width:100%;max-width:520px;padding:14px 16px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--text);font:inherit}\n.dir input::placeholder{color:var(--muted)}\n.cnt{color:var(--muted);font-size:15px;margin:14px 0}\n.dgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;list-style:none;margin:0;padding:0}\n.dc{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--red);border-radius:12px;padding:14px 16px;display:flex;justify-content:space-between;align-items:center;gap:10px}\n.dc b{display:block;font:700 18px \"Bricolage Grotesque\",Arial,sans-serif;color:var(--head)}\n.dc small{color:var(--muted)}\n.dc button{border:1px solid var(--head);background:transparent;color:var(--head);border-radius:8px;padding:7px 12px;font:600 14px Figtree,Arial,sans-serif;cursor:pointer;white-space:nowrap}\n.dc button:hover{background:var(--head);color:var(--bg)}\n.none{background:var(--card);border-top:4px solid var(--red);border-radius:12px;padding:32px;text-align:center;color:var(--muted)}\n</style>\n<section class=\"mapsec\" id=\"map-section\" aria-labelledby=\"mh\">\n <div class=\"wrap\">\n  <div class=\"mh\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\"><rect x=\"2\" y=\"2\" width=\"36\" height=\"36\" rx=\"8\" fill=\"#fff\" stroke=\"#EE2435\" stroke-width=\"2\"/><path d=\"M16 8h8v8h8v8h-8v8h-8v-8H8v-8h8z\" fill=\"#EE2435\"/></svg><h2 id=\"mh\">County Branches and Regions</h2></div>\n  <div class=\"mapgrid\">\n   <div class=\"mapbox\">\n    <svg id=\"map\" viewBox=\"0 0 799 1013\" role=\"group\" aria-label=\"Map of Kenya showing the 47 counties. Select a county for details.\"><g id=\"layer\"><path class=\"cty\" data-n=\"Baringo\" d=\"M177.5,408.3L180.7,395.8L187.1,387.1L188.1,380.7L186.5,378.7L188.0,376.7L218.5,426.1L226.2,426.0L240.5,443.9L242.9,443.8L243.8,446.5L247.6,448.3L248.3,452.5L257.7,458.4L249.3,471.3L243.3,477.1L236.4,479.9L238.2,486.5L227.2,511.6L230.3,517.8L226.6,520.2L228.5,523.1L223.5,524.5L221.5,537.1L219.2,536.9L219.9,542.5L218.1,544.4L213.9,542.6L209.3,539.9L208.4,537.1L205.2,537.3L204.8,534.3L202.7,533.5L201.6,536.1L206.5,541.6L204.7,546.3L200.5,551.3L196.4,546.7L190.9,555.0L189.4,553.1L187.7,554.2L187.8,559.3L184.4,565.7L181.3,564.3L181.7,559.1L177.7,550.7L173.8,551.2L172.0,546.7L167.1,543.8L163.2,543.9L161.1,541.5L162.9,534.1L166.1,536.3L167.6,526.1L178.3,526.1L178.0,524.1L180.9,521.8L179.6,517.1L181.0,508.0L174.8,504.4L171.9,492.8L169.0,489.6L170.1,483.8L168.4,481.7L169.4,475.6L172.4,472.9L170.8,469.1L173.1,460.9L171.1,456.2L172.1,443.7L179.7,428.1L177.5,408.3Z\" tabindex=\"0\" role=\"button\" aria-label=\"Baringo County branch\"><title>Baringo</title></path><path class=\"cty\" data-n=\"Bomet\" d=\"M141.6,583.8L149.7,583.6L153.9,579.6L167.5,601.9L148.4,607.6L151.4,615.2L161.8,623.6L151.8,632.6L150.7,637.8L132.8,646.4L117.0,633.6L110.1,632.0L110.9,627.7L113.2,628.3L117.9,623.1L113.6,613.7L116.0,612.3L113.6,595.3L117.2,590.3L123.0,588.7L127.2,591.6L130.6,591.0L129.7,589.7L132.0,585.3L139.1,585.6L141.6,583.8Z\" tabindex=\"0\" role=\"button\" aria-label=\"Bomet County branch\"><title>Bomet</title></path><path class=\"cty\" data-n=\"Bungoma\" d=\"M66.9,428.0L70.2,432.2L75.2,434.7L74.2,437.2L82.7,449.3L88.6,452.1L87.4,454.2L89.7,462.6L110.6,454.3L111.2,460.1L115.4,464.9L111.5,468.7L106.5,467.5L101.7,469.1L99.8,474.5L93.2,476.3L91.9,480.7L88.7,483.2L89.8,484.5L85.2,486.8L75.5,497.1L68.0,498.6L67.8,501.1L66.8,497.7L63.9,496.1L62.1,498.8L57.1,494.6L52.8,496.7L47.8,496.1L47.4,493.5L49.7,492.3L45.6,486.9L45.8,482.4L47.1,478.7L50.5,477.1L49.1,470.2L52.0,470.4L52.2,469.0L51.2,466.4L48.8,467.4L44.9,465.2L50.0,461.9L50.2,458.7L53.4,456.6L61.6,430.9L66.6,433.1L66.9,428.0Z\" tabindex=\"0\" role=\"button\" aria-label=\"Bungoma County branch\"><title>Bungoma</title></path><path class=\"cty\" data-n=\"Busia\" d=\"M52.2,469.5L49.1,470.2L50.5,477.1L47.1,478.7L45.8,482.7L45.6,486.9L49.7,492.6L47.4,493.5L47.9,496.8L45.0,497.3L43.1,500.5L51.2,505.6L45.0,513.3L34.4,511.6L32.6,514.1L29.6,514.2L29.5,516.8L29.3,517.1L24.7,513.0L20.4,518.9L20.2,528.5L16.0,531.1L13.0,543.1L10.8,545.8L3.9,545.7L0.2,531.9L13.1,515.4L14.7,510.6L18.9,508.1L17.8,497.4L20.9,495.0L22.6,484.5L28.8,480.2L36.5,478.7L36.6,475.0L40.1,473.3L40.3,466.5L44.7,465.2L48.8,467.4L51.2,466.4L52.2,469.5Z\" tabindex=\"0\" role=\"button\" aria-label=\"Busia County branch\"><title>Busia</title></path><path class=\"cty\" data-n=\"Elgeyo-Marakwet\" d=\"M178.4,411.2L178.6,432.6L172.1,443.7L171.1,456.2L173.1,460.9L170.8,469.1L172.4,472.9L169.4,475.6L168.4,481.7L170.1,483.8L169.0,489.6L171.9,492.8L174.8,504.4L181.0,508.0L179.6,517.1L180.9,521.8L178.0,524.1L178.3,526.1L167.4,526.1L165.5,523.4L160.0,524.2L162.8,520.5L159.3,520.6L157.3,518.0L158.4,508.9L155.6,506.1L157.0,504.1L154.9,498.1L156.8,484.2L149.7,472.7L159.1,472.8L157.5,455.5L154.3,455.6L155.6,453.1L150.2,452.3L150.6,449.3L143.2,448.4L143.0,442.5L144.8,441.2L133.1,435.6L124.0,423.1L141.3,431.4L163.2,414.6L169.6,415.1L178.4,411.2Z\" tabindex=\"0\" role=\"button\" aria-label=\"Elgeyo-Marakwet County branch\"><title>Elgeyo-Marakwet</title></path><path class=\"cty\" data-n=\"Embu\" d=\"M401.7,585.6L397.0,596.5L397.1,601.2L401.0,605.4L398.1,607.5L400.4,615.9L396.0,624.0L389.6,624.4L389.4,623.0L384.6,625.3L383.0,620.7L379.6,621.1L377.0,622.5L375.4,627.5L371.8,626.8L367.7,630.7L363.5,631.2L360.9,634.5L350.0,628.1L341.7,627.5L339.3,623.1L335.5,621.6L336.3,618.6L340.5,618.0L344.7,620.0L352.7,616.4L358.4,616.2L356.2,611.7L357.1,601.3L351.4,594.1L351.2,583.9L339.6,558.2L364.2,579.1L380.8,588.0L389.0,586.7L397.5,577.3L397.8,582.2L401.7,585.6Z\" tabindex=\"0\" role=\"button\" aria-label=\"Embu County branch\"><title>Embu</title></path><path class=\"cty\" data-n=\"Garissa\" d=\"M538.5,452.3L554.9,443.6L558.1,446.8L565.2,467.3L582.1,490.5L588.8,494.8L599.3,496.9L606.7,502.1L614.8,503.8L632.2,517.8L641.9,523.1L656.2,524.4L659.5,523.8L662.1,520.4L667.4,521.5L673.6,519.9L680.4,511.1L695.1,505.2L708.0,496.6L708.1,626.0L765.0,702.8L765.0,708.9L699.1,714.5L629.6,746.4L627.4,739.0L627.6,729.4L625.1,725.4L624.2,703.8L617.5,690.5L612.1,691.8L612.2,686.3L609.0,679.2L609.6,667.1L602.1,656.0L597.4,643.1L598.2,640.4L597.0,638.2L595.8,638.9L596.7,636.7L593.8,631.8L594.7,628.0L593.0,628.3L593.0,623.5L589.7,620.2L591.2,617.3L589.6,616.6L588.8,610.2L586.8,609.2L586.4,604.3L582.7,601.8L578.5,602.2L577.5,598.2L575.1,598.0L567.6,577.2L563.1,572.1L560.1,572.9L558.6,567.9L551.5,562.0L547.2,562.1L545.1,559.3L541.3,558.8L540.1,556.4L534.6,557.7L531.5,556.1L529.1,557.3L522.4,556.1L515.4,547.7L506.0,549.0L502.7,553.0L500.8,551.6L491.7,552.3L484.2,547.8L481.7,534.5L484.4,523.8L475.0,492.2L479.3,492.4L481.3,490.6L485.5,492.0L494.8,483.1L499.9,483.2L502.8,480.2L509.8,480.6L514.2,474.5L517.3,475.6L522.9,474.0L526.3,471.0L532.4,458.6L538.5,452.3Z\" tabindex=\"0\" role=\"button\" aria-label=\"Garissa County branch\"><title>Garissa</title></path><path class=\"cty\" data-n=\"Homa Bay\" d=\"M39.6,585.6L62.1,570.2L79.5,568.9L87.4,575.3L91.2,581.8L97.6,583.2L100.3,581.6L100.2,583.4L103.8,584.6L109.9,582.2L111.0,583.7L102.7,589.6L79.3,600.5L75.0,603.5L72.6,609.6L69.3,608.2L64.9,609.7L62.2,617.8L57.3,621.5L58.5,624.1L55.2,629.2L47.9,624.5L47.0,627.7L40.7,629.6L29.0,618.1L18.5,621.3L16.9,623.3L1.6,623.3L0.8,599.2L3.6,576.8L32.8,576.8L37.0,584.4L39.6,585.6Z\" tabindex=\"0\" role=\"button\" aria-label=\"Homa Bay County branch\"><title>Homa Bay</title></path><path class=\"cty\" data-n=\"Isiolo\" d=\"M403.3,416.8L442.8,385.3L447.1,366.9L505.1,333.3L508.2,342.1L521.9,356.4L530.2,373.3L539.6,377.6L548.8,387.8L553.5,390.3L536.2,396.3L554.9,443.6L540.0,450.7L532.4,458.6L526.3,471.0L522.9,474.0L517.3,475.6L514.2,474.5L509.8,480.6L502.8,480.2L499.9,483.2L494.8,483.1L485.5,492.0L481.3,490.6L479.3,492.4L475.0,492.2L484.4,523.8L481.8,536.2L485.7,549.9L477.9,547.0L472.8,548.3L464.3,544.6L461.0,549.2L457.8,548.9L455.1,551.5L450.0,549.4L449.0,544.5L441.3,535.3L438.7,527.1L428.5,520.2L428.4,510.8L426.5,510.1L414.9,476.3L391.4,486.9L367.5,494.9L367.0,501.1L369.1,507.0L366.9,510.3L364.1,510.7L362.5,516.7L351.6,513.3L348.8,513.4L348.8,514.7L347.4,515.6L348.0,507.8L343.6,499.1L345.7,491.9L295.3,486.5L295.5,483.4L301.2,476.5L302.3,467.7L306.9,468.6L319.0,464.3L325.7,468.8L330.8,469.1L334.6,466.7L338.8,471.0L345.3,484.4L355.8,483.7L362.0,486.5L372.1,483.3L377.9,476.8L381.2,477.6L383.5,475.4L392.0,475.1L396.5,468.6L400.1,471.9L410.0,462.7L416.9,465.0L413.6,462.6L411.9,434.6L403.6,423.6L403.3,416.8Z\" tabindex=\"0\" role=\"button\" aria-label=\"Isiolo County branch\"><title>Isiolo</title></path><path class=\"cty\" data-n=\"Kajiado\" d=\"M242.2,648.0L262.2,658.7L257.6,670.2L274.6,673.5L282.0,680.9L290.6,681.2L297.9,684.1L297.1,692.0L302.4,688.6L306.4,690.9L305.1,698.0L319.9,716.5L323.7,717.0L324.8,721.0L323.0,727.0L327.4,736.5L332.4,736.7L336.9,742.5L344.9,744.3L368.2,758.3L375.3,758.5L381.1,761.8L376.2,765.9L375.7,771.8L368.6,774.2L393.8,803.5L398.9,813.3L401.0,813.5L402.8,820.8L400.6,829.9L398.3,831.7L393.6,861.3L389.3,859.6L377.9,861.0L376.0,848.9L360.8,838.7L208.8,753.5L208.8,751.4L211.6,751.4L213.2,734.0L211.5,732.1L213.8,728.8L210.5,723.5L213.8,716.0L212.6,714.1L215.3,712.9L213.5,708.0L217.3,700.5L214.0,692.2L243.4,660.6L242.2,648.0Z\" tabindex=\"0\" role=\"button\" aria-label=\"Kajiado County branch\"><title>Kajiado</title></path><path class=\"cty\" data-n=\"Kakamega\" d=\"M110.6,454.3L113.9,453.0L120.0,455.1L121.2,461.1L123.4,460.4L124.2,476.9L117.3,480.1L112.5,478.9L111.5,481.7L108.6,479.5L100.8,483.9L97.7,482.5L93.8,488.5L99.4,492.8L104.4,501.6L104.2,506.4L102.3,507.4L106.5,519.0L104.3,519.0L101.3,523.1L89.9,524.7L90.4,526.9L83.6,529.5L82.6,528.2L77.1,530.9L70.8,530.4L64.9,533.7L63.0,529.2L56.2,532.8L56.8,531.5L54.5,530.0L57.0,527.9L51.3,527.8L53.3,521.2L47.3,524.9L49.0,516.9L45.9,512.4L51.2,505.6L43.1,500.5L45.0,497.3L57.1,494.6L62.1,498.8L63.9,496.1L66.6,497.5L67.8,501.1L68.0,498.6L75.5,497.1L85.2,486.8L89.8,484.5L88.7,483.2L94.8,474.8L101.4,473.0L101.7,469.1L106.5,467.5L111.2,468.8L115.1,466.8L115.1,463.6L110.0,457.1L110.6,454.3Z\" tabindex=\"0\" role=\"button\" aria-label=\"Kakamega County branch\"><title>Kakamega</title></path><path class=\"cty\" data-n=\"Kericho\" d=\"M152.3,540.5L161.1,541.5L163.2,543.9L167.1,543.8L172.0,546.7L172.8,549.2L168.5,556.0L169.8,559.0L175.8,559.4L173.4,570.2L170.8,572.5L167.9,570.8L166.8,573.9L166.0,571.3L161.6,569.0L155.7,570.8L150.1,573.3L153.9,579.6L149.8,583.6L132.0,585.3L129.7,589.7L130.6,591.0L127.2,591.6L123.0,588.7L112.1,592.8L113.3,587.7L110.1,582.2L109.6,576.9L114.1,572.5L115.2,564.6L119.2,563.2L121.7,558.7L127.5,559.1L135.0,566.4L142.8,567.1L141.8,560.7L136.8,559.7L136.6,557.5L131.5,553.7L139.6,551.7L146.0,554.1L151.2,550.9L149.2,545.5L152.3,540.5Z\" tabindex=\"0\" role=\"button\" aria-label=\"Kericho County branch\"><title>Kericho</title></path><path class=\"cty\" data-n=\"Kiambu\" d=\"M264.1,635.1L268.6,629.2L267.4,625.7L270.7,626.0L269.6,623.6L276.0,618.9L283.6,626.2L297.5,632.7L312.4,646.1L324.2,648.5L335.3,644.8L345.1,652.5L343.1,654.8L336.9,649.7L329.9,651.1L326.3,654.7L327.0,659.7L324.3,665.2L319.7,669.1L314.9,663.6L309.3,666.7L301.7,665.2L299.7,663.7L302.7,660.5L298.4,659.1L298.5,662.3L294.7,662.0L293.4,664.2L287.6,662.2L286.2,666.0L284.1,665.2L281.4,666.3L280.6,669.2L277.8,669.0L275.2,674.6L257.6,670.2L263.0,655.8L267.6,649.4L268.2,641.4L266.6,636.0L264.1,635.1Z\" tabindex=\"0\" role=\"button\" aria-label=\"Kiambu County branch\"><title>Kiambu</title></path><path class=\"cty\" data-n=\"Kilifi\" d=\"M626.4,814.4L624.5,816.0L626.2,818.8L624.3,822.0L627.2,826.1L623.2,832.2L625.8,831.9L623.6,834.0L623.3,847.5L627.3,842.3L632.9,841.5L626.0,847.0L624.1,851.4L624.8,855.9L622.5,858.7L621.3,857.8L620.8,871.7L606.2,881.7L608.5,879.4L607.1,876.2L608.4,874.3L603.8,876.1L602.3,881.7L605.3,881.8L605.5,883.7L595.5,906.2L590.2,903.2L587.0,903.9L587.4,900.8L585.9,901.9L586.8,904.0L589.7,905.1L586.8,905.2L588.3,907.4L592.5,906.0L595.0,907.0L595.3,910.5L592.7,910.5L595.3,910.7L595.8,912.4L586.0,937.2L580.2,937.7L580.0,932.4L577.7,935.3L573.0,935.4L573.8,938.9L568.6,937.8L565.6,942.4L563.1,942.2L558.3,931.5L550.8,925.0L546.5,923.7L547.9,916.6L544.5,915.7L543.5,903.1L540.7,899.4L518.0,899.8L530.7,850.0L597.8,774.1L626.4,814.4ZM628.0,817.3L627.2,818.4L627.7,817.4L628.0,817.3ZM627.6,817.2L627.4,817.5L627.5,817.1L627.6,817.2ZM627.4,820.4L626.9,821.0L627.2,820.2L627.4,820.4ZM627.3,824.1L627.0,824.2L627.3,824.0L627.3,824.1ZM626.9,817.0L626.3,817.8L626.2,817.6L626.9,817.0ZM626.6,814.7L626.9,816.1L626.3,816.8L626.6,814.7ZM626.8,819.2L626.4,819.4L626.9,818.9L626.8,819.2ZM626.9,823.8L626.8,823.9L626.7,823.8L626.9,823.8ZM626.5,839.8L626.5,840.1L625.8,839.0L626.5,839.8ZM626.5,820.3L626.2,820.2L626.5,820.0L626.5,820.3ZM625.9,821.6L626.2,822.4L625.6,821.7L625.9,821.6ZM626.0,840.5L625.5,840.9L626.1,840.2L626.0,840.5ZM626.0,816.1L625.8,816.3L625.9,816.1L626.0,816.1ZM626.0,829.8L625.5,830.2L625.9,829.7L626.0,829.8ZM625.8,816.9L625.5,816.9L625.7,816.6L625.8,816.9ZM625.8,832.8L625.2,837.8L624.8,835.9L625.5,833.2L625.8,832.8ZM625.3,821.1L625.1,821.6L624.9,821.1L625.3,821.1ZM625.0,839.0L624.6,839.3L624.8,838.5L625.0,839.0ZM607.6,877.9L607.4,877.9L607.5,877.7L607.6,877.9ZM607.3,879.0L606.6,879.0L607.4,878.8L607.3,879.0ZM606.5,878.0L605.6,877.8L605.8,876.9L606.5,878.0ZM605.6,882.2L605.6,882.4L605.5,882.3L605.6,882.2ZM605.3,878.1L604.7,879.6L603.6,879.1L605.3,878.1Z\" tabindex=\"0\" role=\"button\" aria-label=\"Kilifi County branch\"><title>Kilifi</title></path><path class=\"cty\" data-n=\"Kirinyaga\" d=\"M351.5,594.2L357.1,601.3L356.2,611.7L358.4,616.2L352.7,616.4L344.7,620.0L340.5,618.0L336.3,618.6L335.4,621.6L332.5,609.8L330.1,611.9L328.8,609.4L326.7,609.8L326.6,603.2L323.2,599.8L326.3,587.3L328.8,587.0L339.6,558.2L351.2,583.9L351.5,594.2Z\" tabindex=\"0\" role=\"button\" aria-label=\"Kirinyaga County branch\"><title>Kirinyaga</title></path><path class=\"cty\" data-n=\"Kisii\" d=\"M95.0,593.2L97.1,595.5L96.1,600.5L97.5,604.6L93.4,602.6L90.4,606.2L90.0,610.0L87.4,610.4L103.2,620.4L110.1,632.0L76.4,640.4L72.1,639.6L70.7,633.1L73.3,606.4L79.3,600.5L95.0,593.2Z\" tabindex=\"0\" role=\"button\" aria-label=\"Kisii County branch\"><title>Kisii</title></path><path class=\"cty\" data-n=\"Kisumu\" d=\"M50.0,550.9L65.1,544.6L66.4,546.7L69.2,541.8L77.9,544.1L77.5,545.7L81.6,543.7L84.3,546.4L91.9,540.7L89.7,545.3L101.2,546.7L107.8,545.1L113.8,546.6L115.4,549.9L118.8,543.4L124.0,547.0L129.4,546.0L130.9,546.8L131.5,553.7L136.6,557.5L136.8,559.7L141.8,560.7L143.0,566.7L135.9,566.8L129.2,559.7L121.7,558.7L119.2,563.2L115.2,564.6L114.1,572.5L109.6,576.9L110.1,582.2L104.7,584.7L100.2,583.4L100.3,581.6L97.6,583.2L91.2,581.8L87.4,575.3L79.5,568.9L62.1,570.2L57.2,573.0L50.0,550.9Z\" tabindex=\"0\" role=\"button\" aria-label=\"Kisumu County branch\"><title>Kisumu</title></path><path class=\"cty\" data-n=\"Kitui\" d=\"M452.2,550.5L491.8,619.1L504.2,646.2L508.8,710.8L504.7,713.3L510.3,734.5L488.3,777.0L477.3,784.4L471.5,784.1L516.3,847.2L511.3,845.1L489.3,849.9L489.8,848.4L486.3,847.5L475.4,847.0L473.1,844.3L460.7,840.5L456.4,836.7L451.5,828.0L451.9,821.7L436.2,785.4L431.0,782.9L429.9,778.5L420.4,774.3L419.9,771.5L416.2,769.0L413.6,759.8L410.8,757.7L405.1,759.6L404.1,747.8L399.6,736.4L400.5,733.5L397.9,726.9L392.6,721.0L394.3,718.5L392.5,712.1L378.3,692.9L386.1,691.7L390.7,687.8L389.2,682.5L385.3,678.5L383.3,678.7L372.2,659.2L368.5,657.8L368.2,651.7L382.6,650.8L388.5,655.8L393.3,647.8L393.5,642.4L395.6,640.4L393.3,639.4L394.1,636.7L390.9,631.2L393.4,624.0L397.1,623.3L400.4,615.9L398.1,607.5L401.0,605.4L397.1,601.2L397.0,596.5L402.3,585.9L405.3,584.2L408.5,569.7L420.2,570.6L425.1,566.6L427.4,558.3L430.9,553.3L437.6,551.5L439.7,548.2L446.9,551.6L452.2,550.5Z\" tabindex=\"0\" role=\"button\" aria-label=\"Kitui County branch\"><title>Kitui</title></path><path class=\"cty\" data-n=\"Kwale\" d=\"M540.7,899.4L543.5,903.1L544.5,915.7L547.9,916.6L546.5,923.7L550.8,925.0L560.9,934.7L563.1,942.2L565.6,942.4L566.5,955.0L569.6,952.0L572.6,955.1L571.3,957.6L572.9,958.6L568.6,968.6L567.1,968.7L568.5,970.0L562.6,986.7L561.9,983.6L559.6,983.0L555.0,996.1L553.1,993.4L549.8,997.8L546.4,997.0L549.1,1007.3L539.8,1006.2L541.4,1004.3L539.7,1003.8L540.7,1000.7L542.4,999.7L540.1,998.3L540.7,999.5L536.7,1001.5L533.0,1000.0L535.7,1003.1L531.4,1004.7L532.0,1006.2L530.6,1006.4L529.9,1007.7L530.6,1010.8L453.5,956.8L503.3,939.0L512.5,919.0L501.6,912.6L505.3,906.2L514.9,912.0L518.0,899.8L540.7,899.4ZM562.4,987.2L562.0,987.2L562.4,987.0L562.4,987.2ZM554.1,996.3L554.1,1000.5L552.4,1001.9L551.4,998.6L553.3,998.9L554.1,996.3ZM550.4,1000.0L550.2,999.9L550.4,999.8L550.4,1000.0ZM549.8,1000.4L549.5,1000.8L548.9,1000.7L549.8,1000.4ZM549.6,1013.0L549.3,1013.3L549.2,1013.1L549.6,1013.0ZM544.8,1009.4L548.7,1008.6L549.2,1009.9L544.8,1009.4ZM549.1,1000.2L549.0,1000.3L549.0,1000.2L549.1,1000.2ZM549.0,1011.4L548.9,1011.5L548.8,1011.4L549.0,1011.4ZM548.8,1000.3L548.7,1000.4L548.6,1000.3L548.8,1000.3ZM548.5,1011.4L548.6,1011.6L548.4,1011.4L548.5,1011.4ZM538.7,1000.6L539.8,1001.1L539.1,1002.1L538.7,1000.6ZM537.7,1001.9L538.0,1003.1L537.5,1002.6L537.7,1001.9ZM535.3,1004.1L534.8,1004.1L534.7,1003.9L535.3,1004.1ZM534.6,1004.3L533.8,1004.5L534.6,1004.0L534.6,1004.3ZM533.5,1004.8L533.0,1004.9L533.0,1004.3L533.5,1004.8ZM532.8,1005.5L532.5,1005.8L532.7,1005.3L532.8,1005.5ZM532.2,1007.9L531.8,1008.1L532.1,1007.7L532.2,1007.9ZM532.0,1006.5L531.8,1007.0L531.7,1006.9L532.0,1006.5ZM531.5,1007.1L531.4,1007.9L531.1,1007.3L531.5,1007.1ZM530.9,1007.4L530.4,1007.5L530.5,1007.2L530.9,1007.4ZM530.9,1006.9L530.8,1007.0L530.9,1006.8L530.9,1006.9Z\" tabindex=\"0\" role=\"button\" aria-label=\"Kwale County branch\"><title>Kwale</title></path><path class=\"cty\" data-n=\"Laikipia\" d=\"M257.7,458.4L257.1,461.7L279.7,461.6L288.2,456.1L290.4,457.5L295.4,469.3L300.2,470.2L302.0,468.8L301.2,476.5L295.5,483.4L295.3,486.5L345.7,491.9L343.6,499.1L348.0,507.8L348.2,514.1L344.8,517.7L343.7,523.4L339.5,525.1L334.2,533.3L317.6,540.8L322.0,546.0L321.2,548.5L316.5,542.1L311.3,548.0L306.5,550.1L307.2,556.6L310.5,561.1L307.4,572.7L294.3,568.5L292.6,562.8L295.7,560.8L294.8,557.4L291.7,556.6L291.7,553.4L285.1,554.0L274.2,558.5L272.1,553.9L264.0,552.2L263.3,549.9L266.8,545.3L273.8,544.8L272.3,541.4L268.7,542.7L266.2,536.0L261.0,538.2L255.1,529.0L252.9,533.9L248.9,537.1L251.2,538.5L247.3,539.9L243.7,536.0L243.4,540.0L234.4,545.3L234.3,537.4L237.2,530.3L229.0,519.6L230.3,517.8L227.2,511.6L238.2,486.5L236.4,479.9L243.3,477.1L249.3,471.3L257.7,458.4Z\" tabindex=\"0\" role=\"button\" aria-label=\"Laikipia County branch\"><title>Laikipia</title></path><path class=\"cty\" data-n=\"Lamu\" d=\"M765.0,708.9L747.6,729.3L746.6,728.5L745.4,729.0L747.8,729.6L742.7,734.4L740.0,739.1L739.1,738.5L736.5,741.2L736.3,739.3L737.1,738.4L736.8,736.9L732.4,738.0L734.0,733.9L732.6,734.9L732.4,733.1L730.7,734.0L731.4,731.8L720.7,740.3L720.1,739.1L715.4,740.9L714.8,744.4L710.0,747.8L707.1,744.7L707.1,737.7L714.0,731.0L712.9,729.6L710.8,732.3L709.1,731.7L704.9,737.6L705.8,741.4L703.8,745.7L705.0,749.5L703.6,750.7L700.8,746.1L702.5,743.9L699.1,741.3L696.7,741.9L696.2,738.1L695.2,740.2L692.9,736.1L693.0,739.0L686.2,736.4L696.0,743.1L691.7,744.8L699.1,744.1L698.8,747.7L697.6,746.3L696.3,747.5L698.2,749.2L696.9,748.5L693.9,750.0L697.2,749.3L696.4,750.5L698.6,750.1L700.0,752.0L701.4,765.2L697.1,761.7L695.7,763.1L697.1,764.3L694.8,764.2L696.5,766.3L688.3,766.3L686.9,769.1L686.3,766.8L684.6,768.3L683.4,765.8L683.2,767.6L681.4,765.0L681.2,765.8L679.4,763.3L678.4,763.5L681.4,767.1L679.3,769.2L682.2,768.7L684.4,770.6L682.6,771.3L684.4,772.6L684.6,773.8L681.3,770.2L677.9,772.0L679.2,774.0L684.7,774.8L686.9,779.1L684.7,782.6L688.3,777.1L691.1,780.0L685.6,788.1L675.2,789.9L652.9,782.8L633.8,782.9L633.8,767.9L629.6,746.4L699.1,714.5L765.0,708.9ZM760.1,717.9L759.3,718.9L758.2,719.9L758.8,718.5L760.1,717.9ZM759.9,717.6L759.5,717.3L759.6,717.2L759.9,717.6ZM757.3,721.1L757.3,721.2L757.2,721.1L757.3,721.1ZM757.3,721.4L757.1,721.6L757.2,721.3L757.3,721.4ZM756.4,723.3L756.2,723.4L756.4,723.0L756.4,723.3ZM754.4,724.5L754.0,724.9L754.4,724.1L754.4,724.5ZM753.9,725.2L753.7,725.3L753.8,725.2L753.9,725.2ZM752.9,726.3L752.7,726.4L752.9,726.3L752.9,726.3ZM752.7,725.0L752.4,725.2L752.7,724.9L752.7,725.0ZM749.9,728.2L752.0,727.5L747.3,731.6L749.9,728.2ZM748.1,729.1L749.0,728.8L748.1,729.2L748.1,729.1ZM746.6,731.9L746.5,731.6L746.8,731.7L746.6,731.9ZM745.8,733.7L745.6,733.7L745.8,733.6L745.8,733.7ZM745.5,733.6L745.2,733.6L745.5,733.5L745.5,733.6ZM743.7,735.1L744.6,733.6L745.0,733.6L745.0,733.9L743.7,735.1ZM743.0,734.4L743.1,734.6L742.5,734.9L743.0,734.4ZM742.6,735.3L741.4,737.4L741.3,737.4L742.6,735.3ZM739.1,740.2L733.8,746.1L739.3,739.5L739.1,740.2ZM736.2,738.0L736.8,738.1L736.4,738.8L736.2,738.0ZM735.5,737.8L735.1,737.7L735.5,737.6L735.5,737.8ZM733.8,738.8L734.2,739.2L733.5,739.0L733.8,738.8ZM732.6,738.9L733.2,738.9L733.3,739.0L732.6,738.9ZM732.8,738.6L733.2,738.8L732.8,738.6L732.8,738.6ZM733.1,735.1L732.8,735.1L733.1,735.0L733.1,735.1ZM732.6,738.4L732.3,738.7L732.3,738.5L732.6,738.4ZM732.0,734.0L731.6,733.6L732.3,733.6L732.0,734.0ZM732.2,735.7L732.0,735.9L731.9,735.4L732.2,735.7ZM731.3,734.6L731.0,734.6L731.3,734.4L731.3,734.6ZM730.2,744.6L729.7,743.5L730.2,744.2L730.2,744.6ZM729.9,735.1L730.0,735.6L729.7,735.4L729.9,735.1ZM729.5,733.7L730.1,734.0L729.7,734.3L729.5,733.7ZM729.4,734.5L730.0,734.9L729.4,735.1L729.4,734.5ZM729.8,735.8L729.4,736.0L729.8,735.7L729.8,735.8ZM727.6,740.9L727.0,740.5L727.6,740.0L727.6,740.9ZM727.3,737.4L727.3,738.3L727.0,737.8L727.3,737.4ZM726.3,741.6L726.9,741.8L726.3,742.1L726.3,741.6ZM723.8,738.9L726.5,739.6L723.2,740.0L723.8,738.9ZM717.4,748.3L721.5,750.3L722.6,749.2L725.2,751.1L722.7,752.6L722.3,751.2L719.8,751.1L718.3,752.8L719.2,756.8L717.3,756.6L717.2,755.0L718.0,754.6L717.8,754.1L716.3,754.3L716.5,755.8L713.4,756.4L717.4,748.3ZM724.0,740.5L725.0,741.5L723.0,741.4L724.0,740.5ZM722.8,753.5L724.2,753.9L721.5,753.7L721.9,751.7L722.8,753.5ZM720.0,748.1L719.6,748.1L719.9,747.9L720.0,748.1ZM719.4,747.9L719.1,748.1L719.1,747.8L719.4,747.9ZM716.7,756.4L717.1,756.1L717.1,756.5L716.7,756.4ZM714.3,758.0L713.4,758.9L713.1,758.2L714.3,758.0ZM714.2,751.7L710.1,756.9L705.8,754.5L707.9,753.0L709.4,754.7L709.5,752.8L714.2,751.7ZM711.0,756.7L711.2,757.3L710.8,757.1L711.0,756.7ZM708.5,752.2L708.7,752.1L708.8,752.2L708.5,752.2ZM708.5,752.6L708.1,752.5L708.3,752.3L708.5,752.6ZM707.1,765.4L707.9,765.4L708.0,765.9L707.1,765.4ZM706.7,757.3L707.8,757.6L706.4,758.2L706.7,757.3ZM706.1,765.3L707.6,768.9L704.3,773.8L700.7,774.6L701.0,772.7L704.4,772.5L705.2,770.9L701.6,770.9L699.0,765.3L702.6,766.8L702.0,768.6L702.7,769.0L703.5,766.0L704.9,768.7L706.2,767.9L706.1,765.3ZM706.6,759.1L706.4,759.1L706.5,759.0L706.6,759.1ZM705.9,747.2L705.5,748.2L705.7,747.1L705.9,747.2ZM702.9,765.6L702.8,765.7L702.8,765.5L702.9,765.6ZM702.0,765.9L701.8,766.0L701.8,765.9L702.0,765.9ZM698.0,767.9L700.2,772.5L695.7,772.8L690.2,776.2L691.2,770.6L698.0,767.9ZM691.0,767.9L690.5,767.9L691.2,767.3L691.0,767.9ZM690.0,766.4L690.4,766.7L689.8,766.8L690.0,766.4ZM690.2,767.4L690.2,767.2L690.5,767.1L690.2,767.4ZM687.9,770.4L687.4,770.8L687.6,770.3L687.9,770.4ZM687.3,771.0L686.5,771.7L687.2,770.9L687.3,771.0ZM684.2,769.2L685.5,769.2L685.6,769.3L684.4,769.8L684.2,769.2ZM684.8,770.6L684.6,770.6L684.6,770.4L684.8,770.6ZM682.9,768.9L683.8,768.8L683.6,769.2L682.9,768.9ZM681.2,768.4L681.2,768.7L681.1,768.5L681.2,768.4ZM679.9,773.1L680.7,772.8L680.7,773.5L679.9,773.1Z\" tabindex=\"0\" role=\"button\" aria-label=\"Lamu County branch\"><title>Lamu</title></path><path class=\"cty\" data-n=\"Machakos\" d=\"M336.9,621.5L341.7,627.5L350.0,628.1L360.9,634.5L363.5,631.2L367.7,630.7L371.8,626.8L375.4,627.5L377.0,622.5L379.6,621.1L383.0,620.7L384.6,625.3L389.4,623.0L389.6,624.4L393.4,624.0L390.7,632.8L393.9,636.2L393.3,639.4L395.6,640.5L388.5,655.8L382.6,650.8L368.2,651.7L368.5,657.8L371.3,658.0L382.0,677.1L389.2,682.5L390.7,687.8L386.1,691.7L378.3,692.9L384.2,699.7L380.7,703.9L378.9,701.4L377.0,701.7L376.9,705.6L374.8,707.6L372.9,701.7L368.5,698.2L366.0,699.6L364.1,697.0L357.5,694.8L352.4,696.3L346.8,695.1L342.3,699.2L350.2,711.9L340.0,713.1L337.5,714.9L339.0,718.4L336.8,720.1L333.3,716.6L330.9,720.0L324.8,721.1L323.6,716.9L319.9,716.5L304.7,697.4L306.4,690.9L302.9,688.5L296.4,691.0L297.6,684.6L304.7,687.5L299.3,679.6L306.7,674.7L306.1,672.0L316.5,673.4L320.9,666.6L324.1,665.4L328.0,652.6L336.9,649.7L343.1,654.8L350.8,646.6L342.7,641.5L345.4,639.3L344.2,637.6L342.5,639.6L340.1,637.1L340.6,634.9L331.3,628.2L334.5,626.9L335.0,622.3L336.9,621.5Z\" tabindex=\"0\" role=\"button\" aria-label=\"Machakos County branch\"><title>Machakos</title></path><path class=\"cty\" data-n=\"Makueni\" d=\"M363.7,696.8L364.3,698.8L368.5,698.2L372.9,701.7L374.8,707.6L376.9,705.6L377.0,701.7L378.9,701.4L380.6,703.9L383.1,700.0L386.0,701.4L392.5,712.1L394.3,718.5L392.6,721.0L397.9,726.9L400.5,733.5L399.6,736.4L404.1,747.8L405.1,759.6L410.8,757.7L413.6,759.8L416.2,769.0L419.9,771.5L420.4,774.3L429.9,778.5L431.0,782.9L436.2,785.4L452.0,821.8L451.6,828.1L460.2,841.4L454.6,842.1L443.9,831.8L435.9,820.1L425.0,811.1L406.2,821.9L403.2,821.1L401.0,813.5L398.9,813.3L393.8,803.5L368.6,774.2L375.7,771.8L376.2,765.9L381.1,761.8L375.3,758.5L368.2,758.3L344.9,744.3L338.7,743.6L332.4,736.7L327.5,736.5L325.8,734.8L324.0,731.8L325.0,728.8L323.0,727.0L324.8,721.1L330.9,720.0L333.3,716.6L336.8,720.1L339.0,718.4L337.5,714.9L340.0,713.1L346.2,713.6L350.2,711.9L342.3,699.2L347.2,695.0L352.4,696.3L357.5,694.8L363.7,696.8Z\" tabindex=\"0\" role=\"button\" aria-label=\"Makueni County branch\"><title>Makueni</title></path><path class=\"cty\" data-n=\"Mandera\" d=\"M765.4,146.1L772.4,144.4L776.5,147.1L777.0,145.3L782.2,143.6L784.3,145.6L788.2,144.8L788.7,147.2L792.4,148.6L799.4,145.4L741.6,227.7L708.1,260.6L708.0,325.1L700.4,323.9L692.7,315.6L682.1,311.3L676.5,305.5L674.9,300.2L668.0,292.9L659.1,271.4L661.0,265.5L658.1,263.1L658.1,256.3L635.8,246.0L613.2,220.6L587.5,209.7L586.3,176.3L595.6,156.3L627.8,138.5L681.5,117.9L684.6,114.9L693.6,118.2L697.4,121.6L699.4,127.3L708.8,131.8L719.4,142.3L719.3,144.3L726.0,148.8L729.5,149.5L732.8,147.0L741.6,148.9L748.3,146.5L750.8,148.1L758.9,146.1L760.1,147.5L763.8,144.5L765.4,146.1Z\" tabindex=\"0\" role=\"button\" aria-label=\"Mandera County branch\"><title>Mandera</title></path><path class=\"cty\" data-n=\"Marsabit\" d=\"M213.9,97.4L293.1,98.1L310.9,105.9L313.6,105.4L322.0,113.7L407.8,170.1L421.6,183.0L426.9,181.5L453.6,183.3L461.1,180.8L460.4,178.6L462.2,178.1L466.4,183.0L475.4,184.3L477.0,181.0L480.2,186.5L499.3,192.5L504.7,192.2L505.5,190.7L510.8,191.7L517.7,188.9L528.1,195.1L540.6,195.9L538.8,199.0L543.0,217.5L543.5,236.1L529.0,247.4L523.6,247.8L520.0,254.7L515.3,254.8L515.4,269.3L513.2,275.5L506.5,286.4L497.7,288.8L502.3,305.8L502.4,326.9L505.1,333.3L447.1,366.9L442.8,385.3L403.3,416.8L403.9,404.4L394.0,397.2L393.1,400.5L374.1,403.0L371.0,405.4L368.6,403.9L366.8,406.5L343.9,368.9L339.4,366.5L335.4,355.2L327.9,350.0L326.8,347.1L309.5,344.6L303.8,340.6L300.4,341.3L300.8,333.1L298.5,323.9L293.2,315.6L284.5,291.5L278.8,291.8L278.7,297.6L273.2,301.2L272.6,303.9L271.1,301.5L269.7,303.4L267.9,301.7L262.9,302.6L261.1,298.2L261.7,290.8L260.1,287.0L252.5,279.7L253.4,272.5L246.8,259.4L237.0,253.9L234.2,246.5L233.5,248.2L221.2,245.0L224.1,234.5L222.9,227.7L224.2,221.4L214.0,219.0L213.9,97.4Z\" tabindex=\"0\" role=\"button\" aria-label=\"Marsabit County branch\"><title>Marsabit</title></path><path class=\"cty\" data-n=\"Meru\" d=\"M428.5,520.2L438.7,527.1L441.3,535.3L449.0,544.5L450.9,550.0L447.0,551.6L441.7,549.6L437.7,545.3L433.4,544.9L431.2,541.8L420.3,537.3L414.7,540.6L410.4,536.9L405.2,536.2L402.4,542.4L398.8,542.0L398.0,544.9L393.8,544.9L394.5,555.2L388.5,559.3L385.7,558.7L382.1,563.0L375.0,564.7L367.9,561.4L339.6,558.2L322.4,547.2L317.6,540.8L334.2,533.3L339.5,525.1L343.7,523.4L344.8,517.7L348.8,513.4L362.5,516.7L364.1,510.7L366.9,510.3L369.1,507.0L367.0,501.1L367.5,494.9L391.4,486.9L414.9,476.3L426.5,510.1L428.4,510.8L428.5,520.2Z\" tabindex=\"0\" role=\"button\" aria-label=\"Meru County branch\"><title>Meru</title></path><path class=\"cty\" data-n=\"Migori\" d=\"M72.6,609.6L70.7,633.1L73.0,639.9L67.9,644.8L72.0,659.0L77.7,664.1L81.9,682.0L17.2,645.6L12.7,647.6L10.5,643.3L2.3,643.2L1.6,623.3L16.9,623.3L18.5,621.3L29.0,618.1L40.7,629.6L47.0,627.7L47.9,624.5L55.2,629.2L58.5,624.1L57.3,621.5L62.2,617.8L64.5,610.0L69.3,608.2L72.6,609.6Z\" tabindex=\"0\" role=\"button\" aria-label=\"Migori County branch\"><title>Migori</title></path><path class=\"cty\" data-n=\"Mombasa\" d=\"M577.4,935.4L579.5,937.6L577.5,937.4L577.5,938.1L585.2,938.8L577.6,949.2L576.3,944.4L574.9,945.0L576.0,941.8L575.0,937.9L573.6,938.2L573.0,935.9L577.4,935.4ZM574.5,946.0L577.0,949.9L575.8,950.8L572.8,947.0L573.7,946.7L574.5,946.0ZM572.5,948.0L573.4,951.1L576.2,951.4L572.9,958.6L571.3,957.6L572.6,955.1L569.6,952.0L567.4,954.8L567.2,952.0L568.2,949.3L571.0,950.1L572.5,948.0ZM575.6,942.1L575.2,942.1L575.5,941.9L575.6,942.1ZM573.6,939.0L574.6,941.7L570.3,940.3L570.8,938.9L573.6,939.0ZM568.6,937.8L568.5,941.6L572.3,942.0L572.7,947.1L567.2,947.4L567.6,945.4L565.5,944.9L565.6,940.6L568.6,937.8ZM573.6,946.5L573.4,946.7L573.4,946.5L573.6,946.5ZM570.3,939.0L570.0,939.2L570.0,939.1L570.3,939.0ZM566.9,954.6L566.7,955.0L566.5,955.0L566.9,954.6Z\" tabindex=\"0\" role=\"button\" aria-label=\"Mombasa County branch\"><title>Mombasa</title></path><path class=\"cty\" data-n=\"Murang&#x27;a\" d=\"M297.4,604.0L307.5,600.7L313.7,602.5L319.8,607.2L325.7,606.6L326.7,609.8L328.8,609.4L330.1,611.9L332.5,609.8L335.8,618.5L334.4,618.5L334.5,626.9L331.3,628.2L340.6,634.9L340.1,637.1L342.5,639.6L344.2,637.6L345.4,639.3L342.7,641.5L350.8,646.6L345.1,652.5L335.3,644.8L324.2,648.5L312.7,646.2L297.4,632.7L283.6,626.2L280.8,623.7L280.6,621.1L282.1,621.0L279.2,613.0L279.4,601.8L282.2,599.7L286.7,599.7L297.4,604.0Z\" tabindex=\"0\" role=\"button\" aria-label=\"Murang&#x27;a County branch\"><title>Murang&#x27;a</title></path><path class=\"cty\" data-n=\"Nairobi\" d=\"M319.1,669.2L316.5,673.4L306.1,672.0L306.7,674.7L299.3,679.6L303.0,683.6L304.7,687.5L293.0,681.7L282.4,681.1L274.8,675.3L277.7,669.1L280.6,669.2L281.4,666.3L286.2,666.0L287.6,662.2L291.9,664.5L294.7,662.0L298.5,662.3L298.4,659.1L302.7,660.5L299.7,663.7L300.9,664.8L309.3,666.7L314.9,663.6L319.1,669.2Z\" tabindex=\"0\" role=\"button\" aria-label=\"Nairobi County branch\"><title>Nairobi</title></path><path class=\"cty\" data-n=\"Nakuru\" d=\"M234.3,537.4L233.3,555.2L230.8,554.0L228.7,557.1L229.8,563.6L233.2,568.8L229.7,570.5L231.1,578.7L234.9,577.5L236.1,582.6L239.6,580.3L239.8,582.1L244.7,581.0L247.5,587.3L248.8,600.3L253.5,600.2L255.3,606.1L259.8,604.0L262.8,612.7L260.5,614.2L264.6,626.8L263.1,633.9L266.6,636.0L268.4,642.2L267.6,649.4L262.2,658.7L242.2,648.0L235.1,634.4L229.2,636.4L227.3,634.6L224.5,626.8L227.5,623.5L228.0,619.7L218.8,610.7L218.6,607.0L211.7,611.0L209.9,609.4L203.4,614.5L201.7,613.6L196.4,606.8L200.3,606.6L203.8,609.6L207.0,606.1L203.2,598.6L199.1,597.8L191.9,592.5L192.3,589.7L190.2,590.7L188.7,588.7L185.9,596.7L182.6,596.2L179.7,598.5L176.8,608.3L173.3,613.3L168.9,610.2L167.5,601.9L150.1,573.3L161.6,569.0L166.0,571.3L166.8,573.9L167.9,570.8L169.2,572.4L171.8,571.8L175.8,559.4L169.8,559.0L168.5,556.0L172.8,549.2L173.8,551.2L177.7,550.7L181.7,559.1L181.3,564.3L185.1,565.6L187.7,554.2L189.4,553.1L190.9,555.0L196.4,546.7L201.5,550.8L205.6,544.7L206.2,541.0L201.6,536.1L202.7,533.5L204.8,534.3L205.2,537.3L208.4,537.1L209.3,539.9L218.1,544.4L219.9,542.5L219.2,536.9L221.5,537.1L223.5,524.5L228.5,523.1L226.6,520.2L229.0,519.6L232.4,522.2L237.2,530.3L234.3,537.4Z\" tabindex=\"0\" role=\"button\" aria-label=\"Nakuru County branch\"><title>Nakuru</title></path><path class=\"cty\" data-n=\"Nandi\" d=\"M93.8,488.5L113.3,486.9L118.7,489.2L119.4,487.6L122.8,489.6L125.3,488.4L122.7,495.9L139.1,521.9L142.8,523.7L142.4,528.8L149.2,532.5L152.6,541.2L149.2,545.5L151.2,550.9L146.0,554.1L139.6,551.7L131.5,553.7L130.9,546.8L129.4,546.0L124.0,547.0L118.8,543.4L115.4,549.9L113.8,546.6L107.8,545.1L101.2,546.7L89.7,545.3L91.9,540.7L83.9,546.4L82.9,542.5L85.1,543.4L89.9,539.4L92.6,539.4L94.7,531.0L100.3,527.6L104.3,519.0L106.5,519.0L102.3,507.4L104.2,506.4L104.4,501.6L99.4,492.8L93.8,488.5Z\" tabindex=\"0\" role=\"button\" aria-label=\"Nandi County branch\"><title>Nandi</title></path><path class=\"cty\" data-n=\"Narok\" d=\"M173.2,613.4L179.7,598.4L182.6,596.2L185.9,596.7L188.7,588.7L190.2,590.7L192.3,589.7L191.9,592.5L199.1,597.8L203.4,598.9L207.0,606.1L203.8,609.6L200.3,606.6L196.4,606.8L201.7,613.6L203.4,614.5L209.9,609.4L211.7,611.0L218.6,607.0L218.8,610.7L228.0,619.7L227.5,623.5L224.5,626.8L227.3,634.6L229.2,636.4L235.1,634.4L242.2,648.0L243.4,660.6L214.0,692.2L217.3,700.5L213.5,708.0L215.3,712.9L212.6,714.1L213.8,716.0L210.5,723.5L213.8,728.8L211.5,732.1L213.2,734.0L211.6,751.4L208.8,751.4L208.8,753.5L81.9,682.0L77.7,664.1L72.0,659.0L70.5,650.3L68.3,647.6L67.9,644.8L73.6,639.7L76.4,640.4L110.1,632.0L117.0,633.6L133.7,646.4L142.0,640.7L150.7,637.8L151.8,632.6L161.8,623.6L151.4,615.2L148.4,607.6L167.5,601.9L168.9,610.2L173.2,613.4Z\" tabindex=\"0\" role=\"button\" aria-label=\"Narok County branch\"><title>Narok</title></path><path class=\"cty\" data-n=\"Nyamira\" d=\"M114.0,593.0L114.3,608.7L116.0,612.3L113.6,613.7L117.9,623.1L113.2,628.3L110.9,627.7L110.1,632.0L103.2,620.4L87.4,610.4L90.0,610.0L90.4,606.2L93.4,602.6L97.5,604.6L96.1,600.5L97.1,595.5L95.0,593.2L96.9,592.0L110.8,584.3L113.3,587.7L112.1,592.8L114.0,593.0Z\" tabindex=\"0\" role=\"button\" aria-label=\"Nyamira County branch\"><title>Nyamira</title></path><path class=\"cty\" data-n=\"Nyandarua\" d=\"M272.1,553.9L277.4,560.5L270.1,574.2L268.9,580.4L271.9,582.0L271.1,583.4L275.1,589.6L274.3,594.7L279.2,605.9L279.2,613.0L282.1,621.0L280.6,621.1L280.8,623.7L277.4,619.5L273.8,619.5L269.6,623.6L270.7,626.0L267.4,625.7L268.6,629.2L264.1,635.1L264.6,626.8L260.5,614.2L262.8,612.7L260.5,605.4L259.8,604.0L255.3,606.1L253.5,600.2L248.8,600.3L247.5,587.3L244.7,581.0L239.8,582.1L239.6,580.3L236.1,582.6L234.9,577.5L231.1,578.7L229.7,570.5L233.2,568.8L229.8,563.6L228.7,557.1L230.8,554.0L233.3,555.2L233.5,548.5L235.9,543.2L243.4,540.0L243.7,536.0L247.3,539.9L251.2,538.5L248.9,537.1L252.9,533.9L255.1,529.0L261.0,538.2L266.2,536.0L268.7,542.7L272.3,541.4L273.8,544.8L267.0,545.2L263.3,549.9L265.7,553.4L272.1,553.9Z\" tabindex=\"0\" role=\"button\" aria-label=\"Nyandarua County branch\"><title>Nyandarua</title></path><path class=\"cty\" data-n=\"Nyeri\" d=\"M339.6,558.2L328.8,587.0L326.3,587.3L326.5,591.4L323.5,596.5L323.2,600.0L326.5,603.1L326.5,606.4L319.8,607.2L313.7,602.5L307.5,600.7L300.9,604.0L294.8,603.9L286.6,599.7L280.9,600.2L278.5,605.3L274.3,594.7L275.1,589.6L271.1,583.4L271.9,582.0L268.9,580.4L270.1,574.2L277.4,560.5L274.6,558.4L285.1,554.0L291.7,553.4L291.7,556.6L294.8,557.4L295.7,560.8L292.6,562.8L294.3,568.5L307.4,572.7L310.5,561.1L307.2,556.6L306.5,550.3L311.3,548.0L316.5,542.1L321.2,548.5L321.9,546.8L339.6,558.2Z\" tabindex=\"0\" role=\"button\" aria-label=\"Nyeri County branch\"><title>Nyeri</title></path><path class=\"cty\" data-n=\"Samburu\" d=\"M278.8,291.8L284.5,291.5L293.2,315.6L298.5,323.9L300.8,333.1L300.4,341.3L303.8,340.6L309.5,344.6L326.8,347.1L327.9,350.0L335.4,355.2L339.4,366.5L343.9,368.9L366.8,406.5L368.6,403.9L371.0,405.4L374.1,403.0L393.1,400.5L394.0,397.2L403.9,404.4L403.6,423.6L411.9,434.6L413.6,462.6L416.9,465.0L410.0,462.7L400.1,471.9L396.5,468.6L392.0,475.1L383.5,475.4L381.2,477.6L377.9,476.8L372.1,483.3L362.0,486.5L355.8,483.7L345.3,484.4L338.8,471.0L334.4,466.6L330.8,469.1L325.7,468.8L319.1,464.3L315.8,466.5L296.9,469.7L288.2,456.1L279.7,461.6L257.1,461.7L257.5,458.0L248.3,452.5L253.1,446.0L252.8,442.8L254.8,445.2L252.6,434.4L253.0,425.8L247.5,424.4L248.2,421.1L251.0,419.4L250.2,417.1L247.6,416.7L248.3,415.4L254.2,416.9L252.6,412.8L247.9,411.8L254.6,406.2L255.5,403.2L247.8,398.6L244.4,399.5L240.6,396.1L237.7,396.7L238.4,389.7L242.8,385.3L244.8,385.9L245.5,383.5L248.2,390.8L252.8,381.5L255.4,381.6L257.2,372.8L261.3,367.6L260.1,367.4L259.6,365.9L261.8,362.5L260.2,361.5L260.0,355.4L262.5,353.2L262.4,346.7L261.5,347.7L265.6,337.3L265.2,332.7L269.8,326.8L278.9,323.2L281.1,315.6L281.2,313.0L268.9,307.1L268.9,302.5L272.7,302.0L272.6,303.9L273.2,301.2L278.7,297.6L278.8,291.8Z\" tabindex=\"0\" role=\"button\" aria-label=\"Samburu County branch\"><title>Samburu</title></path><path class=\"cty\" data-n=\"Siaya\" d=\"M45.9,512.4L49.0,516.9L47.3,525.0L53.3,521.2L51.3,527.8L57.0,527.9L54.5,530.0L56.8,531.5L56.2,532.8L63.0,529.2L64.9,532.4L63.0,543.7L50.0,550.9L57.2,573.0L39.6,585.6L37.0,584.4L32.8,576.8L3.6,576.8L7.0,556.0L3.9,545.7L10.8,545.8L13.0,543.1L16.0,531.1L20.2,528.5L20.5,518.8L24.7,513.0L29.3,517.1L29.6,514.2L32.6,514.1L33.8,511.7L45.9,512.4Z\" tabindex=\"0\" role=\"button\" aria-label=\"Siaya County branch\"><title>Siaya</title></path><path class=\"cty\" data-n=\"Taita Taveta\" d=\"M463.4,841.0L469.7,842.5L475.4,847.0L486.3,847.5L489.8,848.4L489.4,849.9L511.4,845.1L517.3,848.3L521.5,845.0L525.1,849.6L530.6,849.9L514.9,912.0L505.3,906.2L501.6,912.6L512.5,919.0L503.3,939.0L453.5,956.8L387.2,910.4L383.2,897.3L375.8,893.7L369.3,894.9L371.1,889.3L367.3,889.0L367.3,886.9L379.9,873.9L377.9,861.0L389.2,859.6L392.1,861.6L394.1,860.9L394.2,850.9L395.9,850.8L398.3,831.7L400.6,829.9L402.8,820.8L406.2,821.9L425.0,811.1L435.9,820.1L443.9,831.8L454.6,842.1L463.4,841.0Z\" tabindex=\"0\" role=\"button\" aria-label=\"Taita Taveta County branch\"><title>Taita Taveta</title></path><path class=\"cty\" data-n=\"Tana River\" d=\"M477.9,547.0L492.3,552.4L500.8,551.6L502.7,553.0L506.0,549.0L515.4,547.7L522.3,556.1L529.1,557.3L531.5,556.1L534.6,557.7L540.1,556.4L541.3,558.8L545.1,559.3L547.2,562.1L551.5,562.0L558.6,567.9L560.1,572.9L563.1,572.1L567.6,577.2L575.1,598.0L577.5,598.2L578.5,602.2L582.7,601.8L586.4,604.3L586.8,609.2L588.8,610.2L589.6,616.6L591.2,617.3L589.7,620.2L593.0,623.5L593.0,628.3L594.7,628.0L593.8,631.8L596.7,636.7L595.8,638.9L597.0,638.2L598.2,640.4L597.4,643.1L602.1,656.0L609.6,667.1L609.0,679.2L612.2,686.3L612.1,691.8L617.5,690.5L624.2,703.8L625.1,725.4L627.6,729.4L627.4,739.0L633.8,767.9L633.8,782.9L652.9,782.8L675.2,789.9L681.9,788.7L672.8,796.7L668.8,798.7L659.9,795.0L659.8,792.7L655.4,792.9L656.2,794.0L653.3,796.3L660.5,795.8L648.8,799.1L635.5,807.3L642.9,801.5L637.9,804.4L635.8,806.1L628.4,816.3L629.0,811.0L627.0,811.2L626.7,814.9L597.8,774.1L530.6,850.4L525.1,849.6L521.5,845.0L516.7,848.1L471.5,784.1L477.3,784.4L488.3,777.0L510.3,734.5L504.7,713.3L508.8,710.8L504.2,646.2L491.8,619.1L452.2,550.5L454.7,551.5L457.8,548.9L460.9,549.3L464.3,544.6L472.8,548.3L477.9,547.0Z\" tabindex=\"0\" role=\"button\" aria-label=\"Tana River County branch\"><title>Tana River</title></path><path class=\"cty\" data-n=\"Tharaka-Nithi\" d=\"M420.2,537.3L431.2,541.8L433.4,545.0L437.7,545.3L438.9,549.7L430.9,553.3L427.4,558.3L425.1,566.6L420.2,570.6L408.6,569.7L405.3,584.2L403.4,585.8L397.9,582.3L397.5,577.3L389.0,586.7L380.8,588.0L364.2,579.1L339.6,558.2L367.9,561.4L375.0,564.7L382.1,563.0L385.7,558.7L388.5,559.3L394.5,555.2L393.8,544.9L398.0,544.9L398.8,542.0L402.4,542.4L404.8,536.4L410.4,536.9L413.1,540.4L417.1,540.1L420.2,537.3Z\" tabindex=\"0\" role=\"button\" aria-label=\"Tharaka-Nithi County branch\"><title>Tharaka-Nithi</title></path><path class=\"cty\" data-n=\"Trans Nzoia\" d=\"M90.8,417.1L99.9,414.6L99.4,417.9L110.0,417.6L113.0,423.6L117.1,426.1L124.0,423.1L133.1,435.6L144.8,441.2L142.4,446.3L144.8,448.6L143.7,451.1L141.8,449.9L139.3,454.0L134.2,449.1L131.0,451.2L121.6,451.2L119.0,455.8L112.7,453.0L89.7,462.6L87.4,454.2L88.6,452.1L82.7,449.3L74.2,437.2L75.2,434.7L70.2,432.2L66.9,428.0L72.7,425.9L75.9,422.3L88.3,421.1L90.8,417.1Z\" tabindex=\"0\" role=\"button\" aria-label=\"Trans Nzoia County branch\"><title>Trans Nzoia</title></path><path class=\"cty\" data-n=\"Turkana\" d=\"M181.0,5.9L192.9,9.7L195.2,12.3L191.6,18.8L195.0,27.3L190.0,33.5L190.0,64.8L203.8,80.2L203.2,88.3L213.9,97.4L214.0,219.0L224.2,221.4L222.9,227.7L224.1,234.5L221.2,245.0L233.5,248.2L234.2,246.5L237.0,253.9L244.9,257.2L253.4,272.5L252.5,279.7L260.1,287.0L261.7,290.8L262.6,302.4L264.8,303.4L267.9,301.7L268.9,307.1L281.2,313.0L279.0,323.1L269.8,326.8L265.2,332.7L265.6,337.3L261.5,347.7L262.4,346.7L262.5,353.2L260.0,355.4L260.2,361.5L261.8,362.5L259.6,365.9L261.3,367.6L257.2,372.8L255.4,381.6L252.8,381.5L248.2,390.8L245.5,383.5L244.8,385.9L242.8,385.3L238.4,389.7L237.7,396.7L240.6,396.1L244.4,399.5L247.8,398.6L255.5,403.2L254.6,406.2L247.9,411.8L252.6,412.8L254.2,416.9L248.3,415.4L247.6,416.7L250.2,417.1L251.0,419.4L248.2,421.1L247.5,424.4L253.0,425.8L252.6,434.4L254.8,445.2L252.8,442.8L253.1,446.0L248.0,451.2L247.6,448.2L243.8,446.5L242.9,443.8L240.5,443.9L226.2,426.0L218.5,426.1L188.1,376.6L169.0,367.2L159.8,366.7L155.2,362.2L155.2,358.8L145.3,350.2L146.7,348.3L145.4,339.4L138.6,316.0L132.0,307.9L131.3,290.1L126.3,279.4L122.1,278.2L119.6,292.6L115.7,296.8L110.4,286.3L108.5,295.2L111.0,298.7L110.0,302.7L102.9,297.8L104.1,295.8L102.0,291.4L100.1,291.4L98.5,284.3L95.6,286.0L94.0,284.7L86.3,273.3L87.2,268.1L85.5,260.8L79.0,255.3L78.1,256.8L74.2,256.3L72.8,252.3L68.7,250.5L66.4,233.1L63.6,229.2L58.3,228.9L54.4,224.8L53.6,214.8L51.7,208.8L48.9,205.9L50.5,198.0L47.7,193.9L51.2,193.9L53.9,191.2L55.1,176.1L49.1,173.8L45.8,169.6L41.2,170.3L39.6,174.0L39.1,174.5L39.6,171.8L33.4,164.6L26.0,166.3L27.7,163.5L24.1,162.3L26.8,159.9L31.4,160.0L30.4,154.9L17.7,156.9L22.3,146.9L15.0,142.1L14.8,140.3L17.9,139.3L18.1,136.2L13.9,131.0L15.5,128.8L13.7,125.2L8.1,120.8L45.4,85.4L128.3,15.4L138.0,0.0L164.8,0.8L170.5,2.7L170.6,5.0L180.5,3.9L181.0,5.9Z\" tabindex=\"0\" role=\"button\" aria-label=\"Turkana County branch\"><title>Turkana</title></path><path class=\"cty\" data-n=\"Uasin Gishu\" d=\"M144.8,448.6L150.6,449.3L150.2,452.3L155.6,453.1L154.3,455.6L157.5,455.5L158.0,457.3L156.9,461.1L158.5,461.2L159.1,472.8L149.7,472.7L156.8,484.2L154.9,498.1L157.0,504.1L155.6,506.1L158.4,508.9L157.3,518.0L159.3,520.6L162.8,520.5L160.0,524.2L165.5,523.4L167.6,526.1L166.1,536.3L162.9,534.1L162.9,538.3L160.2,542.2L152.3,540.5L149.2,532.5L142.4,528.8L142.8,523.7L139.1,521.9L122.7,495.9L125.3,488.4L122.8,489.6L119.4,487.6L118.7,489.2L113.3,486.9L93.8,488.5L97.7,482.5L100.8,483.9L108.6,479.5L111.5,481.7L112.5,478.9L117.3,480.1L124.2,477.0L123.4,460.4L121.2,461.1L120.0,457.6L121.6,451.2L131.0,451.2L134.2,449.1L139.3,454.0L141.8,449.9L143.7,451.1L144.8,448.6Z\" tabindex=\"0\" role=\"button\" aria-label=\"Uasin Gishu County branch\"><title>Uasin Gishu</title></path><path class=\"cty\" data-n=\"Vihiga\" d=\"M101.3,523.1L100.3,527.6L94.7,531.0L92.6,539.4L89.9,539.4L85.1,543.4L83.1,542.3L83.5,545.5L81.6,543.7L77.5,545.7L77.9,544.1L69.2,541.8L66.4,546.7L65.1,544.6L62.2,544.6L64.8,538.4L64.3,534.2L67.4,531.5L77.1,530.9L82.6,528.2L83.6,529.5L90.4,526.9L90.4,524.5L101.3,523.1Z\" tabindex=\"0\" role=\"button\" aria-label=\"Vihiga County branch\"><title>Vihiga</title></path><path class=\"cty\" data-n=\"Wajir\" d=\"M540.6,195.9L553.1,197.4L564.1,196.5L569.8,193.0L586.3,176.3L587.5,209.7L613.2,220.6L635.8,246.0L658.1,256.3L658.1,263.1L661.0,265.5L659.1,271.4L668.0,292.9L674.9,300.2L676.5,305.5L682.1,311.3L692.7,315.6L700.4,323.9L708.0,325.1L708.0,496.6L695.1,505.2L680.4,511.1L673.6,519.9L667.4,521.5L662.1,520.4L659.5,523.8L656.2,524.4L641.9,523.1L632.2,517.8L614.8,503.8L606.7,502.1L599.3,496.9L588.8,494.8L582.1,490.4L565.2,467.3L536.2,396.3L553.5,390.3L548.8,387.8L539.6,377.6L530.2,373.3L522.0,356.6L508.3,342.2L507.3,336.1L504.2,332.4L501.4,314.8L502.3,305.8L497.7,288.8L506.5,286.4L513.2,275.5L515.4,269.3L515.3,254.8L520.0,254.7L523.6,247.8L529.0,247.4L543.5,236.1L543.0,217.5L538.8,199.0L540.6,195.9Z\" tabindex=\"0\" role=\"button\" aria-label=\"Wajir County branch\"><title>Wajir</title></path><path class=\"cty\" data-n=\"West Pokot\" d=\"M119.6,292.6L122.3,277.9L126.3,279.4L131.3,290.1L132.0,307.9L139.0,317.1L146.0,341.8L146.7,348.3L145.3,350.2L155.2,358.8L155.2,362.2L159.8,366.7L169.0,367.2L188.1,376.6L186.5,378.7L188.1,380.7L187.1,387.1L179.4,399.2L179.9,403.0L177.5,407.3L178.4,411.2L169.6,415.1L163.2,414.6L141.3,431.4L124.0,423.1L117.1,426.1L113.0,423.6L110.0,417.6L99.4,417.9L99.9,414.6L91.0,416.8L91.8,412.1L88.1,407.0L87.7,401.4L94.7,397.8L95.2,390.4L97.5,387.5L103.0,385.4L107.6,376.5L108.9,359.2L111.4,350.6L107.2,345.0L105.2,336.7L108.1,333.8L96.8,302.0L98.9,299.1L103.1,297.5L110.0,302.7L111.0,298.7L108.5,295.2L110.1,286.9L111.5,286.6L116.5,296.4L119.6,292.6Z\" tabindex=\"0\" role=\"button\" aria-label=\"West Pokot County branch\"><title>West Pokot</title></path><text class=\"lbl\" x=\"210.6\" y=\"471.2\">Baringo</text><text class=\"lbl\" x=\"132.3\" y=\"613.1\">Bomet</text><text class=\"lbl\" x=\"80.5\" y=\"464.6\">Bungoma</text><text class=\"lbl\" x=\"35.3\" y=\"505.5\">Busia</text><text class=\"lbl\" x=\"164.8\" y=\"468.6\">Elgeyo-Marakwet</text><text class=\"lbl\" x=\"375.2\" y=\"596.3\">Embu</text><text class=\"lbl\" x=\"640.9\" y=\"595.0\">Garissa</text><text class=\"lbl\" x=\"42.1\" y=\"599.0\">Homa Bay</text><text class=\"lbl\" x=\"482.6\" y=\"438.8\">Isiolo</text><text class=\"lbl\" x=\"287.1\" y=\"754.8\">Kajiado</text><text class=\"lbl\" x=\"88.8\" y=\"493.3\">Kakamega</text><text class=\"lbl\" x=\"158.8\" y=\"566.7\">Kericho</text><text class=\"lbl\" x=\"293.5\" y=\"646.8\">Kiambu</text><text class=\"lbl\" x=\"575.1\" y=\"858.2\">Kilifi</text><text class=\"lbl\" x=\"338.9\" y=\"589.9\">Kirinyaga</text><text class=\"lbl\" x=\"84.2\" y=\"616.9\">Kisii</text><text class=\"lbl\" x=\"86.6\" y=\"562.7\">Kisumu</text><text class=\"lbl\" x=\"445.9\" y=\"699.0\">Kitui</text><text class=\"lbl\" x=\"515.1\" y=\"955.0\">Kwale</text><text class=\"lbl\" x=\"288.2\" y=\"514.4\">Laikipia</text><text class=\"lbl\" x=\"663.0\" y=\"749.4\">Lamu</text><text class=\"lbl\" x=\"348.5\" y=\"670.7\">Machakos</text><text class=\"lbl\" x=\"396.4\" y=\"768.5\">Makueni</text><text class=\"lbl\" x=\"675.3\" y=\"214.9\">Mandera</text><text class=\"lbl\" x=\"380.1\" y=\"257.0\">Marsabit</text><text class=\"lbl\" x=\"386.5\" y=\"520.5\">Meru</text><text class=\"lbl\" x=\"39.7\" y=\"645.2\">Migori</text><text class=\"lbl\" x=\"578.9\" y=\"942.1\">Mombasa</text><text class=\"lbl\" x=\"309.1\" y=\"626.1\">Murang&#x27;a</text><text class=\"lbl\" x=\"291.5\" y=\"673.3\">Nairobi</text><text class=\"lbl\" x=\"218.7\" y=\"589.1\">Nakuru</text><text class=\"lbl\" x=\"120.9\" y=\"520.5\">Nandi</text><text class=\"lbl\" x=\"155.8\" y=\"673.0\">Narok</text><text class=\"lbl\" x=\"102.1\" y=\"608.2\">Nyamira</text><text class=\"lbl\" x=\"258.3\" y=\"582.1\">Nyandarua</text><text class=\"lbl\" x=\"301.7\" y=\"574.5\">Nyeri</text><text class=\"lbl\" x=\"302.8\" y=\"388.9\">Samburu</text><text class=\"lbl\" x=\"29.3\" y=\"548.3\">Siaya</text><text class=\"lbl\" x=\"445.4\" y=\"885.0\">Taita Taveta</text><text class=\"lbl\" x=\"564.0\" y=\"697.6\">Tana River</text><text class=\"lbl\" x=\"405.0\" y=\"562.1\">Tharaka-Nithi</text><text class=\"lbl\" x=\"107.2\" y=\"438.8\">Trans Nzoia</text><text class=\"lbl\" x=\"139.2\" y=\"225.6\">Turkana</text><text class=\"lbl\" x=\"139.4\" y=\"494.3\">Uasin Gishu</text><text class=\"lbl\" x=\"79.6\" y=\"534.7\">Vihiga</text><text class=\"lbl\" x=\"611.6\" y=\"350.6\">Wajir</text><text class=\"lbl\" x=\"129.8\" y=\"354.2\">West Pokot</text></g></svg>\n    <div class=\"zc\"><button type=\"button\" id=\"zin\" aria-label=\"Zoom in\">+</button><button type=\"button\" id=\"zout\" aria-label=\"Zoom out\">−</button><button type=\"button\" id=\"zreset\" aria-label=\"Reset map\">↺</button></div>\n   </div>\n   <aside>\n    <div class=\"pcard\" id=\"panel\" aria-live=\"polite\"><h3>Select a county</h3><p>Choose a county on the map, or use the directory below.</p></div>\n    <div class=\"legend\">\n     <h4>Legend</h4>\n     <ul>\n      <li><span class=\"sw\" style=\"background:var(--cf)\"></span>County branch area</li>\n      <li><span class=\"sw\" style=\"background:var(--red)\"></span>Selected county</li>\n     </ul>\n     <p class=\"n\">Branch markers will be added once verified branch locations are available.</p>\n    </div>\n   </aside>\n  </div>\n </div>\n</section>\n\n<section class=\"dir\" aria-labelledby=\"dh\">\n <div class=\"wrap\">\n  <h2 id=\"dh\">Branch directory</h2>\n  <input id=\"dq\" type=\"search\" placeholder=\"Search for a county\" aria-label=\"Search for a county\">\n  <p class=\"cnt\" id=\"cnt\" aria-live=\"polite\">47 counties</p>\n    <ul class=\"dgrid\" id=\"dgrid\"><li class=\"dc\"><div><b>Baringo</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Baringo on the map\">View on map</button></li><li class=\"dc\"><div><b>Bomet</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Bomet on the map\">View on map</button></li><li class=\"dc\"><div><b>Bungoma</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Bungoma on the map\">View on map</button></li><li class=\"dc\"><div><b>Busia</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Busia on the map\">View on map</button></li><li class=\"dc\"><div><b>Elgeyo-Marakwet</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Elgeyo-Marakwet on the map\">View on map</button></li><li class=\"dc\"><div><b>Embu</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Embu on the map\">View on map</button></li><li class=\"dc\"><div><b>Garissa</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Garissa on the map\">View on map</button></li><li class=\"dc\"><div><b>Homa Bay</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Homa Bay on the map\">View on map</button></li><li class=\"dc\"><div><b>Isiolo</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Isiolo on the map\">View on map</button></li><li class=\"dc\"><div><b>Kajiado</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Kajiado on the map\">View on map</button></li><li class=\"dc\"><div><b>Kakamega</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Kakamega on the map\">View on map</button></li><li class=\"dc\"><div><b>Kericho</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Kericho on the map\">View on map</button></li><li class=\"dc\"><div><b>Kiambu</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Kiambu on the map\">View on map</button></li><li class=\"dc\"><div><b>Kilifi</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Kilifi on the map\">View on map</button></li><li class=\"dc\"><div><b>Kirinyaga</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Kirinyaga on the map\">View on map</button></li><li class=\"dc\"><div><b>Kisii</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Kisii on the map\">View on map</button></li><li class=\"dc\"><div><b>Kisumu</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Kisumu on the map\">View on map</button></li><li class=\"dc\"><div><b>Kitui</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Kitui on the map\">View on map</button></li><li class=\"dc\"><div><b>Kwale</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Kwale on the map\">View on map</button></li><li class=\"dc\"><div><b>Laikipia</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Laikipia on the map\">View on map</button></li><li class=\"dc\"><div><b>Lamu</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Lamu on the map\">View on map</button></li><li class=\"dc\"><div><b>Machakos</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Machakos on the map\">View on map</button></li><li class=\"dc\"><div><b>Makueni</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Makueni on the map\">View on map</button></li><li class=\"dc\"><div><b>Mandera</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Mandera on the map\">View on map</button></li><li class=\"dc\"><div><b>Marsabit</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Marsabit on the map\">View on map</button></li><li class=\"dc\"><div><b>Meru</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Meru on the map\">View on map</button></li><li class=\"dc\"><div><b>Migori</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Migori on the map\">View on map</button></li><li class=\"dc\"><div><b>Mombasa</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Mombasa on the map\">View on map</button></li><li class=\"dc\"><div><b>Murang&#x27;a</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Murang&#x27;a on the map\">View on map</button></li><li class=\"dc\"><div><b>Nairobi</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Nairobi on the map\">View on map</button></li><li class=\"dc\"><div><b>Nakuru</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Nakuru on the map\">View on map</button></li><li class=\"dc\"><div><b>Nandi</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Nandi on the map\">View on map</button></li><li class=\"dc\"><div><b>Narok</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Narok on the map\">View on map</button></li><li class=\"dc\"><div><b>Nyamira</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Nyamira on the map\">View on map</button></li><li class=\"dc\"><div><b>Nyandarua</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Nyandarua on the map\">View on map</button></li><li class=\"dc\"><div><b>Nyeri</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Nyeri on the map\">View on map</button></li><li class=\"dc\"><div><b>Samburu</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Samburu on the map\">View on map</button></li><li class=\"dc\"><div><b>Siaya</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Siaya on the map\">View on map</button></li><li class=\"dc\"><div><b>Taita Taveta</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Taita Taveta on the map\">View on map</button></li><li class=\"dc\"><div><b>Tana River</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Tana River on the map\">View on map</button></li><li class=\"dc\"><div><b>Tharaka-Nithi</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Tharaka-Nithi on the map\">View on map</button></li><li class=\"dc\"><div><b>Trans Nzoia</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Trans Nzoia on the map\">View on map</button></li><li class=\"dc\"><div><b>Turkana</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Turkana on the map\">View on map</button></li><li class=\"dc\"><div><b>Uasin Gishu</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Uasin Gishu on the map\">View on map</button></li><li class=\"dc\"><div><b>Vihiga</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Vihiga on the map\">View on map</button></li><li class=\"dc\"><div><b>Wajir</b><small>County branch</small></div><button type=\"button\" aria-label=\"View Wajir on the map\">View on map</button></li><li class=\"dc\"><div><b>West Pokot</b><small>County branch</small></div><button type=\"button\" aria-label=\"View West Pokot on the map\">View on map</button></li></ul>\n  <div class=\"none\" id=\"none\" role=\"status\" hidden>No counties match your search.</div>\n </div>\n</section>",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "display": "flex"
+         },
+         "originalElement": "__raw_html__"
+        }
+       ],
+       "element": "div",
+       "isRepeaterBlock": false,
+       "mobileStyles": {
+        "display": "flex"
+       }
+      }
+     ],
+     "element": "div",
+     "isRepeaterBlock": false,
+     "mobileStyles": {
+      "display": "flex",
+      "padding": "50px 20px"
+     }
+    },
+    {
+     "blockId": "xaluqpvx3",
+     "blockName": "container",
+     "children": [
+      {
+       "blockId": "hjxiznybq",
+       "blockName": "container",
+       "children": [
+        {
+         "blockId": "2vp7t2llp",
+         "isChildOfComponent": "f9b75d95557ef247",
+         "isRepeaterBlock": false,
+         "referenceBlockId": "ihzb7i7aq"
+        },
+        {
+         "blockId": "zeu0u6pz0",
+         "isChildOfComponent": "f9b75d95557ef247",
+         "isRepeaterBlock": false,
+         "referenceBlockId": "6fxvv1clm"
+        },
+        {
+         "blockId": "rx2kgt08n",
+         "blockName": "button-link",
+         "children": [
+          {
+           "baseStyles": {
+            "fontSize": "15px",
+            "fontWeight": "700",
+            "height": "fit-content",
+            "left": "auto",
+            "letterSpacing": "0.28px",
+            "lineHeight": "115%",
+            "minWidth": "30px",
+            "position": "static",
+            "top": "auto",
+            "width": "fit-content"
+           },
+           "blockId": "4zcn2zwa6",
+           "classes": [
+            "rbuttont"
+           ],
+           "element": "p",
+           "isChildOfComponent": "0a19731e197b30ea",
+           "isRepeaterBlock": false,
+           "referenceBlockId": "bsqdmtibe"
+          }
+         ],
+         "componentVersion": "rea824bvuh",
+         "extendedFromComponent": "0a19731e197b30ea",
+         "isChildOfComponent": "f9b75d95557ef247",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "position": "relative"
+         },
+         "referenceBlockId": "je2ylhb8a"
+        }
+       ],
+       "isChildOfComponent": "f9b75d95557ef247",
+       "isRepeaterBlock": false,
+       "referenceBlockId": "ra0dr6t5i"
+      }
+     ],
+     "componentVersion": "12hk04d9cc",
+     "extendedFromComponent": "f9b75d95557ef247",
+     "isRepeaterBlock": false
+    },
+    {
+     "blockId": "6s2kzixow",
+     "children": [
+      {
+       "baseStyles": {
+        "alignItems": "flex-start",
+        "borderRadius": "0px",
+        "display": "flex",
+        "flexDirection": "column",
+        "gap": "49px",
+        "height": "fit-content",
+        "justifyContent": "flex-start",
+        "maxWidth": "1200px",
+        "paddingBottom": "40px",
+        "paddingLeft": "40px",
+        "paddingRight": "40px",
+        "paddingTop": "40px",
+        "width": "100%"
+       },
+       "blockId": "zpriz413o",
+       "children": [
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "borderRadius": "0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "gap": "30px",
+          "height": "fit-content",
+          "justifyContent": "space-between",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "paddingTop": "0px",
+          "width": "100%"
+         },
+         "blockId": "20cr33bvn",
+         "children": [
+          {
+           "baseStyles": {
+            "alignItems": "flex-start",
+            "borderRadius": "0px",
+            "display": "grid",
+            "flexDirection": "row",
+            "gap": "10px",
+            "gridAutoColumns": "minmax(0, 1fr)",
+            "gridTemplateColumns": "repeat(4, minmax(0, 1fr))",
+            "justifyContent": "flex-start",
+            "order": "1",
+            "paddingBottom": "0px",
+            "paddingLeft": "0px",
+            "paddingRight": "0px",
+            "paddingTop": "0px",
+            "width": "1110px"
+           },
+           "blockId": "bbzzd63tr",
+           "children": [
+            {
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "borderRadius": "0px",
+              "display": "flex",
+              "flexDirection": "column",
+              "gap": "20px",
+              "height": "381px",
+              "justifyContent": "flex-start",
+              "padding": "15px 0px 0px",
+              "width": "200px"
+             },
+             "blockId": "qbumqscvn",
+             "children": [
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "8px",
+                "height": "56px",
+                "justifyContent": "flex-start",
+                "padding": "0px",
+                "paddingBottom": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "paddingTop": "0px",
+                "position": "relative",
+                "width": "208px"
+               },
+               "blockId": "25gvufw1y",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "30px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "4n4pzo3ja",
+                 "element": "p",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "t57x1mkpb"
+                }
+               ],
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "ume08u2up"
+              },
+              {
+               "baseStyles": {
+                "backgroundColor": "#ff0000",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "height": "4px",
+                "overflow": "hidden",
+                "position": "static",
+                "width": "104px"
+               },
+               "blockId": "njaxmb23y",
+               "blockName": "container",
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "6o2aycmf4"
+              },
+              {
+               "baseStyles": {
+                "alignItems": "flex-start",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "12px",
+                "height": "247px",
+                "justifyContent": "flex-start",
+                "paddingBottom": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "paddingTop": "0px",
+                "position": "relative"
+               },
+               "blockId": "tjhb8cacf",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "blmus9aoo",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "oogsygxrk"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "elpmafdbw",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "6rjvxbj06"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "ou1a048xv",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "759u8bxv3"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "femkzflxm",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "zmmgrxv5o"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "jamatygwx",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "xq6esbkhh"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "xrblyguyn",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "k02hrhr5g"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "camfqx4wd",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "szbfa1qks"
+                }
+               ],
+               "element": "section",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "mqnb36kkz"
+              }
+             ],
+             "element": "section",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "mobileStyles": {
+              "width": "45%"
+             },
+             "referenceBlockId": "tejpy9n3t",
+             "tabletStyles": {
+              "position": "relative",
+              "width": "100px"
+             }
+            },
+            {
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "borderRadius": "0px",
+              "display": "flex",
+              "flexDirection": "column",
+              "gap": "20px",
+              "justifyContent": "flex-start",
+              "padding": "15px 0px 0px",
+              "position": "relative",
+              "width": "200px"
+             },
+             "blockId": "ll5bjiwk8",
+             "children": [
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "8px",
+                "height": "56px",
+                "justifyContent": "flex-start",
+                "padding": "0px",
+                "position": "relative",
+                "width": "208px"
+               },
+               "blockId": "dvml999c4",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "30px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "2nwfiupgh",
+                 "element": "p",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "8sgvsf33j"
+                }
+               ],
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "ci13cx5k9"
+              },
+              {
+               "baseStyles": {
+                "backgroundColor": "#ff0000",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "height": "4px",
+                "overflow": "hidden",
+                "position": "static",
+                "width": "104px"
+               },
+               "blockId": "tfppt5881",
+               "blockName": "container",
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "pe04yb5f7"
+              },
+              {
+               "baseStyles": {
+                "alignItems": "flex-start",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "12px",
+                "height": "168px",
+                "justifyContent": "flex-start",
+                "paddingBottom": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "paddingTop": "0px"
+               },
+               "blockId": "eqbohpuw8",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "0z6yzik04",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "dv14mca6d"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "fdgonihff",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "776u70skx"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "kfx6tayyw",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "ly689nllh"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "bpayot8ix",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "1jci72qzq"
+                }
+               ],
+               "element": "section",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "g9hc2gmzy"
+              }
+             ],
+             "element": "section",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "mobileStyles": {
+              "width": "45%"
+             },
+             "referenceBlockId": "9oo1ogf2u",
+             "tabletStyles": {
+              "width": "100px"
+             }
+            },
+            {
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "borderRadius": "0px",
+              "display": "flex",
+              "flexDirection": "column",
+              "gap": "20px",
+              "height": "372px",
+              "justifyContent": "flex-start",
+              "padding": "15px 0px 0px",
+              "width": "200px"
+             },
+             "blockId": "9owk7dy9w",
+             "children": [
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "8px",
+                "height": "56px",
+                "justifyContent": "flex-start",
+                "padding": "0px",
+                "paddingBottom": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "paddingTop": "0px",
+                "position": "relative",
+                "width": "208px"
+               },
+               "blockId": "5cds1la8j",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "30px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "8o2wxoyvk",
+                 "element": "p",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "3i3lv59wf"
+                }
+               ],
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "jrwfd1drl"
+              },
+              {
+               "baseStyles": {
+                "backgroundColor": "#ff0000",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "height": "4px",
+                "overflow": "hidden",
+                "position": "static",
+                "width": "104px"
+               },
+               "blockId": "p4rklhisv",
+               "blockName": "container",
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "bgcqftxf7"
+              },
+              {
+               "baseStyles": {
+                "alignItems": "flex-start",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "12px",
+                "height": "fit-content",
+                "justifyContent": "flex-start",
+                "padding": "13px 0px 0px",
+                "width": "fit-content"
+               },
+               "blockId": "a1wqb3n38",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "b07j6zmjd",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "ekbo25237"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "6d2qips9t",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "2k1wwjl7l"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "5tboud3g0",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "xku5yf4jg"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "bgndq7u6a",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "3o1opk6hn"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "yf16luc1j",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "da2lu491n"
+                },
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "16px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "zwmf2894l",
+                 "element": "a",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "sxut4q2vq"
+                }
+               ],
+               "element": "section",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "e7abhyq8s"
+              }
+             ],
+             "element": "section",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "mobileStyles": {
+              "width": "45%"
+             },
+             "referenceBlockId": "6otm2qw9i",
+             "tabletStyles": {
+              "position": "relative",
+              "width": "100px"
+             }
+            },
+            {
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "borderRadius": "0px",
+              "display": "flex",
+              "flexDirection": "column",
+              "gap": "20px",
+              "justifyContent": "flex-start",
+              "padding": "0px",
+              "position": "relative",
+              "width": "200px"
+             },
+             "blockId": "nogx3we1q",
+             "children": [
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "8px",
+                "height": "68px",
+                "justifyContent": "flex-start",
+                "padding": "0px",
+                "paddingBottom": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "paddingTop": "0px",
+                "position": "relative",
+                "width": "208px"
+               },
+               "blockId": "32af1vhhk",
+               "children": [
+                {
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "color": "#ffffff",
+                  "display": "flex",
+                  "fontSize": "30px",
+                  "letterSpacing": "0%",
+                  "lineHeight": "150%",
+                  "padding": "15px 0px 0px",
+                  "whiteSpace": "wrap"
+                 },
+                 "blockId": "ddy0ueejn",
+                 "element": "p",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "trdav2xj5"
+                }
+               ],
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "zp4rc22x7"
+              },
+              {
+               "baseStyles": {
+                "backgroundColor": "#ff0000",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "height": "4px",
+                "overflow": "hidden",
+                "position": "static",
+                "width": "104px"
+               },
+               "blockId": "jdziscfxl",
+               "blockName": "container",
+               "element": "div",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "0lor0bzm7"
+              },
+              {
+               "baseStyles": {
+                "alignItems": "flex-start",
+                "borderRadius": "0px",
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "12px",
+                "height": "317px",
+                "justifyContent": "flex-start",
+                "paddingBottom": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "paddingTop": "0px",
+                "width": "253px"
+               },
+               "blockId": "7t0i4bcpg",
+               "children": [
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "30px",
+                  "height": "fit-content",
+                  "overflow": "hidden",
+                  "width": "fit-content"
+                 },
+                 "blockId": "l1m9no1k1",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "#ff0000",
+                    "height": "32px",
+                    "width": "32px"
+                   },
+                   "blockId": "73bgh3jtv",
+                   "element": "div",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "fkkk9nn68"
+                  },
+                  {
+                   "baseStyles": {
+                    "alignItems": "center",
+                    "color": "#ffffff",
+                    "display": "flex",
+                    "fontSize": "16px",
+                    "letterSpacing": "0%",
+                    "lineHeight": "150%",
+                    "whiteSpace": "wrap"
+                   },
+                   "blockId": "gw9ou8qxg",
+                   "element": "a",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "referenceBlockId": "ppk6espyf"
+                  }
+                 ],
+                 "element": "div",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "klznkcnu7"
+                },
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "30px",
+                  "height": "fit-content",
+                  "overflow": "hidden",
+                  "width": "fit-content"
+                 },
+                 "blockId": "m8mn41x44",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "#ff0000",
+                    "height": "32px",
+                    "width": "32px"
+                   },
+                   "blockId": "kumc05z31",
+                   "element": "div",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "32uw9ar99"
+                  },
+                  {
+                   "baseStyles": {
+                    "alignItems": "center",
+                    "color": "#ffffff",
+                    "display": "flex",
+                    "fontSize": "16px",
+                    "letterSpacing": "0%",
+                    "lineHeight": "150%",
+                    "whiteSpace": "wrap"
+                   },
+                   "blockId": "xj58iq5dl",
+                   "element": "a",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "referenceBlockId": "1qacwzciu"
+                  }
+                 ],
+                 "element": "div",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "2s19mr3st"
+                },
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "30px",
+                  "height": "fit-content",
+                  "overflow": "hidden",
+                  "width": "fit-content"
+                 },
+                 "blockId": "czmo1kbg0",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "#ff0000",
+                    "height": "32px",
+                    "width": "32px"
+                   },
+                   "blockId": "lzlt3qjjk",
+                   "element": "div",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "pvjvq13v7"
+                  },
+                  {
+                   "baseStyles": {
+                    "alignItems": "center",
+                    "color": "#ffffff",
+                    "display": "flex",
+                    "fontSize": "16px",
+                    "letterSpacing": "0%",
+                    "lineHeight": "150%",
+                    "whiteSpace": "wrap"
+                   },
+                   "blockId": "4oyl81p4e",
+                   "element": "a",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "referenceBlockId": "r2hwz0vdo"
+                  }
+                 ],
+                 "element": "div",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "ux6k055b8"
+                },
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "30px",
+                  "height": "fit-content",
+                  "overflow": "hidden",
+                  "width": "fit-content"
+                 },
+                 "blockId": "kfqoxu421",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "#ff0000",
+                    "height": "32px",
+                    "width": "32px"
+                   },
+                   "blockId": "vsnxncx9n",
+                   "element": "div",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "gr0sjuvcj"
+                  },
+                  {
+                   "baseStyles": {
+                    "alignItems": "center",
+                    "color": "#ffffff",
+                    "display": "flex",
+                    "fontSize": "16px",
+                    "letterSpacing": "0%",
+                    "lineHeight": "150%",
+                    "whiteSpace": "wrap"
+                   },
+                   "blockId": "fmnqhbavw",
+                   "element": "a",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "referenceBlockId": "q0y7wg30s"
+                  }
+                 ],
+                 "element": "div",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "angoflatu"
+                },
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "30px",
+                  "height": "fit-content",
+                  "overflow": "hidden",
+                  "width": "fit-content"
+                 },
+                 "blockId": "wqncc9yqc",
+                 "blockName": "container",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "#ff0000",
+                    "height": "32px",
+                    "width": "32px"
+                   },
+                   "blockId": "c89p467p7",
+                   "element": "div",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "originalElement": "__raw_html__",
+                   "referenceBlockId": "5e8qpne6t"
+                  },
+                  {
+                   "baseStyles": {
+                    "alignItems": "center",
+                    "color": "#ffffff",
+                    "display": "flex",
+                    "fontSize": "16px",
+                    "letterSpacing": "0%",
+                    "lineHeight": "150%",
+                    "whiteSpace": "wrap"
+                   },
+                   "blockId": "3zmk4w073",
+                   "element": "a",
+                   "isChildOfComponent": "fa25a8618c4a5010",
+                   "isRepeaterBlock": false,
+                   "referenceBlockId": "sun24wbaw"
+                  }
+                 ],
+                 "element": "div",
+                 "isChildOfComponent": "fa25a8618c4a5010",
+                 "isRepeaterBlock": false,
+                 "referenceBlockId": "7cwxiekc6"
+                }
+               ],
+               "element": "section",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "4nl1u38nk"
+              }
+             ],
+             "element": "section",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "mobileStyles": {
+              "width": "45%"
+             },
+             "referenceBlockId": "t1hdaeyc9",
+             "tabletStyles": {
+              "width": "100px"
+             }
+            }
+           ],
+           "element": "section",
+           "isChildOfComponent": "fa25a8618c4a5010",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "10px",
+            "gridAutoColumns": "minmax(0, 1fr)",
+            "gridAutoRows": "minmax(0, 1fr)",
+            "gridTemplateColumns": "repeat(1, minmax(0, 1fr))",
+            "gridTemplateRows": "repeat(, minmax(0, 1fr))",
+            "height": "fit-content",
+            "width": "100%"
+           },
+           "referenceBlockId": "rvga1avu4",
+           "tabletStyles": {
+            "position": "relative"
+           }
+          }
+         ],
+         "element": "section",
+         "isChildOfComponent": "fa25a8618c4a5010",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "50px"
+         },
+         "referenceBlockId": "6ydlu5r28"
+        },
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "borderRadius": "0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "paddingTop": "0px",
+          "width": "100%"
+         },
+         "blockId": "34lfqwm2f",
+         "children": [
+          {
+           "baseStyles": {
+            "alignItems": "center",
+            "borderRadius": "0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": "8px",
+            "justifyContent": "flex-start",
+            "paddingBottom": "0px",
+            "paddingLeft": "10px",
+            "paddingRight": "10px",
+            "paddingTop": "0px"
+           },
+           "blockId": "7tswd47mt",
+           "children": [
+            {
+             "baseStyles": {
+              "alignItems": "center",
+              "color": "rgb(124, 124, 124)",
+              "display": "flex",
+              "fontSize": "14px",
+              "letterSpacing": "0%",
+              "lineHeight": "150%",
+              "whiteSpace": "wrap"
+             },
+             "blockId": "uhvhoso3z",
+             "element": "p",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "referenceBlockId": "9aczpqd54"
+            }
+           ],
+           "element": "div",
+           "isChildOfComponent": "fa25a8618c4a5010",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "paddingLeft": "0px",
+            "width": "100%"
+           },
+           "referenceBlockId": "fqe122bno"
+          },
+          {
+           "baseStyles": {
+            "alignItems": "center",
+            "borderRadius": "0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": "10px",
+            "justifyContent": "flex-start",
+            "paddingBottom": "0px",
+            "paddingLeft": "0px",
+            "paddingRight": "0px",
+            "paddingTop": "0px"
+           },
+           "blockId": "97p4xazlh",
+           "children": [
+            {
+             "attributes": {
+              "placeholder": "Enter your email"
+             },
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "rgb(243, 243, 243)",
+              "borderRadius": "8px",
+              "boxShadow": "0px 0px 0px rgb(199, 199, 199)",
+              "display": "flex",
+              "flexDirection": "row",
+              "gap": "14px",
+              "height": "28px",
+              "justifyContent": "flex-start",
+              "paddingBottom": "6px",
+              "paddingLeft": "8px",
+              "paddingRight": "8px",
+              "paddingTop": "6px",
+              "width": "200px"
+             },
+             "blockId": "ev2ngeyq1",
+             "element": "input",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "referenceBlockId": "645lq7cag"
+            },
+            {
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "rgb(23, 23, 23)",
+              "borderRadius": "8px",
+              "display": "flex",
+              "flexDirection": "row",
+              "gap": "8px",
+              "justifyContent": "center",
+              "paddingBottom": "6px",
+              "paddingLeft": "8px",
+              "paddingRight": "8px",
+              "paddingTop": "6px"
+             },
+             "blockId": "xv2hvgzmw",
+             "children": [
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "color": "rgb(255, 255, 255)",
+                "display": "flex",
+                "fontSize": "14px",
+                "letterSpacing": "0.5%",
+                "lineHeight": "114.99999761581421%",
+                "overflow": "hidden",
+                "textOverflow": "ellipsis",
+                "whiteSpace": "nowrap"
+               },
+               "blockId": "h3nt7syq0",
+               "element": "p",
+               "innerHTML": "Subscribe",
+               "isChildOfComponent": "fa25a8618c4a5010",
+               "isRepeaterBlock": false,
+               "referenceBlockId": "ux63onfor"
+              }
+             ],
+             "element": "button",
+             "isChildOfComponent": "fa25a8618c4a5010",
+             "isRepeaterBlock": false,
+             "referenceBlockId": "mq8efk8vb"
+            }
+           ],
+           "element": "section",
+           "isChildOfComponent": "fa25a8618c4a5010",
+           "isRepeaterBlock": false,
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "referenceBlockId": "knhbzjtaw"
+          }
+         ],
+         "element": "section",
+         "isChildOfComponent": "fa25a8618c4a5010",
+         "isRepeaterBlock": false,
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "20px"
+         },
+         "referenceBlockId": "miwqn1o73"
+        }
+       ],
+       "element": "section",
+       "isChildOfComponent": "fa25a8618c4a5010",
+       "isRepeaterBlock": false,
+       "mobileStyles": {
+        "gap": "67px"
+       },
+       "referenceBlockId": "psli81g2p"
+      }
+     ],
+     "componentVersion": "fjilieh1qc",
+     "extendedFromComponent": "fa25a8618c4a5010",
+     "isRepeaterBlock": false
+    }
+   ],
+   "draggable": false,
+   "element": "div",
+   "isRepeaterBlock": false,
+   "originalElement": "body"
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "JavaScript-2cdc0"
+  },
+  {
+   "builder_script": "CSS-01a87"
+  }
+ ],
+ "creation": "2026-10-20 12:38:30.420494",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 0,
+ "modified": "2026-11-16 10:32:06.714183",
+ "modified_by": "Administrator",
+ "name": "page-062324fc",
+ "owner": "Administrator",
+ "page_name": "page-062324fc",
+ "page_title": "Regions and Branches",
+ "preview": "/assets/builder/images/fallback.png",
+ "project_folder": "kenya_red_cross_website",
+ "published": 1,
+ "published_at": "2026-11-04 11:01:07.092982",
+ "route": "pages/Regions and Branches",
+ "staging": 0
+}

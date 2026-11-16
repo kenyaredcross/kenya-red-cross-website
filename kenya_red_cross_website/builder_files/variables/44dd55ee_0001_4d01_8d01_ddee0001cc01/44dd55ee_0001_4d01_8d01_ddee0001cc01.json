@@ -1,0 +1,16 @@
+{
+ "creation": "2026-10-28 11:40:11.107545",
+ "dark_value": "#131417",
+ "docstatus": 0,
+ "doctype": "Builder Token",
+ "group": "keys",
+ "idx": 0,
+ "is_standard": 0,
+ "modified": "2026-10-28 11:40:11.107545",
+ "modified_by": "Administrator",
+ "name": "44dd55ee-0001-4d01-8d01-ddee0001cc01",
+ "owner": "Administrator",
+ "token_name": "paper",
+ "type": "Color",
+ "value": "#FAFAF8"
+}
